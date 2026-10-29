@@ -1,11 +1,11 @@
 # VibeCruiser Picks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Playable vibe-coded games, toys and generative art, picked from the 7286 live projects
+Playable vibe-coded games, toys and generative art, picked from the 7348 live projects
 on [VibeCruiser](https://vibecruiser.com/?ref=picks). Every one runs in your browser from its creator's own site, with
 nothing to install. Each entry links to its page on VibeCruiser and to its source on GitHub.
 
 The list is regenerated from the VibeCruiser database every night, so it only lists projects
-that are live right now. Last updated 2026-10-28. Or skip the list and
+that are live right now. Last updated 2026-10-29. Or skip the list and
 [start cruising](https://vibecruiser.com/cruise?ref=picks): one project fills the screen, press next for another.
 
 ## Play
@@ -30,7 +30,7 @@ the slug in your project's VibeCruiser URL, `vibecruiser.com/v/<slug>`):
 
 ## Today's vibe
 
-**[pamun ripple tank](https://vibecruiser.com/v/jeiel85--pamun-ripple-tank?ref=picks)** — 물방울을 떨어뜨리면 물결이 퍼지고, 울림돌에 닿을 때마다 소리가 나요. 멀리 있는 돌일수록 늦게 울립니다. 거리가 박자, 높이가 음정입니다. \*\*▶ 바로 열기\: · English 설치 없이 링크 하나로 PC와 폰 브라우저에서 바로 됩니다. 만든… · [source](https://github.com/jeiel85/pamun-ripple-tank)
+**[Blob Coin Dash](https://vibecruiser.com/v/magicneoongit--blob-coin-dash?ref=picks)** — In this game, you play as a blob, whose main goal is to grab all ten coins, scattered across different platforms, while simultaneously… · [source](https://github.com/MagicNeoOnGit/Blob-Coin-Dash)
 
 A new one every day at [vibecruiser.com/today](https://vibecruiser.com/today?ref=picks).
 
@@ -189,7 +189,7 @@ Claude Code is Anthropic's coding agent: it runs in your terminal or editor, rea
 - [Pocket Soccer](https://vibecruiser.com/v/sbugrayy--pocket-soccer?ref=picks) - A Soccer Stars-inspired browser game built with Claude Fable 5, featuring physics-based disc shooting mechanics and real-time match play… · [source](https://github.com/sbugrayy/Pocket-Soccer) ⭐ 1
 - [nova lancer](https://vibecruiser.com/v/tanuu5--nova-lancer?ref=picks) - Claude Code × Claude Opus 5.5（MAX） で、依頼 1 回・約 1 時間 40 分で作りました（トークン使用量は制作についてに記載）。 スターフォックス系の 3D レールシューティングを、ブラウザ向けにゼロから作ったオリジナル作品です。… · [source](https://github.com/tanuu5/nova-lancer) ⭐ 7
 
-[See all 260 on VibeCruiser →](https://vibecruiser.com/t/claude-code?ref=picks)
+[See all 262 on VibeCruiser →](https://vibecruiser.com/t/claude-code?ref=picks)
 
 ### Games built with Lovable
 
@@ -299,7 +299,7 @@ Creative coding is writing software to make something you look at or play with, 
 - [szopka](https://vibecruiser.com/v/agata-c--szopka?ref=picks) - A Kraków folk-art tradition, built in code. An interactive 3D szopka krakowska floating in space\: foil-bright towers, a dragon in his cave… · [source](https://github.com/agata-c/szopka)
 - [rain on glass](https://vibecruiser.com/v/hixly--rain-on-glass?ref=picks) - An interactive rainy window at night. Wipe the fogged glass with your hand, watch the city come into focus, and wait for it to steam back… · [source](https://github.com/Hixly/rain-on-glass)
 
-[See all 924 on VibeCruiser →](https://vibecruiser.com/t/creative-coding?ref=picks)
+[See all 934 on VibeCruiser →](https://vibecruiser.com/t/creative-coding?ref=picks)
 
 ## Generative art
 
@@ -312,16 +312,16 @@ Generative art is art made by a system: you write the rules, the code rolls the 
 - [aetheria](https://vibecruiser.com/v/sethmed7--aetheria?ref=picks) - Generative backgrounds, tuned by hand. A free, installable WebGL studio for cinematic backgrounds. Everything runs locally in the browser… · [source](https://github.com/SethMed7/aetheria)
 - [murph tesseract](https://vibecruiser.com/v/phoebes-debug--murph-tesseract?ref=picks) - A walk through the Tesseract from Interstellar — where time is no longer a line you fall down, but a room you can step inside, and a book… · [source](https://github.com/phoebes-debug/murph-tesseract)
 - [sticker alphabet](https://vibecruiser.com/v/skeku--sticker-alphabet?ref=picks) - Type a word, get it spelled out in fruit stickers. Download it as a PNG or share it. Inspired by this photo by \@rare\_jpg. Made by \@Skeku… · [source](https://github.com/Skeku/sticker-alphabet)
+- [pure smoke](https://vibecruiser.com/v/exos45xyz--pure-smoke?ref=picks) - Particle smoke in a glass cube. Free and open source under the MIT licence, made with three.js. Most smoke on the web is a video. This one… · [source](https://github.com/Exos45xyz/pure-smoke)
+- [gradient flow background](https://vibecruiser.com/v/afeiisfine--gradient-flow-background?ref=picks) - 本项目作者完全不懂开发，所有代码、功能都是 AI 写的，包括这份说明文档。如果有低级错误，请见谅。 一个网页工具：做出会缓慢流动的彩色渐变背景。纯 WebGL 实时渲染，零依赖、离线可用、不用安装任何东西。 配色来自 10 套预设 + 色带上 12… · [source](https://github.com/AfeiIsFine/gradient-flow-background)
+- [One HTML Design](https://vibecruiser.com/v/moreani--one-html-design?ref=picks) - Canvas 2D, CSS and vanilla JavaScript only. Lumen traces its rays in JavaScript; Proof magnifies a real DOM copy of the article and draws… · [source](https://github.com/moreani/One-HTML-Design)
+- [kintsugi webgpu](https://vibecruiser.com/v/tahabakri--kintsugi-webgpu?ref=picks) - ▶ Open the live demo · needs a browser with WebGPU (Chrome or Edge) Break a porcelain bowl in your browser, then put it back together with… · [source](https://github.com/tahabakri/kintsugi-webgpu)
+- [fractal explorer](https://vibecruiser.com/v/celaldrg--fractal-explorer?ref=picks) - Eight fractal families\: Mandelbrot, Julia (any c), Burning Ship, Tricorn and Multibrot z^d + c for d = 3 to 6. Progressive rendering on a… · [source](https://github.com/celaldrg/fractal-explorer)
 - [bql mv](https://vibecruiser.com/v/yenefa--bql-mv?ref=picks) - 一个纯 Canvas 2D 实时绘制的水墨 MV：零图片素材、零第三方前端依赖，16\:9，完整 2\:53。 在线预览（静音演示） · 验收预览图 山水、云气、月宫、梅枝、仙鹤、旅人、湖面、小舟、天灯、芦苇全部由代码实时生成，没有一张图片素材。 7… · [source](https://github.com/Yenefa/bql-mv)
 - [p atlas open source](https://vibecruiser.com/v/tstrangers--p-atlas-open-source?ref=picks) - 示例收藏含 378 张原始记录 → 339 个星点 · 501 个不同 P 值。连线表示共享 P 值，不是语义相似度、模型训练关系或效果保证。这里的 P 指 Midjourney 的 --p / --profile 个性化参数，不是统计学 p-value。 打开 。不需要… · [source](https://github.com/tstrangers/p-atlas-open-source)
 - [qr volde](https://vibecruiser.com/v/harmless-beep--qr-volde?ref=picks) - A giant 3D QR code that unfolds into a living Himalayan chowk. QR Volde is a scroll-driven 3D web experience. A dark-square QR monolith… · [source](https://github.com/harmless-beep/qr-volde)
-- [Chladni Particles](https://vibecruiser.com/v/octaviaan--chladni-particles?ref=picks) - Generative art simulation built with Three.js. This project simulates Chladni figures (nodal patterns formed on vibrating plates) using a… · [source](https://github.com/octaviaan/Chladni-Particles)
-- [eternal garden](https://vibecruiser.com/v/cartoonto626--eternal-garden?ref=picks) - A meditative fractal tree that sways with your device's tilt and changes colors with a touch. · [source](https://github.com/cartoonto626/eternal-garden)
-- [magical risograph](https://vibecruiser.com/v/melodicbloom--magical-risograph?ref=picks) - A brutalist, tactile web experience built around the rituals of letterpress printing. MÄG-RISO simulates a working print shop — from the… · [source](https://github.com/MelodicBloom/magical-risograph) ⭐ 1
-- [generative art gallery](https://vibecruiser.com/v/aljazfrancic--generative-art-gallery?ref=picks) - An interactive gallery of generative art algorithms, drawn in real time in your browser with p5.js. Flow fields, fractals, cellular… · [source](https://github.com/aljazfrancic/generative-art-gallery) ⭐ 3
-- [lawbox](https://vibecruiser.com/v/mmgrt--lawbox?ref=picks) - A pocket universe you can ruin, beautifully. You are not a player here. You don't steer a character — you \*edit the laws of a tiny… · [source](https://github.com/mmgrt/lawbox) ⭐ 1
 
-[See all 665 on VibeCruiser →](https://vibecruiser.com/t/generative-art?ref=picks)
+[See all 670 on VibeCruiser →](https://vibecruiser.com/t/generative-art?ref=picks)
 
 ## JavaScript games
 
@@ -343,7 +343,7 @@ JavaScript is the language every browser speaks, so it is the engine under nearl
 - [capybara delivery 3d](https://vibecruiser.com/v/21cabbagee--capybara-delivery-3d?ref=picks) - Play as a chill capybara delivering food on a bicycle. Stack orders to the sky, manage deliveries on your in-game smartphone, cruise… · [source](https://github.com/21cabbagee/capybara-delivery-3d)
 - [arcade racing](https://vibecruiser.com/v/stackoverflowisbetterthananyai--arcade-racing?ref=picks) - This is an arcade racing game in 8-bit style. This JavaScript game was developed to explore Vibe Coding and discover its current… · [source](https://github.com/StackOverflowIsBetterThanAnyAI/arcade-racing) ⭐ 1
 
-[See all 2951 on VibeCruiser →](https://vibecruiser.com/t/javascript?ref=picks)
+[See all 2977 on VibeCruiser →](https://vibecruiser.com/t/javascript?ref=picks)
 
 ## Three.js demos
 
@@ -365,7 +365,7 @@ Three.js is the library behind most 3D you see in a browser: it wraps WebGL so a
 - [Git World](https://vibecruiser.com/v/ashusriwastav07--git-world?ref=picks) - A 3D Minecraft-style city where every GitHub developer becomes a building. The more you code, the taller your building grows. Explore… · [source](https://github.com/AshuSriwastav07/Git-World) ⭐ 2
 - [ninjago french](https://vibecruiser.com/v/willgdjones--ninjago-french?ref=picks) - Play it\: ninjago-french.pages.dev (landscape, an iPad is best) A French reading and listening battle game I built for my son, who is… · [source](https://github.com/willgdjones/ninjago-french)
 
-[See all 1121 on VibeCruiser →](https://vibecruiser.com/t/threejs?ref=picks)
+[See all 1136 on VibeCruiser →](https://vibecruiser.com/t/threejs?ref=picks)
 
 ## Canvas demos
 
@@ -384,10 +384,10 @@ The HTML canvas is a blank rectangle of pixels a page can draw on directly, fram
 - [hoops88](https://vibecruiser.com/v/carlossardo--hoops88?ref=picks) - ▶ Play HOOPS '88 online No install, no build step, no dependencies. Just open it and shoot. Hold the shoot key to charge the power meter… · [source](https://github.com/CarlosSardo/hoops88) ⭐ 2
 - [sticker alphabet](https://vibecruiser.com/v/skeku--sticker-alphabet?ref=picks) - Type a word, get it spelled out in fruit stickers. Download it as a PNG or share it. Inspired by this photo by \@rare\_jpg. Made by \@Skeku… · [source](https://github.com/Skeku/sticker-alphabet)
 - [casadegema](https://vibecruiser.com/v/deepujain--casadegema?ref=picks) - A little garden of hidden gems. Casa de Gemas is a tiny interactive watercolor world made as a Happy Daughter's Day gift\: a whitewashed… · [source](https://github.com/deepujain/casadegema)
-- [gomoku](https://vibecruiser.com/v/celaldrg--gomoku?ref=picks) - Wooden 15x15 board drawn on canvas\: star points, coordinates on larger screens, shaded stones, last-move marker, winning-line highlight and… · [source](https://github.com/celaldrg/gomoku)
-- [word search](https://vibecruiser.com/v/celaldrg--word-search?ref=picks) - A classic word search that runs in the browser\: no install, no sign-up, no ads and no tracking. Pick a category, drag across the hidden… · [source](https://github.com/celaldrg/word-search)
+- [air hockey](https://vibecruiser.com/v/celaldrg--air-hockey?ref=picks) - Real table physics with a fixed 1/120 s time step\: rounded corners, goal posts, wall restitution, light friction and a speed cap. Swept… · [source](https://github.com/celaldrg/air-hockey)
+- [NEXUS... Pong](https://vibecruiser.com/v/jomutinho-creator--nexus--pong?ref=picks) - Um jogo arcade futurista para navegador que mistura pingue-pongue, futebol e uma rodada especial de roleta. NEXUS Arena é um jogo… · [source](https://github.com/jomutinho-creator/NEXUS...-Pong-)
 
-[See all 1404 on VibeCruiser →](https://vibecruiser.com/t/canvas?ref=picks)
+[See all 1425 on VibeCruiser →](https://vibecruiser.com/t/canvas?ref=picks)
 
 ## WebGL demos
 
@@ -409,7 +409,7 @@ WebGL lets a web page talk straight to your graphics card, which is how a browse
 - [v gallery](https://vibecruiser.com/v/lexbayart--v-gallery?ref=picks) - A 3D corridor of colored cards bent into a V — you scroll through it, hover brings a card to the front, and a click drops a new card into… · [source](https://github.com/lexbayart/v-gallery)
 - [meridian line](https://vibecruiser.com/v/albertoit-23--meridian-line?ref=picks) - A browser FPS set in a detailed 3D subway station, built with three.js. Hold the platform at Meridian St\: the first wave climbs up from the… · [source](https://github.com/AlbertoIT-23/meridian-line)
 
-[See all 970 on VibeCruiser →](https://vibecruiser.com/t/webgl?ref=picks)
+[See all 981 on VibeCruiser →](https://vibecruiser.com/t/webgl?ref=picks)
 
 ## TypeScript games
 
@@ -426,12 +426,12 @@ TypeScript is JavaScript with types bolted on, compiled down before it reaches y
 - [flappy bird ultra](https://vibecruiser.com/v/aryribeiro--flappy-bird-ultra?ref=picks) - Flappy Bird com tiro\: voe pelos canos, atire nos inimigos com ESPAÇO, compre armas no meio do voo (sem pausa) e entre no ranking Top 10… · [source](https://github.com/aryribeiro/flappy-bird-ultra)
 - [HorseLegend](https://vibecruiser.com/v/xiubia--horselegend?ref=picks) - 一款融合 AI 动态内容生成的 3D 赛马养成游戏，基于 Three.js + TypeScript + Vite 构建 🤖 AI 实时生成关卡 — Gemini/DeepSeek 在线生成跑酷赛道（ASCII → 3D）. 🏇 AI 控制对手 — GeminiRacer… · [source](https://github.com/xiubia/HorseLegend)
 - [slime escape](https://vibecruiser.com/v/alxdos--slime-escape?ref=picks) - Escape the slime nightmare\: survive the waves while the darkness closes in, use the short breaks when it pulls back, and defeat the one who… · [source](https://github.com/alxdos/slime-escape) ⭐ 1
+- [Vector Rocks](https://vibecruiser.com/v/vedjuk--vector-rocks?ref=picks) - A Deluxe-style vector shooter for the browser. Inertia flight, breaking asteroids, shields, hyperspace and hostile saucers, drawn in… · [source](https://github.com/vedjuk/Vector-Rocks)
+- [Vector Keep](https://vibecruiser.com/v/vedjuk--vector-keep?ref=picks) - A vector siege shooter for the browser. Blast through spinning energy rings, take out the gun at the core and dodge the homing mines it… · [source](https://github.com/vedjuk/Vector-Keep)
+- [kintsugi webgpu](https://vibecruiser.com/v/tahabakri--kintsugi-webgpu?ref=picks) - ▶ Open the live demo · needs a browser with WebGPU (Chrome or Edge) Break a porcelain bowl in your browser, then put it back together with… · [source](https://github.com/tahabakri/kintsugi-webgpu)
 - [typing aquarium](https://vibecruiser.com/v/daimessdn--typing-aquarium?ref=picks) - Typing Aquarium is a petting simulation game by using keyboard. By typing, you can feed the fish and get XP and cash points that you can… · [source](https://github.com/daimessdn/typing-aquarium)
-- [greenhouse game](https://vibecruiser.com/v/dimetrrius--greenhouse-game?ref=picks) - A 3D browser game about a small tomato greenhouse. You pick a variety and take ten plants to harvest\: switch irrigation, grow lights and… · [source](https://github.com/Dimetrrius/greenhouse-game) ⭐ 1
-- [Sky Strike](https://vibecruiser.com/v/jueyi0206--sky-strike?ref=picks) - Sky Strike 1945\: Phoenix Rising｜復古縱向捲軸射擊遊戲，React + TypeScript，可在瀏覽器直接玩 · [source](https://github.com/jueyi0206/Sky-Strike)
-- [daily escape](https://vibecruiser.com/v/tragone1--daily-escape?ref=picks) - There is no finish line. The course keeps going, and every section it throws more police at you, then heavier police, then faster police… · [source](https://github.com/tragone1/daily-escape)
 
-[See all 582 on VibeCruiser →](https://vibecruiser.com/t/typescript?ref=picks)
+[See all 588 on VibeCruiser →](https://vibecruiser.com/t/typescript?ref=picks)
 
 ## GLSL demos
 
@@ -441,6 +441,7 @@ GLSL is the little language that runs on your graphics card, once per pixel, eve
 - [wave arena studio](https://vibecruiser.com/v/yoo-yipeee--wave-arena-studio?ref=picks) - \*\*Give it a song. It reads the whole track, decides what that song is, and performs it as a body of water.\*\* There is also ENTER DEMO — an… · [source](https://github.com/Yoo-yipeee/wave-arena-studio)
 - [crt screen](https://vibecruiser.com/v/geocodecrafter--crt-screen?ref=picks) - Wrap anything in a CRT. Aperture grille, scanlines, vignette, mains flicker — and the content underneath stays live. That selection being… · [source](https://github.com/GeoCodeCrafter/crt-screen)
 - [celadon](https://vibecruiser.com/v/winchxyz--celadon?ref=picks) - A 3D pottery game with nothing in it but code. Throw a pot on a wheel, dry it, trim a foot, glaze it, fire it — and then find out what the… · [source](https://github.com/winchxyz/celadon)
+- [gradient flow background](https://vibecruiser.com/v/afeiisfine--gradient-flow-background?ref=picks) - 本项目作者完全不懂开发，所有代码、功能都是 AI 写的，包括这份说明文档。如果有低级错误，请见谅。 一个网页工具：做出会缓慢流动的彩色渐变背景。纯 WebGL 实时渲染，零依赖、离线可用、不用安装任何东西。 配色来自 10 套预设 + 色带上 12… · [source](https://github.com/AfeiIsFine/gradient-flow-background)
 - [particle system](https://vibecruiser.com/v/mankydanky--particle-system?ref=picks) - I made a particle system maker with WebGPU and JavaScript. I used compute shaders for the physics and GPU instancing for rendering to… · [source](https://github.com/MankyDanky/particle-system) ⭐ 30
 - [mandelbrot](https://vibecruiser.com/v/kargjonas--mandelbrot?ref=picks) - The "compressed" branch contains the compressed version. No support for touchscreens yet.. · [source](https://github.com/KargJonas/mandelbrot)
 - [nucleo interface](https://vibecruiser.com/v/aladimm--nucleo-interface?ref=picks) - Uma interface de conversa por voz e texto com o Claude, representado por uma forma viva feita de milhares de partículas 3D. As partículas… · [source](https://github.com/Aladimm/nucleo-interface)
@@ -451,9 +452,8 @@ GLSL is the little language that runs on your graphics card, once per pixel, eve
 - [phosphene](https://vibecruiser.com/v/maxsorto--phosphene?ref=picks) - A psychedelic audio visualizer that runs in your browser. Twelve GPU shader worlds (fractals, a wormhole, liquid light, a raymarched… · [source](https://github.com/maxsorto/phosphene)
 - [aurora night](https://vibecruiser.com/v/kashishsrivas--aurora-night?ref=picks) - Aurora Night is a quiet, one-page 3D web experience. A visitor enters an open landscape at night and sees a solitary seated woman from… · [source](https://github.com/kashishsrivas/aurora-night)
 - [afterglow](https://vibecruiser.com/v/lucascent--afterglow?ref=picks) - Those fleeting encounters,\\ those brief, beautiful moments— Could they have planted\\ seeds that quietly take root\\ and live on within our… · [source](https://github.com/lucascent/afterglow)
-- [glitch lab](https://vibecruiser.com/v/serabuilds-lab--glitch-lab?ref=picks) - Live WebGL glitch shader with sliders and presets, recreating a Figma Weave glitch effect in plain code. Recreated from a post by… · [source](https://github.com/serabuilds-lab/glitch-lab)
 
-[See all 215 on VibeCruiser →](https://vibecruiser.com/t/glsl?ref=picks)
+[See all 216 on VibeCruiser →](https://vibecruiser.com/t/glsl?ref=picks)
 
 ## Procedural generation games
 
@@ -466,16 +466,16 @@ Procedural generation means the code builds the world instead of a designer plac
 - [nova lancer](https://vibecruiser.com/v/tanuu5--nova-lancer?ref=picks) - Claude Code × Claude Opus 5.5（MAX） で、依頼 1 回・約 1 時間 40 分で作りました（トークン使用量は制作についてに記載）。 スターフォックス系の 3D レールシューティングを、ブラウザ向けにゼロから作ったオリジナル作品です。… · [source](https://github.com/tanuu5/nova-lancer) ⭐ 7
 - [celadon](https://vibecruiser.com/v/winchxyz--celadon?ref=picks) - A 3D pottery game with nothing in it but code. Throw a pot on a wheel, dry it, trim a foot, glaze it, fire it — and then find out what the… · [source](https://github.com/winchxyz/celadon)
 - [ImADragon onepromptcode game](https://vibecruiser.com/v/jaydemks--imadragon-onepromptcode-game?ref=picks) - A fully procedural Spyro-style 3D platformer in Three.js — built from a single prompt. ▶ Play it in your browser · Read the prompt · Module… · [source](https://github.com/jaydemks/ImADragon_onepromptcode_game)
+- [Last Signal](https://vibecruiser.com/v/hamzakhanbuic--last-signal?ref=picks) - "In the cold depths of Sector 42, silence isn't empty. It's waiting." The Last Signal is a 2D top-down sci-fi survival exploration game… · [source](https://github.com/HamzaKhanBUIC/Last-Signal) ⭐ 1
+- [8bit super mario](https://vibecruiser.com/v/vimaltiwari2612--8bit-super-mario?ref=picks) - A dependency-free, vanilla HTML5 Canvas and JavaScript platformer built in the style of classic 1985 8-bit arcade games. Featuring… · [source](https://github.com/vimaltiwari2612/8bit-super-mario)
 - [nemesis wind](https://vibecruiser.com/v/jeiel85--nemesis-wind?ref=picks) - 《미들 어스\: 섀도우 오브 모르도르 / 섀도우 오브 워》의 네메시스 시스템(Nemesis System) 을 90년대 클래식 2D 도트 MMORPG 《바람의 나라》 감성으로 완벽 결합한 웹 기반 2D 픽셀 아트 액션 RPG "네놈이 헬파이어로 불태워… · [source](https://github.com/jeiel85/nemesis-wind)
 - [dontstarve bear](https://vibecruiser.com/v/sigco3111--dontstarve-bear?ref=picks) - Tim Burton풍의 손그림 생존 게임에 감명을 받아, 끝나지 않는 절차적 야생에서 시베리아 흑곰으로 플레이하는 무한 절차적 3D 생존 게임입니다. 원본\: wormholeportal/Makone 의 worlds/dontstarve 디렉터리 (MIT… · [source](https://github.com/sigco3111/dontstarve-bear)
 - [canopy ditcher](https://vibecruiser.com/v/williamsharkey--canopy-ditcher?ref=picks) - Play it → — first person, WASD, E to ring. ⚠️ Work in progress, handed over mid-build. It runs and it is playable, but five checks are… · [source](https://github.com/williamsharkey/canopy-ditcher)
 - [death return line](https://vibecruiser.com/v/123klh--death-return-line?ref=picks) - 2.5D RPG × 弹幕飞机大战 · 叙事驱动 · 多结局 你操控的不是这个世界的英雄。 你只是一个意外穿越而来的普通人——胆小、怕事、矛盾、懦弱， 却背负着「死亡回归」的诅咒，与这个世界真正的救世主 TY 一起， 在无数次轮回与死亡中，试图拯救一个注定毁灭的世界。 2.5D… · [source](https://github.com/123klh/death-return-line) ⭐ 1
 - [particle system three.js](https://vibecruiser.com/v/sebastianvasquezechavarria1234--particle-system-three-js?ref=picks) - ��# &lt;� � P a r t i c l e U n i v e r s e A n i n t e r a c t i v e 3 D g a l a x y b u i l t w i t h T h r e e . j s , f e a t u r i n g t… · [source](https://github.com/sebastianvasquezechavarria1234/particle-system-three.js)
 - [Cosmic Particle Timeline](https://vibecruiser.com/v/anshvermadev--cosmic-particle-timeline?ref=picks) - "Every atom in your body was forged in a star. We are the cosmos experiencing itself, waking up to build intelligence and set sail for the… · [source](https://github.com/anshvermadev/Cosmic-Particle-Timeline)
-- [wake](https://vibecruiser.com/v/asadrao98--wake?ref=picks) - To see, you must move. To move is to be seen. A browser-based stealth-maze game where vision is tied to motion. Stand still and you go… · [source](https://github.com/asadrao98/wake)
-- [Fraktaler Baum Simulator](https://vibecruiser.com/v/matthiasscg--fraktaler-baum-simulator?ref=picks) - Prozedural generierte 3D-Bäume im Browser\: eine eigenständige HTML-Datei mit WebGL2-Rendering, offline lauffähig, ohne Abhängigkeiten… · [source](https://github.com/MatthiasSCG/Fraktaler-Baum-Simulator)
 
-[See all 267 on VibeCruiser →](https://vibecruiser.com/t/procedural-generation?ref=picks)
+[See all 269 on VibeCruiser →](https://vibecruiser.com/t/procedural-generation?ref=picks)
 
 ## 3D demos
 
@@ -497,7 +497,7 @@ Full 3D, running in a browser tab: worlds you can orbit, fly through or drive ar
 - [2049](https://vibecruiser.com/v/mruspace--2049?ref=picks) - Lab project. Not part of Mru Flight or Mru Field. A browser flight simulator. You sit in a rocket cockpit and fly anywhere in the solar… · [source](https://github.com/mruspace/2049) ⭐ 1
 - [fishing3d](https://vibecruiser.com/v/lisa-1002--fishing3d?ref=picks) - 作者：刘子峻。原创代码与程序化美术见根目录 LICENSE；第三方素材见 CREDITS.md。 当前鱼模型由 js/fish-gltf.js 按钓场懒加载 vendor/fish/real/ 的写实 CC0 GLB（见… · [source](https://github.com/lisa-1002/fishing3d)
 
-[See all 219 on VibeCruiser →](https://vibecruiser.com/t/3d?ref=picks)
+[See all 220 on VibeCruiser →](https://vibecruiser.com/t/3d?ref=picks)
 
 ## React games
 
@@ -506,6 +506,8 @@ React is the most common way to build a web interface, and a lot of AI coding to
 - [Magic Mouse Movements](https://vibecruiser.com/v/abexiong--magic-mouse-movements?ref=picks) - Complete, accessible cursor effect kits for product stories, portfolios, data reveals, guided navigation, and experimental websites. Try… · [source](https://github.com/abexiong/Magic-Mouse-Movements) ⭐ 2
 - [Git World](https://vibecruiser.com/v/ashusriwastav07--git-world?ref=picks) - A 3D Minecraft-style city where every GitHub developer becomes a building. The more you code, the taller your building grows. Explore… · [source](https://github.com/AshuSriwastav07/Git-World) ⭐ 2
 - [vibratz rat city](https://vibecruiser.com/v/om-gaikhe--vibratz-rat-city?ref=picks) - A playful, mobile-first city exploration app where you play as a rat scurrying through New York City — sniffing out bodegas 🏪, cheese 🧀… · [source](https://github.com/Om-Gaikhe/vibratz-rat-city)
+- [glass archive](https://vibecruiser.com/v/sameersamiisam5-cpu--glass-archive?ref=picks) - A cinematic, scroll-driven 3D architectural portfolio and interactive monograph blending Japanese aesthetics, custom WebGL/Three.js… · [source](https://github.com/sameersamiisam5-cpu/glass-archive)
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
 - [Sky Strike](https://vibecruiser.com/v/jueyi0206--sky-strike?ref=picks) - Sky Strike 1945\: Phoenix Rising｜復古縱向捲軸射擊遊戲，React + TypeScript，可在瀏覽器直接玩 · [source](https://github.com/jueyi0206/Sky-Strike)
 - [wake](https://vibecruiser.com/v/asadrao98--wake?ref=picks) - To see, you must move. To move is to be seen. A browser-based stealth-maze game where vision is tied to motion. Stand still and you go… · [source](https://github.com/asadrao98/wake)
 - [Frostline](https://vibecruiser.com/v/razikuljoni--frostline?ref=picks) - Frostline Plow Co. is a cozy, responsive 3D snow-plowing simulation game built with Next.js 15 (App Router), Three.js (WebGL), Web Audio… · [source](https://github.com/razikuljoni/Frostline)
@@ -516,10 +518,8 @@ React is the most common way to build a web interface, and a lot of AI coding to
 - [stormbreakers](https://vibecruiser.com/v/aotefan--stormbreakers?ref=picks) - A free, open-source 3D naval battle browser game. Sail, fire broadsides, survive moving waterspouts, and compete for treasure in… · [source](https://github.com/aotefan/stormbreakers)
 - [projection](https://vibecruiser.com/v/noamshalom--projection?ref=picks) - A spatial puzzle game about orthographic projections. You look at a small sculpture and reason about how it looks from the top, the front… · [source](https://github.com/Noamshalom/projection)
 - [2049](https://vibecruiser.com/v/mruspace--2049?ref=picks) - Lab project. Not part of Mru Flight or Mru Field. A browser flight simulator. You sit in a rocket cockpit and fly anywhere in the solar… · [source](https://github.com/mruspace/2049) ⭐ 1
-- [KnotzMoonPatrol](https://vibecruiser.com/v/knotenvy--knotzmoonpatrol?ref=picks) - Moon Patrol\: Void Runner — a modern remake of the arcade classic Free, in your browser, no install. Version v1.0.0-beta.1. Void Runner is a… · [source](https://github.com/KnotEnvy/KnotzMoonPatrol)
-- [arcade invaders](https://vibecruiser.com/v/tomasvergaraj--arcade-invaders?ref=picks) - Arcade Invaders es un videojuego web 2D construido con Phaser 3 + TypeScript + Vite. Toma la base de Space Invaders y la mezcla con una… · [source](https://github.com/tomasvergaraj/arcade-invaders) ⭐ 1
 
-[See all 202 on VibeCruiser →](https://vibecruiser.com/t/react?ref=picks)
+[See all 204 on VibeCruiser →](https://vibecruiser.com/t/react?ref=picks)
 
 ## Shaders
 
@@ -528,6 +528,9 @@ A shader is a tiny program that runs on the graphics card for every pixel on scr
 - [wave arena studio](https://vibecruiser.com/v/yoo-yipeee--wave-arena-studio?ref=picks) - \*\*Give it a song. It reads the whole track, decides what that song is, and performs it as a body of water.\*\* There is also ENTER DEMO — an… · [source](https://github.com/Yoo-yipeee/wave-arena-studio)
 - [crt screen](https://vibecruiser.com/v/geocodecrafter--crt-screen?ref=picks) - Wrap anything in a CRT. Aperture grille, scanlines, vignette, mains flicker — and the content underneath stays live. That selection being… · [source](https://github.com/GeoCodeCrafter/crt-screen)
 - [rain on glass](https://vibecruiser.com/v/hixly--rain-on-glass?ref=picks) - An interactive rainy window at night. Wipe the fogged glass with your hand, watch the city come into focus, and wait for it to steam back… · [source](https://github.com/Hixly/rain-on-glass)
+- [pure smoke](https://vibecruiser.com/v/exos45xyz--pure-smoke?ref=picks) - Particle smoke in a glass cube. Free and open source under the MIT licence, made with three.js. Most smoke on the web is a video. This one… · [source](https://github.com/Exos45xyz/pure-smoke)
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
+- [gradient flow background](https://vibecruiser.com/v/afeiisfine--gradient-flow-background?ref=picks) - 本项目作者完全不懂开发，所有代码、功能都是 AI 写的，包括这份说明文档。如果有低级错误，请见谅。 一个网页工具：做出会缓慢流动的彩色渐变背景。纯 WebGL 实时渲染，零依赖、离线可用、不用安装任何东西。 配色来自 10 套预设 + 色带上 12… · [source](https://github.com/AfeiIsFine/gradient-flow-background)
 - [SmokeGL](https://vibecruiser.com/v/lucaangioloni--smokegl?ref=picks) - Reproduce the scene of a lit candle. Flame and smoke represented as particles systems. Use shaders and technologies studied to model the… · [source](https://github.com/LucaAngioloni/SmokeGL) ⭐ 21
 - [hand gesture project](https://vibecruiser.com/v/siddhant8019--hand-gesture-project?ref=picks) - A browser-based hand-gesture controlled visual experience. It uses MediaPipe Hand Landmarker to track your hand from a webcam in real time… · [source](https://github.com/siddhant8019/hand_gesture_project)
 - [mandelbrot](https://vibecruiser.com/v/isghe--mandelbrot?ref=picks) - Itero, iteras, iteravi, iteratum, iterare Real-time Mandelbrot and Julia set renderer using the WebGPU API, with double-single precision… · [source](https://github.com/isghe/mandelbrot)
@@ -537,11 +540,8 @@ A shader is a tiny program that runs on the graphics card for every pixel on scr
 - [particle collage](https://vibecruiser.com/v/afeiisfine--particle-collage?ref=picks) - 把一张主图变成由成千上万张小照片组成的粒子拼贴：每颗粒子换成一张素材图，主图的明暗决定每张方块的亮度；镜头可以从照片云里飞入、拼成完整图像；支持 4K、竖屏、透明 PNG 的逐帧导出。 关于作者：阿飞这个名字挺好的（AfeiIsFine）。… · [source](https://github.com/AfeiIsFine/particle-collage)
 - [mirror lake](https://vibecruiser.com/v/lifegameshots--mirror-lake?ref=picks) - 거울처럼 멈춘 고산 호수 위로 고리가 있는 행성이 내려앉는, 새벽 4시 47분의 풍경. Three.js 한 파일로 그린 실시간 장면입니다. Three.js r160을 CDN에서 불러옵니다. 첫 실행에는 인터넷 연결이 필요합니다. WebGL2를 쓰므로… · [source](https://github.com/lifegameshots/mirror-lake)
 - [glitch lab](https://vibecruiser.com/v/serabuilds-lab--glitch-lab?ref=picks) - Live WebGL glitch shader with sliders and presets, recreating a Figma Weave glitch effect in plain code. Recreated from a post by… · [source](https://github.com/serabuilds-lab/glitch-lab)
-- [flooded village](https://vibecruiser.com/v/dariyxyz--flooded-village?ref=picks) - A one-bit boat game about a drowned Japanese village. Collect drifting logs, keep your little boat afloat, rebuild the broken dam. The dam… · [source](https://github.com/DariyXYZ/flooded-village)
-- [lightning generator](https://vibecruiser.com/v/matthewboff--lightning-generator?ref=picks) - Glowing light-ray, comet and lightning visuals, generated in your browser. Dozens of sliders, one-click randomize, export up to 16K. Free… · [source](https://github.com/matthewboff/lightning-generator)
-- [horizon](https://vibecruiser.com/v/sidddevz--horizon?ref=picks) - A black hole drops onto a page of text and bends it, live, in ASCII. Every photon is a letter. The disk is typed by a ray tracer, the page… · [source](https://github.com/SiddDevZ/horizon)
 
-[See all 224 on VibeCruiser →](https://vibecruiser.com/t/shaders?ref=picks)
+[See all 227 on VibeCruiser →](https://vibecruiser.com/t/shaders?ref=picks)
 
 ## HTML games
 
@@ -556,14 +556,14 @@ Some of the best stops on the road are the plainest: an HTML page, a script tag 
 - [neon clash](https://vibecruiser.com/v/maxtech1234--neon-clash?ref=picks) - A comprehensive 2D fighting game and sandbox application built entirely with web technologies. This project showcases advanced browser… · [source](https://github.com/MAXTECH1234/neon-clash) ⭐ 1
 - [Rock Paper Scissor simulator](https://vibecruiser.com/v/fistofhit--rock-paper-scissor-simulator?ref=picks) - A 2D entity-based Rock-Paper-Scissor simulator done entirely by vibe-coding. Using Gemini 2.5 and Manus. In this game, rocks, papers, and… · [source](https://github.com/FistOfHit/Rock-Paper-Scissor-simulator) ⭐ 2
 - [bcs](https://vibecruiser.com/v/iuriguilherme--bcs?ref=picks) - A hierarchical life simulation from atoms to social organisms. This is a browser-based interactive simulation where particles follow… · [source](https://github.com/iuriguilherme/bcs)
+- [lwy](https://vibecruiser.com/v/raven121121--lwy?ref=picks) - 一款以旧电脑为入口的网页叙事解谜游戏。 你在母亲留下的旧物中发现了一把钥匙，以及一个从未听说过的地址——槐花市。来到那间无人居住的房子后，你打开了一台多年没有启动的电脑。邮件、聊天记录、旧论坛、校园网站和新闻档案散落在不同角落；只有将它们重新拼合，才能理解母亲从未讲述的过去。… · [source](https://github.com/Raven121121/lwy)
+- [pannaball](https://vibecruiser.com/v/vuxenn1--pannaball?ref=picks) - A fast, top-down arcade football game that runs in the browser. Play 1v1, 2v2 or 3v3 against bots, with your own bot teammates. Three… · [source](https://github.com/vuxenn1/pannaball)
 - [snake game javascript](https://vibecruiser.com/v/madhumithajs2006-lgtm--snake-game-javascript?ref=picks) - Interactive Snake Game built using HTML,CSS and JavaScript with keyboard controls and score Tracking. · [source](https://github.com/madhumithajs2006-lgtm/snake-game-javascript)
 - [snake bot projec](https://vibecruiser.com/v/felipecj07---snake-bot-projec?ref=picks) - O clássico jogo da cobrinha, feito em HTML5 Canvas + JavaScript puro (sem bibliotecas). Inclui placar, recorde salvo localmente, controle… · [source](https://github.com/FelipeCJ07/-snake_bot_projec)
 - [VisualEffects](https://vibecruiser.com/v/silencefun--visualeffects?ref=picks) - A curated set of interactive visual effects extracted from 51yifei — each one is a single self-contained file with no build step and no… · [source](https://github.com/silencefun/VisualEffects)
 - [sim](https://vibecruiser.com/v/vishota--sim?ref=picks) - You can add any particles that interacts with each other according to any rules you want. I've created some, here they are These particles… · [source](https://github.com/Vishota/sim) ⭐ 1
-- [Audio Controlled Particles](https://vibecruiser.com/v/rajtilak-2020--audio-controlled-particles?ref=picks) - An interactive web-based project where animated particles react to audio input, creating a dynamic visual experience based on the rhythm… · [source](https://github.com/rajtilak-2020/Audio-Controlled-Particles) ⭐ 3
-- [Sparkle Brush](https://vibecruiser.com/v/zeo-shark--sparkle-brush?ref=picks) - Amazing Drawing App With Particles. · [source](https://github.com/Zeo-shark/Sparkle-Brush) ⭐ 1
 
-[See all 471 on VibeCruiser →](https://vibecruiser.com/t/html?ref=picks)
+[See all 474 on VibeCruiser →](https://vibecruiser.com/t/html?ref=picks)
 
 ## Vibe-coded games
 
@@ -585,7 +585,7 @@ Vibe coding is building software by describing what you want to an AI and steeri
 - [minestorm](https://vibecruiser.com/v/rboman--minestorm?ref=picks) - Petit jeu C++ inspire de Minestorm/Asteroids, construit avec olcPixelGameEngine, olcPGEX\_MiniAudio, CMake et Visual Studio 2022 sous… · [source](https://github.com/rboman/minestorm)
 - [arcade racing](https://vibecruiser.com/v/stackoverflowisbetterthananyai--arcade-racing?ref=picks) - This is an arcade racing game in 8-bit style. This JavaScript game was developed to explore Vibe Coding and discover its current… · [source](https://github.com/StackOverflowIsBetterThanAnyAI/arcade-racing) ⭐ 1
 
-[See all 132 on VibeCruiser →](https://vibecruiser.com/t/vibe-coding?ref=picks)
+[See all 133 on VibeCruiser →](https://vibecruiser.com/t/vibe-coding?ref=picks)
 
 ## Animation
 
@@ -617,6 +617,9 @@ Vite is the build tool a lot of modern web projects start from, and a favorite o
 - [ImADragon onepromptcode game](https://vibecruiser.com/v/jaydemks--imadragon-onepromptcode-game?ref=picks) - A fully procedural Spyro-style 3D platformer in Three.js — built from a single prompt. ▶ Play it in your browser · Read the prompt · Module… · [source](https://github.com/jaydemks/ImADragon_onepromptcode_game)
 - [HorseLegend](https://vibecruiser.com/v/xiubia--horselegend?ref=picks) - 一款融合 AI 动态内容生成的 3D 赛马养成游戏，基于 Three.js + TypeScript + Vite 构建 🤖 AI 实时生成关卡 — Gemini/DeepSeek 在线生成跑酷赛道（ASCII → 3D）. 🏇 AI 控制对手 — GeminiRacer… · [source](https://github.com/xiubia/HorseLegend)
 - [slime escape](https://vibecruiser.com/v/alxdos--slime-escape?ref=picks) - Escape the slime nightmare\: survive the waves while the darkness closes in, use the short breaks when it pulls back, and defeat the one who… · [source](https://github.com/alxdos/slime-escape) ⭐ 1
+- [glass archive](https://vibecruiser.com/v/sameersamiisam5-cpu--glass-archive?ref=picks) - A cinematic, scroll-driven 3D architectural portfolio and interactive monograph blending Japanese aesthetics, custom WebGL/Three.js… · [source](https://github.com/sameersamiisam5-cpu/glass-archive)
+- [pure smoke](https://vibecruiser.com/v/exos45xyz--pure-smoke?ref=picks) - Particle smoke in a glass cube. Free and open source under the MIT licence, made with three.js. Most smoke on the web is a video. This one… · [source](https://github.com/Exos45xyz/pure-smoke)
+- [S5 League](https://vibecruiser.com/v/clarity-1--s5-league?ref=picks) - An experimental third-person action game, built for the browser with Three.js. Play in your browser · Download the release · Developer… · [source](https://github.com/Clarity-1/S5-League)
 - [naorush](https://vibecruiser.com/v/c0sm0cats--naorush?ref=picks) - Un jeu de plateforme dans les bureaux d’Inetum, façon Rick Dangerous et Prince of Persia. Les NAO commencent jeudi et l’enveloppe des… · [source](https://github.com/C0sm0cats/naorush)
 - [greenhouse game](https://vibecruiser.com/v/dimetrrius--greenhouse-game?ref=picks) - A 3D browser game about a small tomato greenhouse. You pick a variety and take ten plants to harvest\: switch irrigation, grow lights and… · [source](https://github.com/Dimetrrius/greenhouse-game) ⭐ 1
 - [HumanPong](https://vibecruiser.com/v/yoanbernabeu--humanpong?ref=picks) - A retro 80s-style Pong game where you control the paddles with your body using your webcam. No controllers needed — just your hands or your… · [source](https://github.com/yoanbernabeu/HumanPong) ⭐ 2
@@ -625,11 +628,8 @@ Vite is the build tool a lot of modern web projects start from, and a favorite o
 - [kaleido glyph](https://vibecruiser.com/v/melodicbloom--kaleido-glyph?ref=picks) - Kaleido\: a symmetry painting tool with 2–9 folds, macros, a radial dial, and GIF/MP4 export. · [source](https://github.com/MelodicBloom/kaleido-glyph)
 - [sprout and grumpy garden](https://vibecruiser.com/v/farulivan--sprout-and-grumpy-garden?ref=picks) - A cute, kid-friendly run 'n gun game in the style of Cuphead and Mega Man, themed around plants. Little Pip the sprout cheers up the… · [source](https://github.com/farulivan/sprout-and-grumpy-garden)
 - [KnotzAxxon](https://vibecruiser.com/v/knotenvy--knotzaxxon?ref=picks) - Playtest release\: GitHub Pages. Current status\: handoff.json. Next team\: playtest guide and release guide. Assault on the Iron Fortress — a… · [source](https://github.com/KnotEnvy/KnotzAxxon)
-- [Valentine Day Gift](https://vibecruiser.com/v/vickyiitp--valentine-day-gift?ref=picks) - 🎆 Particle Fluid Dynamics\: Thousands of reactive particles forming interactive kinetic hearts on cursor movement. 💌 Personalized Secret… · [source](https://github.com/vickyiitp/Valentine-Day-Gift)
-- [Cosmic Genesis](https://vibecruiser.com/v/vickyiitp--cosmic-genesis?ref=picks) - 🪐 N-Body Gravitational Physics\: Compute and render orbital trajectories of planets, moons, and asteroids in real time. ☀️ Shader-Driven… · [source](https://github.com/vickyiitp/Cosmic-Genesis) ⭐ 1
-- [ocean drive](https://vibecruiser.com/v/drcollect--ocean-drive?ref=picks) - Play\: (GitHub Pages) · (Vercel). Best on a desktop browser with a mouse; phones get a lighter version with touch controls. ▶ The trailer… · [source](https://github.com/drcollect/ocean-drive)
 
-[See all 279 on VibeCruiser →](https://vibecruiser.com/t/vite?ref=picks)
+[See all 282 on VibeCruiser →](https://vibecruiser.com/t/vite?ref=picks)
 
 ## Data visualization
 
@@ -695,7 +695,7 @@ Games, plain and simple: arcade twitchers, puzzles, idle clickers and the odd th
 - [ninjago tournament](https://vibecruiser.com/v/willgdjones--ninjago-tournament?ref=picks) - Play it\: ninjago-tournament.pages.dev (landscape, an iPad is best) A reading battle game for a 4-year-old, from his own drawing\: "Kai… · [source](https://github.com/willgdjones/ninjago-tournament)
 - [civitas](https://vibecruiser.com/v/reneodlt--civitas?ref=picks) - A web-based, multiplayer, unbounded city builder platform. three.js on the client, an authoritative TypeScript simulation server over… · [source](https://github.com/reneodlt/civitas) ⭐ 2
 
-[See all 2378 on VibeCruiser →](https://vibecruiser.com/t/game?ref=picks)
+[See all 2399 on VibeCruiser →](https://vibecruiser.com/t/game?ref=picks)
 
 ## GitHub Pages games
 
@@ -703,6 +703,7 @@ GitHub Pages turns a repository into a website for free, which makes it the defa
 
 - [clone wars](https://vibecruiser.com/v/whynobro--clone-wars?ref=picks) - Getting Over it Flap is a one-screen browser game in the style of Flappy Bird, inspired by the "Getting Over It" climbing vibe. You steer a… · [source](https://github.com/whynobro/clone-wars)
 - [bcs](https://vibecruiser.com/v/iuriguilherme--bcs?ref=picks) - A hierarchical life simulation from atoms to social organisms. This is a browser-based interactive simulation where particles follow… · [source](https://github.com/iuriguilherme/bcs)
+- [mochi run bakery escape](https://vibecruiser.com/v/jeiel85--mochi-run-bakery-escape?ref=picks) - (Ichigo Mochi) | 말랑말랑 베이커리의 영웅 달콤한 딸기시럽 오라를 두르고 고속 질주하며 주변 장애물을 황금 딸기젤리로 변환합니다. | (Custard Pudding King) | 출렁이는 카라멜 왕국의 군주 왕실 카라멜 파동을 터뜨려… · [source](https://github.com/jeiel85/mochi-run-bakery-escape)
 - [greenhouse game](https://vibecruiser.com/v/dimetrrius--greenhouse-game?ref=picks) - A 3D browser game about a small tomato greenhouse. You pick a variety and take ten plants to harvest\: switch irrigation, grow lights and… · [source](https://github.com/Dimetrrius/greenhouse-game) ⭐ 1
 - [thought input game](https://vibecruiser.com/v/sparkainlp-x--thought-input-game?ref=picks) - A SYNTHETIC toy and browser game. You draw a pattern on a 12 x 12 pad, and a small associative memory either projects the whole stored… · [source](https://github.com/sparkainlp-x/thought-input-game)
 - [neon maze](https://vibecruiser.com/v/bhanu2006-24--neon-maze?ref=picks) - An immersive 3D maze escape game with cyberpunk aesthetics and intense gameplay Neon Maze is a high-octane, first-person 3D maze escape… · [source](https://github.com/bhanu2006-24/neon-maze)
@@ -715,9 +716,8 @@ GitHub Pages turns a repository into a website for free, which makes it the defa
 - [babylon lite pixel walker](https://vibecruiser.com/v/samuelasherrivello-com-ai--babylon-lite-pixel-walker?ref=picks) - A little world in your hands. Pour sand, water, oil, and fire into an enchanted cavern, then walk, jump, and swim through the result. Find… · [source](https://github.com/SamuelAsherRivello-com-ai/babylon-lite-pixel-walker)
 - [sonic universe](https://vibecruiser.com/v/hgb-2005--sonic-universe?ref=picks) - 进入在线体验 · 完整使用说明 · 有声黑洞示例 作品没有构建步骤、运行时依赖或后端服务。克隆或下载仓库后，Windows 用户安装 Python 3，双击 打开声波宇宙.cmd。启动器会独立运行本机预览服务，地址是 \` 随后打开 \` HTTP 或 HTTPS… · [source](https://github.com/Hgb-2005/sonic-universe)
 - [neon impact](https://vibecruiser.com/v/davide-raimondi--neon-impact?ref=picks) - Sparatutto arcade 2D e boss-rush sviluppato in architettura single-file e ottimizzato per il web mobile. Neon Impact è un action game… · [source](https://github.com/davide-raimondi/neon-impact) ⭐ 1
-- [gloop pop](https://vibecruiser.com/v/aieatassam--gloop-pop?ref=picks) - Drag jelly blocks onto an 8×8 board to fill rows and columns. Same-colour jellies that touch join into one big gloop, and when you clear a… · [source](https://github.com/AieatAssam/gloop-pop)
 
-[See all 340 on VibeCruiser →](https://vibecruiser.com/t/github-pages?ref=picks)
+[See all 341 on VibeCruiser →](https://vibecruiser.com/t/github-pages?ref=picks)
 
 ## Interactive demos
 
@@ -727,6 +727,7 @@ Projects that want you to touch them: drag, click, type, tilt, make noise.
 - [surveyors cabin](https://vibecruiser.com/v/fxrcred--surveyors-cabin?ref=picks) - A log cabin in a northern forest that you can walk into, in your browser. The owner left one day and never came back. The stove is still… · [source](https://github.com/FxrcRed/surveyors-cabin)
 - [Jardim de Vidro](https://vibecruiser.com/v/meskitadev--jardim-de-vidro?ref=picks) - Uma página web interativa e aconchegante\: um jardim ilustrado com um aquário redondo de vidro no centro. O visitante planta flores com um… · [source](https://github.com/MeskitaDev/Jardim-de-Vidro)
 - [rain on glass](https://vibecruiser.com/v/hixly--rain-on-glass?ref=picks) - An interactive rainy window at night. Wipe the fogged glass with your hand, watch the city come into focus, and wait for it to steam back… · [source](https://github.com/Hixly/rain-on-glass)
+- [One HTML Design](https://vibecruiser.com/v/moreani--one-html-design?ref=picks) - Canvas 2D, CSS and vanilla JavaScript only. Lumen traces its rays in JavaScript; Proof magnifies a real DOM copy of the article and draws… · [source](https://github.com/moreani/One-HTML-Design)
 - [holidays](https://vibecruiser.com/v/johannpayer--holidays?ref=picks) - A fun holiday countdown full of interactive particles. Counts down to New Year's Day, Valentine's Day, Saint Patrick's Day, Easter… · [source](https://github.com/johannpayer/holidays) ⭐ 1
 - [paint webgl](https://vibecruiser.com/v/piellardj--paint-webgl?ref=picks) - Interactive and dynamic painting simulation in WebGL. This is a WebGL port of the visualization part of my OpenGL project flow-gpu. The… · [source](https://github.com/piellardj/paint-webgl) ⭐ 14
 - [CyberMatrix Particles](https://vibecruiser.com/v/arsanjani--cybermatrix-particles?ref=picks) - A stunning cyberpunk-style animated background effect featuring matrix rain, interactive particles, and network visualizations. Perfect for… · [source](https://github.com/arsanjani/CyberMatrix-Particles) ⭐ 3
@@ -737,9 +738,8 @@ Projects that want you to touch them: drag, click, type, tilt, make noise.
 - [Cosmic Particle Timeline](https://vibecruiser.com/v/anshvermadev--cosmic-particle-timeline?ref=picks) - "Every atom in your body was forged in a star. We are the cosmos experiencing itself, waking up to build intelligence and set sail for the… · [source](https://github.com/anshvermadev/Cosmic-Particle-Timeline)
 - [chaos game](https://vibecruiser.com/v/m-sarabi--chaos-game?ref=picks) - A high-performance, highly configurable fractal generator based on the Chaos Game algorithm, using a Web Worker and an OffscreenCanvas to… · [source](https://github.com/m-sarabi/chaos-game) ⭐ 2
 - [aurora night](https://vibecruiser.com/v/kashishsrivas--aurora-night?ref=picks) - Aurora Night is a quiet, one-page 3D web experience. A visitor enters an open landscape at night and sees a solitary seated woman from… · [source](https://github.com/kashishsrivas/aurora-night)
-- [elsewhen](https://vibecruiser.com/v/malvaphe--elsewhen?ref=picks) - A world one choice away. \*\*▶ Walk through it\: (best with headphones, about 15 minutes) Made entirely by AI. Every part of Elsewhen was… · [source](https://github.com/malvaphe/elsewhen)
 
-[See all 108 on VibeCruiser →](https://vibecruiser.com/t/interactive?ref=picks)
+[See all 109 on VibeCruiser →](https://vibecruiser.com/t/interactive?ref=picks)
 
 ## p5.js demos
 
@@ -747,7 +747,6 @@ p5.js is the friendly creative-coding library from the Processing family: a setu
 
 - [PurpleMaze](https://vibecruiser.com/v/alexandruistrate--purplemaze?ref=picks) - A demo project with a maze generated using a recursive backtracker · [source](https://github.com/AlexandruIstrate/PurpleMaze)
 - [JS A Star for mazes](https://vibecruiser.com/v/jkutkutarchive--js-a-star-for-mazes?ref=picks) - Application to find fastest way to exit a maze using A\* algorithm. The js generates a random maze and it shows you graphically how A\*… · [source](https://github.com/JkutkutArchive/JS-A_Star-for-mazes)
-- [fractalTree](https://vibecruiser.com/v/shyamalkirpan--fractaltree?ref=picks) - The fractal tree code generates stunning branching patterns using JavaScript and p5.js. By adjusting the sliders, users can interactively… · [source](https://github.com/shyamalkirpan/fractalTree)
 - [pong](https://vibecruiser.com/v/muminurrahman--pong?ref=picks) - Recreated a two-player version of the classic Pong videogame for a university project. \[W\] Move left paddle up \[S\] Move left paddle down… · [source](https://github.com/muminurrahman/pong) ⭐ 1
 - [cats cradle](https://vibecruiser.com/v/kamakshi2113--cats-cradle?ref=picks) - A digital take on the classic string game. Hold both hands up to your webcam and glowing neon strings stretch between your fingertips. Pull… · [source](https://github.com/kamakshi2113/cats-cradle)
 - [breakout p5](https://vibecruiser.com/v/mert574--breakout-p5?ref=picks) - A browser brick-breaking game built with p5.js and p5.play. Move the paddle with the mouse, bounce the ball and clear bricks to earn points. · [source](https://github.com/mert574/breakout-p5) ⭐ 1
@@ -760,8 +759,9 @@ p5.js is the friendly creative-coding library from the Processing family: a setu
 - [ASCII Body Generative Art](https://vibecruiser.com/v/reyrove--ascii-body-generative-art?ref=picks) - A collection of nine p5.js works that transform feminine body photographs into ASCII art. Each piece blends technology and artistry… · [source](https://github.com/reyrove/ASCII-Body-Generative-Art) ⭐ 1
 - [comp visual 2024 2 tetris p5](https://vibecruiser.com/v/cesarfrr--comp-visual-2024-2-tetris-p5?ref=picks) - Un clásico juego de Tetris interactivo desarrollado con p5.js, creado para la asignatura de Computación Visual 2024-2. Este repositorio… · [source](https://github.com/CesarFRR/comp-visual-2024-2-tetris-p5)
 - [spherical mirror sandbox](https://vibecruiser.com/v/shahank42--spherical-mirror-sandbox?ref=picks) - A web application for visualizing the images formed by the reflected rays of a spherical mirror. Helpful piece of software for 10th grade… · [source](https://github.com/shahank42/spherical-mirror-sandbox) ⭐ 1
+- [blob mirror](https://vibecruiser.com/v/jackbdu--blob-mirror?ref=picks) - Mediums\: computer, camera, custom software (written in JavaScript and GLSL) Links\: video demo, live demo \*\*\_Blob Mirror\_\*\* is an… · [source](https://github.com/jackbdu/blob-mirror) ⭐ 1
 
-[See all 505 on VibeCruiser →](https://vibecruiser.com/t/p5js?ref=picks)
+[See all 506 on VibeCruiser →](https://vibecruiser.com/t/p5js?ref=picks)
 
 ## Interactive art
 
@@ -791,6 +791,7 @@ Next.js is the React framework behind a lot of the modern web, and a default for
 
 - [aetheria](https://vibecruiser.com/v/sethmed7--aetheria?ref=picks) - Generative backgrounds, tuned by hand. A free, installable WebGL studio for cinematic backgrounds. Everything runs locally in the browser… · [source](https://github.com/SethMed7/aetheria)
 - [Git World](https://vibecruiser.com/v/ashusriwastav07--git-world?ref=picks) - A 3D Minecraft-style city where every GitHub developer becomes a building. The more you code, the taller your building grows. Explore… · [source](https://github.com/AshuSriwastav07/Git-World) ⭐ 2
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
 - [playground](https://vibecruiser.com/v/toksana--playground?ref=picks) - A small light for every season. Interactive 3D experiments for the web, built with Three.js and React Three Fiber. A new one switches on… · [source](https://github.com/toksana/playground)
 - [wake](https://vibecruiser.com/v/asadrao98--wake?ref=picks) - To see, you must move. To move is to be seen. A browser-based stealth-maze game where vision is tied to motion. Stand still and you go… · [source](https://github.com/asadrao98/wake)
 - [the realm of yaniv ron](https://vibecruiser.com/v/yanivr78--the-realm-of-yaniv-ron?ref=picks) - Welcome to The Realm of Yaniv Ron, an interactive creative engineering showcase combining custom 60fps HTML5 3D projection, polyphonic Web… · [source](https://github.com/yanivr78/the-realm-of-yaniv-ron)
@@ -803,9 +804,8 @@ Next.js is the React framework behind a lot of the modern web, and a default for
 - [vim snake](https://vibecruiser.com/v/masterdevsabith--vim-snake?ref=picks) - A minimal snake game controlled with Vim-style keys — h, j, k, l — built with Next.js and Canvas API. · [source](https://github.com/masterdevsabith/vim-snake) ⭐ 5
 - [webgl shader gallery](https://vibecruiser.com/v/karanchandekar--webgl-shader-gallery?ref=picks) - An immersive virtual art gallery showcasing 8 real-time WebGL shader effects with interactive mouse controls, smooth scroll-snap… · [source](https://github.com/KaranChandekar/webgl-shader-gallery)
 - [vesper](https://vibecruiser.com/v/jakethehoffer--vesper?ref=picks) - A cryptographic alternate-reality game. A derelict listening intelligence at the abandoned Stillwater Archive has been looping a three-word… · [source](https://github.com/jakethehoffer/vesper)
-- [pixel heist](https://vibecruiser.com/v/dlinacre--pixel-heist?ref=picks) - Pixel Heist is a tactical stealth-action puzzle web application engineered as a high-performance modular monolith. Built from scratch by a… · [source](https://github.com/DLinacre/pixel-heist)
 
-[See all 94 on VibeCruiser →](https://vibecruiser.com/t/nextjs?ref=picks)
+[See all 95 on VibeCruiser →](https://vibecruiser.com/t/nextjs?ref=picks)
 
 ## 3D visualization
 
@@ -825,6 +825,7 @@ Personal sites that refuse to be a list of links: portfolios you walk around, fl
 
 - [sublevel studio](https://vibecruiser.com/v/mengto--sublevel-studio?ref=picks) - A single-file Three.js studio concept built around an interactive Kyoto lobby, playable objects, and an editorial portfolio. View the live… · [source](https://github.com/MengTo/sublevel-studio) ⭐ 7
 - [my portfolio](https://vibecruiser.com/v/gee-46--my-portfolio?ref=picks) - A cinematic scrollytelling developer portfolio built with Next.js, Canvas, and modern web animation techniques — designed to feel like a… · [source](https://github.com/gee-46/my-portfolio) ⭐ 10
+- [eternal coma site](https://vibecruiser.com/v/yazaychik--eternal-coma-site?ref=picks) - A fully interactive, single-file "desktop OS" experience built for the electronic music artist ETERNAL COMA, centered around a custom audio… · [source](https://github.com/yazaychik/eternal-coma-site)
 - [Pozitivstek.github.io](https://vibecruiser.com/v/pozitivstek--pozitivstek-github-io?ref=picks) - Personal portfolio\: interactive particle hero, projects and résumé (RU/EN). Plain HTML/CSS/JS, no build step. · [source](https://github.com/Pozitivstek/Pozitivstek.github.io) ⭐ 1
 - [Pong retro](https://vibecruiser.com/v/joaorizzo0112--pong-retro?ref=picks) - Um tributo moderno ao clássico Pong, lançado pela Atari em 1972, recriado com uma estética inspirada em fliperamas CRT, telas LCD e Game… · [source](https://github.com/joaorizzo0112/Pong-retro)
 - [oriel](https://vibecruiser.com/v/ayoubcoding111--oriel?ref=picks) - A scroll-driven story for a fictional independent watchmaker, built as a portfolio piece by Ayoub Benkreira. The Calibre O-1 is modelled… · [source](https://github.com/ayoubcoding111/oriel)
@@ -837,9 +838,8 @@ Personal sites that refuse to be a list of links: portfolios you walk around, fl
 - [aruta.sh](https://vibecruiser.com/v/arutosio--aruta-sh?ref=picks) - A desktop-OS-styled personal site with a full windowing system, themeable UI, a built-in terminal, and a plugin system that lets anyone… · [source](https://github.com/Arutosio/aruta.sh) ⭐ 1
 - [golf projectile simulation](https://vibecruiser.com/v/phelipescript--golf-projectile-simulation?ref=picks) - Este projeto é uma simulação física de um lançamento de golfe que modela o movimento de um projétil considerando arrasto aerodinâmico… · [source](https://github.com/PhelipeScript/golf-projectile-simulation)
 - [hraniteli](https://vibecruiser.com/v/vitaly-sokol911--hraniteli?ref=picks) - Hraniteli - browser platformer, 36 levels, 9 worlds, 7 heroes. Single HTML file, no dependencies. · [source](https://github.com/vitaly-sokol911/hraniteli)
-- [2D game portfolio website](https://vibecruiser.com/v/sarthak-0-sach--2d-game-portfolio-website?ref=picks) - Here is a guide\: How to deploy the project Working on this project allowed me to learn and implement game development concepts using… · [source](https://github.com/SartHak-0-Sach/2D-game_portfolio-website) ⭐ 2
 
-[See all 59 on VibeCruiser →](https://vibecruiser.com/t/portfolio?ref=picks)
+[See all 60 on VibeCruiser →](https://vibecruiser.com/t/portfolio?ref=picks)
 
 ## Computer vision demos
 
@@ -916,17 +916,17 @@ Sound you can play with: synths in a browser tab, drum machines, generative musi
 - [capybara delivery 3d](https://vibecruiser.com/v/21cabbagee--capybara-delivery-3d?ref=picks) - Play as a chill capybara delivering food on a bicycle. Stack orders to the sky, manage deliveries on your in-game smartphone, cruise… · [source](https://github.com/21cabbagee/capybara-delivery-3d)
 - [nova lancer](https://vibecruiser.com/v/tanuu5--nova-lancer?ref=picks) - Claude Code × Claude Opus 5.5（MAX） で、依頼 1 回・約 1 時間 40 分で作りました（トークン使用量は制作についてに記載）。 スターフォックス系の 3D レールシューティングを、ブラウザ向けにゼロから作ったオリジナル作品です。… · [source](https://github.com/tanuu5/nova-lancer) ⭐ 7
 - [casadegema](https://vibecruiser.com/v/deepujain--casadegema?ref=picks) - A little garden of hidden gems. Casa de Gemas is a tiny interactive watercolor world made as a Happy Daughter's Day gift\: a whitewashed… · [source](https://github.com/deepujain/casadegema)
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
+- [Last Signal](https://vibecruiser.com/v/hamzakhanbuic--last-signal?ref=picks) - "In the cold depths of Sector 42, silence isn't empty. It's waiting." The Last Signal is a 2D top-down sci-fi survival exploration game… · [source](https://github.com/HamzaKhanBUIC/Last-Signal) ⭐ 1
+- [music visualization](https://vibecruiser.com/v/blucelicoder--music-visualization?ref=picks) - Stillwave 是一个纯前端的音乐可视化播放器。选择本地歌曲、专辑封面和 LRC 歌词，即可在浏览器中播放音乐、查看实时音频可视化和同步歌词，并自定义界面氛围色。 -本地音频播放 - 支持 MP3、M4A、WAV 等格式 -实时音频可视化 - 使用 Web Audio… · [source](https://github.com/bluceliCoder/music-visualization)
+- [the descent interactive audio](https://vibecruiser.com/v/samuelson777--the-descent-interactive-audio?ref=picks) - A lightweight, dependency-free interactive audio drama and fiction podcast framework with dynamic state-driven branching, Web Audio API… · [source](https://github.com/Samuelson777/the-descent-interactive-audio)
+- [neon vortex](https://vibecruiser.com/v/edwardxiong2027--neon-vortex?ref=picks) - A juicy neon arena shooter that runs in your browser. No install, no dependencies — just pure Canvas + WebAudio. Survive an endless swarm… · [source](https://github.com/edwardxiong2027/neon-vortex)
+- [OpenCity](https://vibecruiser.com/v/faizankhan17623--opencity?ref=picks) - A GTA-style open-world game that runs entirely in the browser. Swing across a 10×10-block city on webs, drive, fly, sail the harbor, take… · [source](https://github.com/Faizankhan17623/OpenCity) ⭐ 1
+- [stone age odyssey](https://vibecruiser.com/v/jeiel85--stone-age-odyssey?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 8대 스테이지 &amp; 4인 영웅 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 4명의 플레이어블 캐릭터, 8종 테마… · [source](https://github.com/jeiel85/stone-age-odyssey)
 - [hand tracking pong](https://vibecruiser.com/v/alyhxn--hand-tracking-pong?ref=picks) - A modern, interactive twist on the classic arcade game Pong! This browser-based game uses your webcam and Google's MediaPipe Hands to let… · [source](https://github.com/alyhxn/hand-tracking-pong)
 - [space shooter](https://vibecruiser.com/v/celaldrg--space-shooter?ref=picks) - Fly a small fighter through ten scripted waves of weaving, diving and gun-turret enemies, collect weapon upgrades and shields, keep a combo… · [source](https://github.com/celaldrg/space-shooter)
-- [bql mv](https://vibecruiser.com/v/yenefa--bql-mv?ref=picks) - 一个纯 Canvas 2D 实时绘制的水墨 MV：零图片素材、零第三方前端依赖，16\:9，完整 2\:53。 在线预览（静音演示） · 验收预览图 山水、云气、月宫、梅枝、仙鹤、旅人、湖面、小舟、天灯、芦苇全部由代码实时生成，没有一张图片素材。 7… · [source](https://github.com/Yenefa/bql-mv)
-- [naorush](https://vibecruiser.com/v/c0sm0cats--naorush?ref=picks) - Un jeu de plateforme dans les bureaux d’Inetum, façon Rick Dangerous et Prince of Persia. Les NAO commencent jeudi et l’enveloppe des… · [source](https://github.com/C0sm0cats/naorush)
-- [thought input game](https://vibecruiser.com/v/sparkainlp-x--thought-input-game?ref=picks) - A SYNTHETIC toy and browser game. You draw a pattern on a 12 x 12 pad, and a small associative memory either projects the whole stored… · [source](https://github.com/sparkainlp-x/thought-input-game)
-- [HumanPong](https://vibecruiser.com/v/yoanbernabeu--humanpong?ref=picks) - A retro 80s-style Pong game where you control the paddles with your body using your webcam. No controllers needed — just your hands or your… · [source](https://github.com/yoanbernabeu/HumanPong) ⭐ 2
-- [goindol](https://vibecruiser.com/v/jeiel85--goindol?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 6대 스테이지 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 6종 테마 배경과 Web Audio API 칩튠… · [source](https://github.com/jeiel85/goindol)
-- [EgyptianHinduTicTacToe](https://vibecruiser.com/v/highviewone--egyptianhindutictactoe?ref=picks) - ▶ Play Live · Installable PWA · Works offline Standard Tic-Tac-Toe is solved — but this isn't standard Tic-Tac-Toe. Five named themes plus… · [source](https://github.com/HighviewOne/EgyptianHinduTicTacToe)
-- [signal defender](https://vibecruiser.com/v/davidwang1231--signal-defender?ref=picks) - A PCB-aesthetic bullet-hell shooter that lives in a single HTML file — zero dependencies, no build step, double-click to play. Fully… · [source](https://github.com/DavidWang1231/signal-defender)
 
-[See all 283 on VibeCruiser →](https://vibecruiser.com/t/web-audio?ref=picks)
+[See all 291 on VibeCruiser →](https://vibecruiser.com/t/web-audio?ref=picks)
 
 ## Free online games
 
@@ -948,7 +948,7 @@ Games built to be played right where you are reading this: no store, no download
 - [meridian line](https://vibecruiser.com/v/albertoit-23--meridian-line?ref=picks) - A browser FPS set in a detailed 3D subway station, built with three.js. Hold the platform at Meridian St\: the first wave climbs up from the… · [source](https://github.com/AlbertoIT-23/meridian-line)
 - [simple isaac made in html by gpt5](https://vibecruiser.com/v/qianliexian--simple-isaac-made-in-html-by-gpt5?ref=picks) - 斜视 2.5D 地面投影，默认 1.12 倍战术近景镜头，随角色平滑移动；可切换全景或全屏，画面内始终显示生命、资源与主动/卡牌状态。生物按碰撞半径统一躯干宽度，低矮石块在遮住角色时半透明，碰撞仍使用统一的地面坐标。 障碍改为 20 单位小砖，每组最多两块，组间预留 56… · [source](https://github.com/QianLieXian/simple-isaac-made-in-html-by-gpt5)
 
-[See all 1962 on VibeCruiser →](https://vibecruiser.com/t/browser-game?ref=picks)
+[See all 1989 on VibeCruiser →](https://vibecruiser.com/t/browser-game?ref=picks)
 
 ## AI assisted games
 
@@ -970,7 +970,7 @@ AI-coded projects: games, toys and experiments their makers built with an AI mod
 - [pixel racer](https://vibecruiser.com/v/elomami1976--pixel-racer?ref=picks) - A vertical car-racing avoid-em-up. Dodge the traffic, survive as long as you can. 60 Hz phone and a 144 Hz monitor. The delta is clamped… · [source](https://github.com/Elomami1976/pixel-racer) ⭐ 1
 - [snake](https://vibecruiser.com/v/iammfk--snake?ref=picks) - یک بازآفرینی مدرن، روان و مینیمال از بازی خاطره‌انگیز «مار» (Snake) مبتنی بر وب با رابط کاربری کاملاً فارسی و بهینه‌سازی‌شده برای دسکتاپ… · [source](https://github.com/IamMFK/snake) ⭐ 1
 
-[See all 71 on VibeCruiser →](https://vibecruiser.com/t/ai-assisted?ref=picks)
+[See all 73 on VibeCruiser →](https://vibecruiser.com/t/ai-assisted?ref=picks)
 
 ## Particle demos
 
@@ -978,6 +978,7 @@ Thousands of tiny points with simple rules, moving together until they look like
 
 - [morphogen](https://vibecruiser.com/v/artem1bar--morphogen?ref=picks) - A studio of generative and artificial-life systems, in one page. Seedable. Tunable. Shareable. No build step, no dependencies, no network… · [source](https://github.com/Artem1bar/morphogen)
 - [WebGL Particle Sim](https://vibecruiser.com/v/xerogravitas--webgl-particle-sim?ref=picks) - (Mostly) vibe-coded interactive particle sim · [source](https://github.com/XeroGravitas/WebGL-Particle-Sim)
+- [pure smoke](https://vibecruiser.com/v/exos45xyz--pure-smoke?ref=picks) - Particle smoke in a glass cube. Free and open source under the MIT licence, made with three.js. Most smoke on the web is a video. This one… · [source](https://github.com/Exos45xyz/pure-smoke)
 - [particle3D](https://vibecruiser.com/v/jdmiguel--particle3d?ref=picks) - 3D animation with particles · [source](https://github.com/jdmiguel/particle3D)
 - [holidays](https://vibecruiser.com/v/johannpayer--holidays?ref=picks) - A fun holiday countdown full of interactive particles. Counts down to New Year's Day, Valentine's Day, Saint Patrick's Day, Easter… · [source](https://github.com/johannpayer/holidays) ⭐ 1
 - [particle text](https://vibecruiser.com/v/abhi00o7--particle-text?ref=picks) - particle text animation using HTML canvas · [source](https://github.com/abhi00o7/particle-text)
@@ -990,15 +991,17 @@ Thousands of tiny points with simple rules, moving together until they look like
 - [waterfall webgl](https://vibecruiser.com/v/piellardj--waterfall-webgl?ref=picks) - A WebGL waterfall simulation from a simple particles system. Port of an old OpenGL project\: particles-gpu. Original idea from Chris… · [source](https://github.com/piellardj/waterfall-webgl) ⭐ 2
 - [Audio Controlled Particles](https://vibecruiser.com/v/rajtilak-2020--audio-controlled-particles?ref=picks) - An interactive web-based project where animated particles react to audio input, creating a dynamic visual experience based on the rhythm… · [source](https://github.com/rajtilak-2020/Audio-Controlled-Particles) ⭐ 3
 - [Sparkle Brush](https://vibecruiser.com/v/zeo-shark--sparkle-brush?ref=picks) - Amazing Drawing App With Particles. · [source](https://github.com/Zeo-shark/Sparkle-Brush) ⭐ 1
-- [SmokeGL](https://vibecruiser.com/v/lucaangioloni--smokegl?ref=picks) - Reproduce the scene of a lit candle. Flame and smoke represented as particles systems. Use shaders and technologies studied to model the… · [source](https://github.com/LucaAngioloni/SmokeGL) ⭐ 21
 
-[See all 163 on VibeCruiser →](https://vibecruiser.com/t/particles?ref=picks)
+[See all 164 on VibeCruiser →](https://vibecruiser.com/t/particles?ref=picks)
 
 ## Audio visualizer demos
 
 Music you can watch: kaleidoscopes that pulse on the beat, fractal fly-throughs, ASCII art that dances to your mic, a whole night city drawn in one shader.
 
 - [wave arena studio](https://vibecruiser.com/v/yoo-yipeee--wave-arena-studio?ref=picks) - \*\*Give it a song. It reads the whole track, decides what that song is, and performs it as a body of water.\*\* There is also ENTER DEMO — an… · [source](https://github.com/Yoo-yipeee/wave-arena-studio)
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
+- [music visualization](https://vibecruiser.com/v/blucelicoder--music-visualization?ref=picks) - Stillwave 是一个纯前端的音乐可视化播放器。选择本地歌曲、专辑封面和 LRC 歌词，即可在浏览器中播放音乐、查看实时音频可视化和同步歌词，并自定义界面氛围色。 -本地音频播放 - 支持 MP3、M4A、WAV 等格式 -实时音频可视化 - 使用 Web Audio… · [source](https://github.com/bluceliCoder/music-visualization)
+- [the descent interactive audio](https://vibecruiser.com/v/samuelson777--the-descent-interactive-audio?ref=picks) - A lightweight, dependency-free interactive audio drama and fiction podcast framework with dynamic state-driven branching, Web Audio API… · [source](https://github.com/Samuelson777/the-descent-interactive-audio)
 - [spectral drift](https://vibecruiser.com/v/aaronaudio09--spectral-drift?ref=picks) - A Winamp-style music visualizer that turns whatever you're playing into living visuals. Windows app (free)\: Microsoft Store Ten… · [source](https://github.com/aaronaudio09/spectral-drift)
 - [sonic universe](https://vibecruiser.com/v/hgb-2005--sonic-universe?ref=picks) - 进入在线体验 · 完整使用说明 · 有声黑洞示例 作品没有构建步骤、运行时依赖或后端服务。克隆或下载仓库后，Windows 用户安装 Python 3，双击 打开声波宇宙.cmd。启动器会独立运行本机预览服务，地址是 \` 随后打开 \` HTTP 或 HTTPS… · [source](https://github.com/Hgb-2005/sonic-universe)
 - [toaster](https://vibecruiser.com/v/stopbanning--toaster?ref=picks) - Toaster hears whatever is playing on your PC (Spotify, YouTube, anything) and writes it out as live Strudel code in front of you\: named… · [source](https://github.com/StopBanning/toaster) ⭐ 58
@@ -1010,11 +1013,8 @@ Music you can watch: kaleidoscopes that pulse on the beat, fractal fly-throughs,
 - [world execute me mmd](https://vibecruiser.com/v/hxac--world-execute-me-mmd?ref=picks) - 许愿式编程：采用模型 deepseek v4.1 flash 1017，在一个提示词 根据歌曲和歌词，设计网页（typescript）纯动效无角色 2D 的 MMD 当前 DSH 版本：DeepSeek Harness 0.2.1-rc.2（桌面配置 / Web… · [source](https://github.com/hxac/world-execute-me-mmd)
 - [vibez.surf](https://vibecruiser.com/v/donth77--vibez-surf?ref=picks) - A browser-based music visualizer and rhythm game. Pick any song; the game analyzes it and generates a 3D track you ride to the beat… · [source](https://github.com/donth77/vibez.surf) ⭐ 2
 - [splash](https://vibecruiser.com/v/vnf123--splash?ref=picks) - 隔着一扇淋湿的玻璃听歌：音乐越响，水花越猛。 把本地音频拖进窗口，Web Audio 实时解析响度与频谱——鼓点会砸在玻璃上溅起水花，高频带来细密的雨雾，而所有画面都要透过一层用 WebGL 写的雾面玻璃折射合成。… · [source](https://github.com/vnf123/splash)
-- [Audio Shader Studio](https://vibecruiser.com/v/sandner-art--audio-shader-studio?ref=picks) - A real-time audio-reactive shader visualization platform for creative audio analysis and generative visual art. This application combines… · [source](https://github.com/sandner-art/Audio-Shader-Studio) ⭐ 9
-- [threejs audio visualizer tree](https://vibecruiser.com/v/iondrimba--threejs-audio-visualizer-tree?ref=picks) - \:christmas\_tree\: Christmas Lab - Dancing Tree · [source](https://github.com/iondrimba/threejs-audio-visualizer-tree) ⭐ 11
-- [songturtle](https://vibecruiser.com/v/jakewilson--songturtle?ref=picks) - Song Turtle allows you to select any point in an audio file and loop it for any duration. You can also change the playback speed of the… · [source](https://github.com/jakewilson/songturtle) ⭐ 28
 
-[See all 123 on VibeCruiser →](https://vibecruiser.com/t/audio-visualizer?ref=picks)
+[See all 127 on VibeCruiser →](https://vibecruiser.com/t/audio-visualizer?ref=picks)
 
 ## Physics simulation
 
@@ -1026,6 +1026,7 @@ Worlds that obey rules: falling sand and lava, cloth you can drag and cut, jelly
 - [inside electricity](https://vibecruiser.com/v/airplanebug--inside-electricity?ref=picks) - Drag, pinch, scroll, slide, press, click, and peel your way through the hidden world deep within computers 🔎 ✨ 🖥️ An interactive, offline… · [source](https://github.com/airplanebug/inside-electricity)
 - [Elastic Potential Pathfinding](https://vibecruiser.com/v/sighthough--elastic-potential-pathfinding?ref=picks) - A continuous physics-based alternative to traditional grid-search algorithms. Co-authored by sighthough and Googles Gemini. CLICK HERE TO… · [source](https://github.com/sighthough/Elastic-Potential-Pathfinding)
 - [celadon](https://vibecruiser.com/v/winchxyz--celadon?ref=picks) - A 3D pottery game with nothing in it but code. Throw a pot on a wheel, dry it, trim a foot, glaze it, fire it — and then find out what the… · [source](https://github.com/winchxyz/celadon)
+- [air hockey](https://vibecruiser.com/v/celaldrg--air-hockey?ref=picks) - Real table physics with a fixed 1/120 s time step\: rounded corners, goal posts, wall restitution, light friction and a speed cap. Swept… · [source](https://github.com/celaldrg/air-hockey)
 - [blix](https://vibecruiser.com/v/voormann--blix?ref=picks) - A particle system built for Canvas 2D that's simple to use and customize. The main focus is performance with batch rendering, minimal color… · [source](https://github.com/voormann/blix)
 - [sim](https://vibecruiser.com/v/vishota--sim?ref=picks) - You can add any particles that interacts with each other according to any rules you want. I've created some, here they are These particles… · [source](https://github.com/Vishota/sim) ⭐ 1
 - [collapse](https://vibecruiser.com/v/andystanton--collapse?ref=picks) - Collapse DOM elements into WebGL representations of their pixels. The example in this repository uses Express, but Collapse does not depend… · [source](https://github.com/andystanton/collapse) ⭐ 3
@@ -1034,7 +1035,6 @@ Worlds that obey rules: falling sand and lava, cloth you can drag and cut, jelly
 - [ragdoll riot](https://vibecruiser.com/v/waleee7--ragdoll-riot?ref=picks) - Punch, kick and launch waves of stickmen across a live-wired ring. Plain HTML, CSS and JavaScript. No engine, no framework, no build step… · [source](https://github.com/Waleee7/ragdoll-riot)
 - [basic platformer](https://vibecruiser.com/v/nex2406--basic-platformer?ref=picks) - A small 2D platformer where the physics are the point\: springboards, platforms that carry you, hazards that spin — and a panel that lets… · [source](https://github.com/Nex2406/basic-platformer)
 - [Block crasher](https://vibecruiser.com/v/jesuslovestyler--block-crasher?ref=picks) - A free block-crashing arcade game you play in your browser\: aim, launch, and smash through the stacks. One self-contained page\: no account… · [source](https://github.com/jesuslovestyler/Block-crasher)
-- [claw machine](https://vibecruiser.com/v/andromanpro--claw-machine?ref=picks) - Браузерный автомат с клешнёй\: ретрофутуристический корпус, плюшевые игрушки и физика, из-за которой добыча выскальзывает в последний… · [source](https://github.com/andromanpro/claw-machine)
 
 [See all 216 on VibeCruiser →](https://vibecruiser.com/t/physics-simulation?ref=picks)
 
@@ -1044,6 +1044,8 @@ Projects that ship with nothing but themselves: no frameworks, no npm install, n
 
 - [nijimi](https://vibecruiser.com/v/mosaddiqdev--nijimi?ref=picks) - Walk through a watercolor that paints itself. nijimi (滲み) · Japanese · the bleed of ink or color into wet paper An endless ink-and-wash… · [source](https://github.com/mosaddiqdev/nijimi)
 - [v gallery](https://vibecruiser.com/v/lexbayart--v-gallery?ref=picks) - A 3D corridor of colored cards bent into a V — you scroll through it, hover brings a card to the front, and a click drops a new card into… · [source](https://github.com/lexbayart/v-gallery)
+- [air hockey](https://vibecruiser.com/v/celaldrg--air-hockey?ref=picks) - Real table physics with a fixed 1/120 s time step\: rounded corners, goal posts, wall restitution, light friction and a speed cap. Swept… · [source](https://github.com/celaldrg/air-hockey)
+- [8bit super mario](https://vibecruiser.com/v/vimaltiwari2612--8bit-super-mario?ref=picks) - A dependency-free, vanilla HTML5 Canvas and JavaScript platformer built in the style of classic 1985 8-bit arcade games. Featuring… · [source](https://github.com/vimaltiwari2612/8bit-super-mario)
 - [life in 3 minutes](https://vibecruiser.com/v/sylvia-ccc--life-in-3-minutes?ref=picks) - 你点一下「投胎」，系统给你一个随机的出生地、一个家庭阶层、一副身体和一组天赋。 接着时间开始走，从 0 岁到死亡，大约三分钟。中间你会遇到大约 12 次需要自己拿主意的事—— 要不要继续念书、去大城市还是留下、接不接那份要搬家的升职、父母病了怎么办。 人生链接（同牌对决）… · [source](https://github.com/sylvia-ccc/life-in-3-minutes)
 - [speedhell](https://vibecruiser.com/v/jacobv25--speedhell?ref=picks) - A Japanese-style vertical bullet-hell shmup in the Psikyo "speed hell" lineage — fast bullets, aimed-heavy patterns, speed-kill scoring… · [source](https://github.com/jacobv25/speedhell)
 - [galaga](https://vibecruiser.com/v/civilian7--galaga?ref=picks) - A browser remake of Namco's 1981 arcade game. The formation flies in and takes its places, a Boss Galaga stops overhead to open its tractor… · [source](https://github.com/civilian7/galaga) ⭐ 3
@@ -1055,10 +1057,8 @@ Projects that ship with nothing but themselves: no frameworks, no npm install, n
 - [Hyperdash](https://vibecruiser.com/v/nowii-core--hyperdash?ref=picks) - A 200-Level Platformer with a Fourth Dimension — Plus the From-Scratch 4D Engine Behind It HyperDash is a Geometry-Dash-style game in a… · [source](https://github.com/nowii-core/Hyperdash)
 - [pixel horse runner](https://vibecruiser.com/v/chigerartem--pixel-horse-runner?ref=picks) - A pixel-art endless runner in the spirit of the Chrome Dino game — written in pure vanilla JavaScript, no frameworks, no dependencies, no… · [source](https://github.com/chigerartem/pixel-horse-runner)
 - [ram rush](https://vibecruiser.com/v/freshbin--ram-rush?ref=picks) - 你是一台只有 1024KB 内存的老服务器，chrome.exe 要 32 格，你只有 256 格。 一个关于内存分配的单文件网页游戏。16×16 共 256 格内存条，每格 4KB，加起来正好… · [source](https://github.com/freshbin/ram-rush)
-- [the long run](https://vibecruiser.com/v/netanelmexico-spec--the-long-run?ref=picks) - An endless runner across the desert. A bearded man in a red cap starts running for no particular reason, and the longer he goes the more… · [source](https://github.com/netanelmexico-spec/the-long-run)
-- [nova](https://vibecruiser.com/v/nanikumar4568--nova?ref=picks) - Every phrase ignites a star. ▶ nanikumar4568.github.io/nova — live, no install. Type any phrase and Nova ignites a star system from it — a… · [source](https://github.com/Nanikumar4568/nova)
 
-[See all 145 on VibeCruiser →](https://vibecruiser.com/t/no-dependencies?ref=picks)
+[See all 149 on VibeCruiser →](https://vibecruiser.com/t/no-dependencies?ref=picks)
 
 ## Vanilla JS games
 
@@ -1070,17 +1070,17 @@ Plain JavaScript, no framework: an endless runner, a chord machine, a satirical 
 - [StrumPad](https://vibecruiser.com/v/tagtthespellcaster--strumpad?ref=picks) - StrumPad v1.5.5 is a browser-based, vintage-style chord machine and analog-modeled synthesizer designed for playing chords, exploring… · [source](https://github.com/TagtTheSpellcaster/StrumPad)
 - [hatchabit](https://vibecruiser.com/v/fannno--hatchabit?ref=picks) - Hatchabit 是一款以電子寵物養成為核心的互動式 Web App。玩家會從神秘蛋中遇見自己的第一隻「小 Bit」，透過餵食、摸摸、戳戳、洗澡、睡眠與小遊戲陪伴牠成長，也可以收集不同種類的小 Bit、佈置房間、收藏紀念品，或在忙碌時請保母協助照顧。 本專案以 Vibe… · [source](https://github.com/Fannno/hatchabit)
 - [hoops88](https://vibecruiser.com/v/carlossardo--hoops88?ref=picks) - ▶ Play HOOPS '88 online No install, no build step, no dependencies. Just open it and shoot. Hold the shoot key to charge the power meter… · [source](https://github.com/CarlosSardo/hoops88) ⭐ 2
+- [hindi typist](https://vibecruiser.com/v/wondermayank--hindi-typist?ref=picks) - An interactive web app for mastering Hindi typing using the Remington (Krutidev/Mangal) layout. Features structured character lessons… · [source](https://github.com/wondermayank/hindi-typist) ⭐ 17
+- [gradient flow background](https://vibecruiser.com/v/afeiisfine--gradient-flow-background?ref=picks) - 本项目作者完全不懂开发，所有代码、功能都是 AI 写的，包括这份说明文档。如果有低级错误，请见谅。 一个网页工具：做出会缓慢流动的彩色渐变背景。纯 WebGL 实时渲染，零依赖、离线可用、不用安装任何东西。 配色来自 10 套预设 + 色带上 12… · [source](https://github.com/AfeiIsFine/gradient-flow-background)
+- [the descent interactive audio](https://vibecruiser.com/v/samuelson777--the-descent-interactive-audio?ref=picks) - A lightweight, dependency-free interactive audio drama and fiction podcast framework with dynamic state-driven branching, Web Audio API… · [source](https://github.com/Samuelson777/the-descent-interactive-audio)
 - [snake bot projec](https://vibecruiser.com/v/felipecj07---snake-bot-projec?ref=picks) - O clássico jogo da cobrinha, feito em HTML5 Canvas + JavaScript puro (sem bibliotecas). Inclui placar, recorde salvo localmente, controle… · [source](https://github.com/FelipeCJ07/-snake_bot_projec)
 - [Snake Game](https://vibecruiser.com/v/aamirali65--snake-game?ref=picks) - The classic Snake game in plain HTML, CSS and JavaScript — no framework, no build step. Arrow keys steer the snake around the grid; eating… · [source](https://github.com/aamirali65/Snake-Game)
 - [life in 3 minutes](https://vibecruiser.com/v/sylvia-ccc--life-in-3-minutes?ref=picks) - 你点一下「投胎」，系统给你一个随机的出生地、一个家庭阶层、一副身体和一组天赋。 接着时间开始走，从 0 岁到死亡，大约三分钟。中间你会遇到大约 12 次需要自己拿主意的事—— 要不要继续念书、去大城市还是留下、接不接那份要搬家的升职、父母病了怎么办。 人生链接（同牌对决）… · [source](https://github.com/sylvia-ccc/life-in-3-minutes)
 - [Pac Man](https://vibecruiser.com/v/jueyi0206--pac-man?ref=picks) - Neon Pac-Man｜霓虹風小精靈，Canvas 手寫遊戲迴圈與鬼魂 AI，支援鍵盤與手機觸控 · [source](https://github.com/jueyi0206/Pac-Man)
 - [dots](https://vibecruiser.com/v/znrm--dots?ref=picks) - An entertaining, surprisingly sophisticated particle playground. Try it live! Dots is written in Vanilla JavaScript (ES6). It additionally… · [source](https://github.com/znrm/dots) ⭐ 5
 - [EgyptianHinduTicTacToe](https://vibecruiser.com/v/highviewone--egyptianhindutictactoe?ref=picks) - ▶ Play Live · Installable PWA · Works offline Standard Tic-Tac-Toe is solved — but this isn't standard Tic-Tac-Toe. Five named themes plus… · [source](https://github.com/HighviewOne/EgyptianHinduTicTacToe)
-- [tiger](https://vibecruiser.com/v/rahulatrkm--tiger?ref=picks) - A top-down jungle survival game. You are a tiger — choose male or female, roam a living jungle and a village, manage your hunger and… · [source](https://github.com/rahulatrkm/tiger)
-- [clack](https://vibecruiser.com/v/bralash--clack?ref=picks) - A minimalist typing test — inspired by the Bemonkey iOS app and built as a single self-contained index.html with no build step and no… · [source](https://github.com/bralash/clack)
-- [pacman](https://vibecruiser.com/v/bborbe--pacman?ref=picks) - Classic arcade Pac-Man game built with vanilla JavaScript. Navigate the maze, eat pellets, avoid ghosts, and rack up points! Play the game… · [source](https://github.com/bborbe/pacman)
 
-[See all 247 on VibeCruiser →](https://vibecruiser.com/t/vanilla-js?ref=picks)
+[See all 251 on VibeCruiser →](https://vibecruiser.com/t/vanilla-js?ref=picks)
 
 ## Game development demos
 
@@ -1095,14 +1095,14 @@ Games and the things people build games with: a neon racing game, a snake drawn 
 - [alone star](https://vibecruiser.com/v/monkeddev--alone-star?ref=picks) - created in 2 hours. just enjoy this peak game Я не знаю, что говорить. Это лучшая игра, которую я делал когда-либо за все 3 года обучения… · [source](https://github.com/monkedDev/alone-star) ⭐ 1
 - [celadon](https://vibecruiser.com/v/winchxyz--celadon?ref=picks) - A 3D pottery game with nothing in it but code. Throw a pot on a wheel, dry it, trim a foot, glaze it, fire it — and then find out what the… · [source](https://github.com/winchxyz/celadon)
 - [slime escape](https://vibecruiser.com/v/alxdos--slime-escape?ref=picks) - Escape the slime nightmare\: survive the waves while the darkness closes in, use the short breaks when it pulls back, and defeat the one who… · [source](https://github.com/alxdos/slime-escape) ⭐ 1
-- [Maxed Out](https://vibecruiser.com/v/jatzo--maxed-out?ref=picks) - A tower defence game for the browser, built around the account builds of Old School RuneScape. Unofficial fan project. Maxed Out is a… · [source](https://github.com/Jatzo/Maxed-Out)
-- [35 flappy bird game](https://vibecruiser.com/v/avishjain9--35-flappy-bird-game?ref=picks) - Source code for a Flappy Bird style game built in Unity game engine. You can check the blog post explaining its creation here. It has been… · [source](https://github.com/AVISHJAIN9/35-flappy-bird-game)
-- [kinetic ball](https://vibecruiser.com/v/wmsshl--kinetic-ball?ref=picks) - 当前仓库为测试模式：所有装备解锁价都是 0 ★，点击卡片并确认即可解锁 / 装备，方便直接体验全部内容。 想恢复正式价格，只需修改 TALENT\_COST 与 TALENT\_COST\_DEFAULT，详见星星与天赋。 仓库设置 → Pages → Deploy from a… · [source](https://github.com/WMSshl/kinetic_ball)
-- [Tic Tac Toe](https://vibecruiser.com/v/lakhderamine99--tic-tac-toe?ref=picks) - A sample and useful implementation of the Tic Tac Toe game using javascript and canvas 2d. Play the Tic Tic Toe game with diffrent AI… · [source](https://github.com/LakhderAmine99/Tic-Tac-Toe) ⭐ 1
-- [puzzle](https://vibecruiser.com/v/visionarylabs--puzzle?ref=picks) - Starting some public code to share and collaborate on JS and Canvas game development. We'll start with a puzzle code, based on Pentominoes… · [source](https://github.com/visionarylabs/puzzle) ⭐ 1
-- [tableTennis](https://vibecruiser.com/v/sgrprmnk--tabletennis?ref=picks) - use mouse to control the paddle the one who will score 5 at first, will win the game A single user can play computer will play as a player… · [source](https://github.com/sgrprmnk/tableTennis) ⭐ 1
+- [Vigile](https://vibecruiser.com/v/jfoissac--vigile?ref=picks) - Shooter de survie en vue subjective, dans le navigateur — une chapelle romane, huit heures de nuit, douze assauts de morts, et L'Officiant… · [source](https://github.com/JFoissac/Vigile)
+- [NEXUS... Pong](https://vibecruiser.com/v/jomutinho-creator--nexus--pong?ref=picks) - Um jogo arcade futurista para navegador que mistura pingue-pongue, futebol e uma rodada especial de roleta. NEXUS Arena é um jogo… · [source](https://github.com/jomutinho-creator/NEXUS...-Pong-)
+- [Vector Rocks](https://vibecruiser.com/v/vedjuk--vector-rocks?ref=picks) - A Deluxe-style vector shooter for the browser. Inertia flight, breaking asteroids, shields, hyperspace and hostile saucers, drawn in… · [source](https://github.com/vedjuk/Vector-Rocks)
+- [Vector Keep](https://vibecruiser.com/v/vedjuk--vector-keep?ref=picks) - A vector siege shooter for the browser. Blast through spinning energy rings, take out the gun at the core and dodge the homing mines it… · [source](https://github.com/vedjuk/Vector-Keep)
+- [8bit super mario](https://vibecruiser.com/v/vimaltiwari2612--8bit-super-mario?ref=picks) - A dependency-free, vanilla HTML5 Canvas and JavaScript platformer built in the style of classic 1985 8-bit arcade games. Featuring… · [source](https://github.com/vimaltiwari2612/8bit-super-mario)
+- [OpenCity](https://vibecruiser.com/v/faizankhan17623--opencity?ref=picks) - A GTA-style open-world game that runs entirely in the browser. Swing across a 10×10-block city on webs, drive, fly, sail the harbor, take… · [source](https://github.com/Faizankhan17623/OpenCity) ⭐ 1
 
-[See all 705 on VibeCruiser →](https://vibecruiser.com/t/game-development?ref=picks)
+[See all 712 on VibeCruiser →](https://vibecruiser.com/t/game-development?ref=picks)
 
 ## Simulation
 
@@ -1113,6 +1113,8 @@ Small worlds running on rules: slime moulds growing transport networks, falling 
 - [observer](https://vibecruiser.com/v/zx8325--observer?ref=picks) - 看一颗星球从混沌演化到文明。 Watch a planet evolve from chaos to civilization. 一局约四分钟。星球从混沌开始，依次走过冷却、海洋、大陆、生态、文明，最后落进一份编年史和一个结局。… · [source](https://github.com/ZX8325/observer)
 - [bcs](https://vibecruiser.com/v/iuriguilherme--bcs?ref=picks) - A hierarchical life simulation from atoms to social organisms. This is a browser-based interactive simulation where particles follow… · [source](https://github.com/iuriguilherme/bcs)
 - [celadon](https://vibecruiser.com/v/winchxyz--celadon?ref=picks) - A 3D pottery game with nothing in it but code. Throw a pot on a wheel, dry it, trim a foot, glaze it, fire it — and then find out what the… · [source](https://github.com/winchxyz/celadon)
+- [founders way](https://vibecruiser.com/v/tobeficv--founders-way?ref=picks) - A 3D startup tycoon where you build your own company idea, test it against realistic rules and find out whether it would survive in the… · [source](https://github.com/tobeficv/founders-way)
+- [kintsugi webgpu](https://vibecruiser.com/v/tahabakri--kintsugi-webgpu?ref=picks) - ▶ Open the live demo · needs a browser with WebGPU (Chrome or Edge) Break a porcelain bowl in your browser, then put it back together with… · [source](https://github.com/tahabakri/kintsugi-webgpu)
 - [game of life](https://vibecruiser.com/v/celaldrg--game-of-life?ref=picks) - A 120 × 80 grid drawn on a canvas that stays sharp on high-DPI screens. The edges either wrap around (a torus) or act as walls. Draw or… · [source](https://github.com/celaldrg/game-of-life)
 - [blix](https://vibecruiser.com/v/voormann--blix?ref=picks) - A particle system built for Canvas 2D that's simple to use and customize. The main focus is performance with batch rendering, minimal color… · [source](https://github.com/voormann/blix)
 - [dots](https://vibecruiser.com/v/znrm--dots?ref=picks) - An entertaining, surprisingly sophisticated particle playground. Try it live! Dots is written in Vanilla JavaScript (ES6). It additionally… · [source](https://github.com/znrm/dots) ⭐ 5
@@ -1121,10 +1123,8 @@ Small worlds running on rules: slime moulds growing transport networks, falling 
 - [particle attractor](https://vibecruiser.com/v/nhv33--particle-attractor?ref=picks) - A simple little particle simulation in JavaScript · [source](https://github.com/NHV33/particle_attractor)
 - [webgl wind](https://vibecruiser.com/v/mapbox--webgl-wind?ref=picks) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps. Cameron Beccario and his… · [source](https://github.com/mapbox/webgl-wind) ⭐ 1112
 - [spiel des lebens](https://vibecruiser.com/v/nomiknomik--spiel-des-lebens?ref=picks) - Interaktive Simulation des zellulären Automaten von John Horton Conway (1970) – ein anschauliches Beispiel dafür, wie aus vier simplen… · [source](https://github.com/nomiknomik/spiel-des-lebens)
-- [Fraktaler Baum Simulator](https://vibecruiser.com/v/matthiasscg--fraktaler-baum-simulator?ref=picks) - Prozedural generierte 3D-Bäume im Browser\: eine eigenständige HTML-Datei mit WebGL2-Rendering, offline lauffähig, ohne Abhängigkeiten… · [source](https://github.com/MatthiasSCG/Fraktaler-Baum-Simulator)
-- [babylon lite pixel walker](https://vibecruiser.com/v/samuelasherrivello-com-ai--babylon-lite-pixel-walker?ref=picks) - A little world in your hands. Pour sand, water, oil, and fire into an enchanted cavern, then walk, jump, and swim through the result. Find… · [source](https://github.com/SamuelAsherRivello-com-ai/babylon-lite-pixel-walker)
 
-[See all 154 on VibeCruiser →](https://vibecruiser.com/t/simulation?ref=picks)
+[See all 156 on VibeCruiser →](https://vibecruiser.com/t/simulation?ref=picks)
 
 ## CSS demos
 
@@ -1132,6 +1132,9 @@ Projects that lean on CSS, the language that styles web pages, for more than sty
 
 - [playground](https://vibecruiser.com/v/rosettaskeys--playground?ref=picks) - Every door here has its own key. Wander in. Five small worlds, each grown from its own soil — a fidget garden, a deck that won't sit still… · [source](https://github.com/RosettasKeys/playground)
 - [Rock Paper Scissor simulator](https://vibecruiser.com/v/fistofhit--rock-paper-scissor-simulator?ref=picks) - A 2D entity-based Rock-Paper-Scissor simulator done entirely by vibe-coding. Using Gemini 2.5 and Manus. In this game, rocks, papers, and… · [source](https://github.com/FistOfHit/Rock-Paper-Scissor-simulator) ⭐ 2
+- [NEXUS... Pong](https://vibecruiser.com/v/jomutinho-creator--nexus--pong?ref=picks) - Um jogo arcade futurista para navegador que mistura pingue-pongue, futebol e uma rodada especial de roleta. NEXUS Arena é um jogo… · [source](https://github.com/jomutinho-creator/NEXUS...-Pong-)
+- [music visualization](https://vibecruiser.com/v/blucelicoder--music-visualization?ref=picks) - Stillwave 是一个纯前端的音乐可视化播放器。选择本地歌曲、专辑封面和 LRC 歌词，即可在浏览器中播放音乐、查看实时音频可视化和同步歌词，并自定义界面氛围色。 -本地音频播放 - 支持 MP3、M4A、WAV 等格式 -实时音频可视化 - 使用 Web Audio… · [source](https://github.com/bluceliCoder/music-visualization)
+- [lwy](https://vibecruiser.com/v/raven121121--lwy?ref=picks) - 一款以旧电脑为入口的网页叙事解谜游戏。 你在母亲留下的旧物中发现了一把钥匙，以及一个从未听说过的地址——槐花市。来到那间无人居住的房子后，你打开了一台多年没有启动的电脑。邮件、聊天记录、旧论坛、校园网站和新闻档案散落在不同角落；只有将它们重新拼合，才能理解母亲从未讲述的过去。… · [source](https://github.com/Raven121121/lwy)
 - [snake game javascript](https://vibecruiser.com/v/madhumithajs2006-lgtm--snake-game-javascript?ref=picks) - Interactive Snake Game built using HTML,CSS and JavaScript with keyboard controls and score Tracking. · [source](https://github.com/madhumithajs2006-lgtm/snake-game-javascript)
 - [snake bot projec](https://vibecruiser.com/v/felipecj07---snake-bot-projec?ref=picks) - O clássico jogo da cobrinha, feito em HTML5 Canvas + JavaScript puro (sem bibliotecas). Inclui placar, recorde salvo localmente, controle… · [source](https://github.com/FelipeCJ07/-snake_bot_projec)
 - [waterfall webgl](https://vibecruiser.com/v/piellardj--waterfall-webgl?ref=picks) - A WebGL waterfall simulation from a simple particles system. Port of an old OpenGL project\: particles-gpu. Original idea from Chris… · [source](https://github.com/piellardj/waterfall-webgl) ⭐ 2
@@ -1142,11 +1145,8 @@ Projects that lean on CSS, the language that styles web pages, for more than sty
 - [rtr](https://vibecruiser.com/v/tmdstudios--rtr?ref=picks) - Road to Rage is an open-source demo of the first game I ever published. The original game was written in Python and then rewritten in Java… · [source](https://github.com/TMDStudios/rtr)
 - [pacman game](https://vibecruiser.com/v/thinal-fernando--pacman-game?ref=picks) - A classic Pacman clone built with vanilla JavaScript, HTML5 Canvas, and CSS. This project recreates the nostalgic arcade experience… · [source](https://github.com/Thinal-Fernando/pacman-game) ⭐ 1
 - [pacman](https://vibecruiser.com/v/nethan-k--pacman?ref=picks) - Click here for the live version of this repository! This game is still under development and is not functional yet. This clone of pacman is… · [source](https://github.com/nethan-k/pacman) ⭐ 3
-- [meiro](https://vibecruiser.com/v/wadiim--meiro?ref=picks) - A web page maze game. · [source](https://github.com/wadiim/meiro) ⭐ 1
-- [maze generator](https://vibecruiser.com/v/codecaine-zz--maze-generator?ref=picks) - Welcome to the Maze Game! This application generates a maze of varying difficulty levels and allows you to navigate through it using your… · [source](https://github.com/codecaine-zz/maze_generator)
-- [MiniMazeGame](https://vibecruiser.com/v/xez0--minimazegame?ref=picks) - Demo\: · [source](https://github.com/Xez0/MiniMazeGame)
 
-[See all 455 on VibeCruiser →](https://vibecruiser.com/t/css?ref=picks)
+[See all 459 on VibeCruiser →](https://vibecruiser.com/t/css?ref=picks)
 
 ## Single file games
 
@@ -1158,6 +1158,7 @@ Each of these is one HTML file: a first-person shooter, an ink-wash landscape yo
 - [hatchabit](https://vibecruiser.com/v/fannno--hatchabit?ref=picks) - Hatchabit 是一款以電子寵物養成為核心的互動式 Web App。玩家會從神秘蛋中遇見自己的第一隻「小 Bit」，透過餵食、摸摸、戳戳、洗澡、睡眠與小遊戲陪伴牠成長，也可以收集不同種類的小 Bit、佈置房間、收藏紀念品，或在忙碌時請保母協助照顧。 本專案以 Vibe… · [source](https://github.com/Fannno/hatchabit)
 - [v gallery](https://vibecruiser.com/v/lexbayart--v-gallery?ref=picks) - A 3D corridor of colored cards bent into a V — you scroll through it, hover brings a card to the front, and a click drops a new card into… · [source](https://github.com/lexbayart/v-gallery)
 - [mchess](https://vibecruiser.com/v/vafran--mchess?ref=picks) - A complete, single-file chess game built for children learning to play. No installation. No internet. No accounts. Open the .html file in… · [source](https://github.com/vafran/mchess)
+- [One HTML Design](https://vibecruiser.com/v/moreani--one-html-design?ref=picks) - Canvas 2D, CSS and vanilla JavaScript only. Lumen traces its rays in JavaScript; Proof magnifies a real DOM copy of the article and draws… · [source](https://github.com/moreani/One-HTML-Design)
 - [kinetic ball](https://vibecruiser.com/v/wmsshl--kinetic-ball?ref=picks) - 当前仓库为测试模式：所有装备解锁价都是 0 ★，点击卡片并确认即可解锁 / 装备，方便直接体验全部内容。 想恢复正式价格，只需修改 TALENT\_COST 与 TALENT\_COST\_DEFAULT，详见星星与天赋。 仓库设置 → Pages → Deploy from a… · [source](https://github.com/WMSshl/kinetic_ball)
 - [life in 3 minutes](https://vibecruiser.com/v/sylvia-ccc--life-in-3-minutes?ref=picks) - 你点一下「投胎」，系统给你一个随机的出生地、一个家庭阶层、一副身体和一组天赋。 接着时间开始走，从 0 岁到死亡，大约三分钟。中间你会遇到大约 12 次需要自己拿主意的事—— 要不要继续念书、去大城市还是留下、接不接那份要搬家的升职、父母病了怎么办。 人生链接（同牌对决）… · [source](https://github.com/sylvia-ccc/life-in-3-minutes)
 - [signal defender](https://vibecruiser.com/v/davidwang1231--signal-defender?ref=picks) - A PCB-aesthetic bullet-hell shooter that lives in a single HTML file — zero dependencies, no build step, double-click to play. Fully… · [source](https://github.com/DavidWang1231/signal-defender)
@@ -1166,9 +1167,8 @@ Each of these is one HTML file: a first-person shooter, an ink-wash landscape yo
 - [protein origami](https://vibecruiser.com/v/kraewon7422--protein-origami?ref=picks) - A small browser game about how proteins fold. Fold a toy amino-acid chain on a grid until it reaches its lowest energy. The rules are the… · [source](https://github.com/kraewon7422/protein-origami)
 - [graft](https://vibecruiser.com/v/qjl0201qjl--graft?ref=picks) - 你不是在玩一个像素游戏 —— 你这具身体就是像素。 一个像素平台跳跃游戏\:你的身体由几十个 8×8 像素格组成,每一格都是从世界里抢来的材料。受伤是被削掉,变强是贴上去,而你的形状决定了你能去哪、打得过谁。 电脑和手机都能玩;手机上可以"添加到主屏幕",全屏横屏运行。… · [source](https://github.com/qjl0201qjl/graft)
 - [ember blade](https://vibecruiser.com/v/cccfeiyyy--ember-blade?ref=picks) - 一款可在浏览器直接游玩的第三人称 3D 剑斗动作 Roguelite。单文件、离线可玩、无需安装任何环境。 点击「开始战斗」后先选择第一道「回响」构筑，随后浏览器会锁定鼠标视角；按 Esc 暂停。 建议佩戴耳机：音乐与音效均为实时合成，无外部音频文件。 开局及每波肃清后，从 3… · [source](https://github.com/cccfeiyyy/ember-blade)
-- [ram rush](https://vibecruiser.com/v/freshbin--ram-rush?ref=picks) - 你是一台只有 1024KB 内存的老服务器，chrome.exe 要 32 格，你只有 256 格。 一个关于内存分配的单文件网页游戏。16×16 共 256 格内存条，每格 4KB，加起来正好… · [source](https://github.com/freshbin/ram-rush)
 
-[See all 135 on VibeCruiser →](https://vibecruiser.com/t/single-file?ref=picks)
+[See all 138 on VibeCruiser →](https://vibecruiser.com/t/single-file?ref=picks)
 
 ## GSAP demos
 
@@ -1199,6 +1199,8 @@ Pixel art is drawing on a grid you can see: every square placed on purpose, a sm
 - [Git World](https://vibecruiser.com/v/ashusriwastav07--git-world?ref=picks) - A 3D Minecraft-style city where every GitHub developer becomes a building. The more you code, the taller your building grows. Explore… · [source](https://github.com/AshuSriwastav07/Git-World) ⭐ 2
 - [hatchabit](https://vibecruiser.com/v/fannno--hatchabit?ref=picks) - Hatchabit 是一款以電子寵物養成為核心的互動式 Web App。玩家會從神秘蛋中遇見自己的第一隻「小 Bit」，透過餵食、摸摸、戳戳、洗澡、睡眠與小遊戲陪伴牠成長，也可以收集不同種類的小 Bit、佈置房間、收藏紀念品，或在忙碌時請保母協助照顧。 本專案以 Vibe… · [source](https://github.com/Fannno/hatchabit)
 - [rps rivals](https://vibecruiser.com/v/robinneefs--rps-rivals?ref=picks) - Coded on only the purest of vibes. Free · No install · Desktop and phone vs the CPU, or vs a friend online with a 4-letter room code RPS… · [source](https://github.com/robinneefs/rps-rivals)
+- [the grand ascent](https://vibecruiser.com/v/skiingish--the-grand-ascent?ref=picks) - You are the lift. The lift is you. A 1920s Art-Deco lift-operator arcade game — one self-contained HTML file, no build step, no… · [source](https://github.com/skiingish/the-grand-ascent)
+- [funcao quest](https://vibecruiser.com/v/maicaobonito--funcao-quest?ref=picks) - RPG educativo em pixel art para aprender funções matemáticas. O reino de Mathland está em colapso\: o vilão Caos Numérico corrompeu todas as… · [source](https://github.com/maicaobonito/funcao-quest)
 - [Maxed Out](https://vibecruiser.com/v/jatzo--maxed-out?ref=picks) - A tower defence game for the browser, built around the account builds of Old School RuneScape. Unofficial fan project. Maxed Out is a… · [source](https://github.com/Jatzo/Maxed-Out)
 - [kryptex](https://vibecruiser.com/v/kxz0tn--kryptex?ref=picks) - Decode the signal. Make first contact. A portrait, classic-style neon arcade memory game for phones and desktop browsers. A signal is… · [source](https://github.com/kxz0tn/kryptex)
 - [nemesis wind](https://vibecruiser.com/v/jeiel85--nemesis-wind?ref=picks) - 《미들 어스\: 섀도우 오브 모르도르 / 섀도우 오브 워》의 네메시스 시스템(Nemesis System) 을 90년대 클래식 2D 도트 MMORPG 《바람의 나라》 감성으로 완벽 결합한 웹 기반 2D 픽셀 아트 액션 RPG "네놈이 헬파이어로 불태워… · [source](https://github.com/jeiel85/nemesis-wind)
@@ -1209,10 +1211,8 @@ Pixel art is drawing on a grid you can see: every square placed on purpose, a sm
 - [babylon lite pixel walker](https://vibecruiser.com/v/samuelasherrivello-com-ai--babylon-lite-pixel-walker?ref=picks) - A little world in your hands. Pour sand, water, oil, and fire into an enchanted cavern, then walk, jump, and swim through the result. Find… · [source](https://github.com/SamuelAsherRivello-com-ai/babylon-lite-pixel-walker)
 - [super giorgi](https://vibecruiser.com/v/gogodzilla--super-giorgi?ref=picks) - A pixel-art platformer on the streets of Batumi, in the spirit of Super Mario. Jump over Prius taxis, make friends with stray dogs, knock… · [source](https://github.com/gogodzilla/super-giorgi)
 - [pixel studio](https://vibecruiser.com/v/muhammadalims--pixel-studio?ref=picks) - Make viral pixel-art videos with Claude. A free, dependency-free engine\: every pixel, physics beat and sound effect is drawn in code. · [source](https://github.com/MuhammadaliMS/pixel-studio)
-- [Pixel GP 2D Top Down Retro Pixel Racing](https://vibecruiser.com/v/pennypixellab---pixel-gp-2d-top-down-retro-pixel-racing?ref=picks) - Pixel GP 是一款基於 HTML5 Canvas 與 Web Audio API 打造的俯視角（Sky-View Top-Down）2D 復古像素賽車遊戲，支援 PC 瀏覽器鍵盤操作與手機觸控直覺遊玩。遊戲採用單一 HTML… · [source](https://github.com/PennyPixelLab/-Pixel-GP-2D-Top-Down-Retro-Pixel-Racing-)
-- [mirage](https://vibecruiser.com/v/nulljosh--mirage?ref=picks) - A small desert platformer that runs inside Joshua Tree, a computer built from scratch. The spring on the mesa has gone quiet and the town… · [source](https://github.com/nulljosh/mirage)
 
-[See all 214 on VibeCruiser →](https://vibecruiser.com/t/pixel-art?ref=picks)
+[See all 216 on VibeCruiser →](https://vibecruiser.com/t/pixel-art?ref=picks)
 
 ## Cellular automata games
 
@@ -1234,7 +1234,7 @@ A cellular automaton is a grid of cells that each look at their neighbours and f
 - [canvaslife](https://vibecruiser.com/v/trebek--canvaslife?ref=picks) - A JavaScript and HTML5 implementation of Conway's Game of Life. · [source](https://github.com/Trebek/canvaslife)
 - [gol webapp](https://vibecruiser.com/v/jamais-vu--gol-webapp?ref=picks) - User-interactive JavaScript web app of Conway's Game of Life. Play with the web app at Use the Previous Step and Next Step buttons, or left… · [source](https://github.com/jamais-vu/gol-webapp)
 
-[See all 83 on VibeCruiser →](https://vibecruiser.com/t/cellular-automata?ref=picks)
+[See all 84 on VibeCruiser →](https://vibecruiser.com/t/cellular-automata?ref=picks)
 
 ## js13k games
 
@@ -1278,7 +1278,7 @@ Phaser is a free, open-source framework for making 2D games that run in the brow
 - [cricket catcher](https://vibecruiser.com/v/wilfredo-domanico-jr--cricket-catcher?ref=picks) - Cricket Catcher is a small open-world creature-catching game built with the Phaser 3 engine. You explore a top-down map with a park, lakes… · [source](https://github.com/wilfredo-domanico-jr/cricket-catcher)
 - [bee vs hornets](https://vibecruiser.com/v/tw365-org--bee-vs-hornets?ref=picks) - 🕹️ 經典街機手感：CRT 掃描線濾鏡、8-Bit 點陣字體與懷舊像素微光特效。 ⚡ 4 階重武器進階系統：隨分數突破自動升級，從雙連發蜂針、花蜜散彈、蜂王追蹤微導彈，一路解鎖至毀滅性的等離子重砲！ 💥 花粉天譴核爆 (Pollen… · [source](https://github.com/tw365-org/bee-vs-hornets)
 
-[See all 266 on VibeCruiser →](https://vibecruiser.com/t/phaser?ref=picks)
+[See all 267 on VibeCruiser →](https://vibecruiser.com/t/phaser?ref=picks)
 
 ## PixiJS games
 
@@ -1307,6 +1307,8 @@ PixiJS is a fast 2D renderer for the web: it puts thousands of sprites on screen
 Snake is the one where you steer a line around the screen, eat what appears and grow longer until you run into yourself.
 
 - [classic snake v2](https://vibecruiser.com/v/sartaj1995--classic-snake-v2?ref=picks) - A modernized, retro-inspired take on the classic arcade Snake game. Built entirely using vanilla web technologies, this version introduces… · [source](https://github.com/sartaj1995/classic_snake__v2) ⭐ 1
+- [snake ai trainer](https://vibecruiser.com/v/morobang--snake-ai-trainer?ref=picks) - ▶ Play it live → A browser-based Snake game with a Q-learning AI agent that trains in real time. Watch it fail hundreds of times, then… · [source](https://github.com/Morobang/snake-ai-trainer)
+- [snake](https://vibecruiser.com/v/avikpln--snake?ref=picks) - The classic Snake game, built on top of the Game GUI Framework as a demonstration of the framework's reusable game loop and rendering… · [source](https://github.com/avikpln/snake)
 - [snake game javascript](https://vibecruiser.com/v/madhumithajs2006-lgtm--snake-game-javascript?ref=picks) - Interactive Snake Game built using HTML,CSS and JavaScript with keyboard controls and score Tracking. · [source](https://github.com/madhumithajs2006-lgtm/snake-game-javascript)
 - [snake bot projec](https://vibecruiser.com/v/felipecj07---snake-bot-projec?ref=picks) - O clássico jogo da cobrinha, feito em HTML5 Canvas + JavaScript puro (sem bibliotecas). Inclui placar, recorde salvo localmente, controle… · [source](https://github.com/FelipeCJ07/-snake_bot_projec)
 - [Snake Game](https://vibecruiser.com/v/aamirali65--snake-game?ref=picks) - The classic Snake game in plain HTML, CSS and JavaScript — no framework, no build step. Arrow keys steer the snake around the grid; eating… · [source](https://github.com/aamirali65/Snake-Game)
@@ -1319,10 +1321,8 @@ Snake is the one where you steer a line around the screen, eat what appears and 
 - [number snake](https://vibecruiser.com/v/szuck12--number-snake?ref=picks) - A twist on the classic game Snake, where you eat numbered circles to grow the length of your snake, and dodge stationary and moving spikes. · [source](https://github.com/szuck12/number-snake)
 - [Snake game](https://vibecruiser.com/v/aleezaakhter80-arch--snake-game?ref=picks) - A classic and interactive Snake Game built using HTML, CSS, and JavaScript. · [source](https://github.com/aleezaakhter80-arch/Snake-game-)
 - [snake game](https://vibecruiser.com/v/saurav56295--snake-game?ref=picks) - A modern and responsive Snake Game built using HTML, CSS, and JavaScript. 🌍 Wrap Around Walls (No Wall Collision). 🍎 Red Food (+1 Score)… · [source](https://github.com/Saurav56295/snake-game) ⭐ 1
-- [void serpent 3d](https://vibecruiser.com/v/enderbull--void-serpent-3d?ref=picks) - 一个真正在 XYZ 三维空间里飞行的贪吃蛇 Roguelite + 增量养成游戏。 在三维虚空中吞噬数据，进化成连物理法则都害怕的东西。 ▶ 开始游戏 · 单文件版本 · 操作说明 这不是把 2D 贪吃蛇换了个 3D 皮。场地是一个 88×88×88… · [source](https://github.com/EnderBull/void-serpent-3d)
-- [snake](https://vibecruiser.com/v/youngsanifone--snake?ref=picks) - A modern take on the classic Snake — built as a Telegram Mini App with pure HTML5 Canvas, online leaderboards, and cross-device progress. ▶… · [source](https://github.com/youngsanifone/snake)
 
-[See all 278 on VibeCruiser →](https://vibecruiser.com/t/snake?ref=picks)
+[See all 281 on VibeCruiser →](https://vibecruiser.com/t/snake?ref=picks)
 
 ## Tetris games
 
@@ -1350,6 +1350,7 @@ Falling blocks, four squares each: turn them, slide them and clear a line every 
 
 Pong is the oldest trick in the arcade: two paddles, one ball, keep it in play.
 
+- [NEXUS... Pong](https://vibecruiser.com/v/jomutinho-creator--nexus--pong?ref=picks) - Um jogo arcade futurista para navegador que mistura pingue-pongue, futebol e uma rodada especial de roleta. NEXUS Arena é um jogo… · [source](https://github.com/jomutinho-creator/NEXUS...-Pong-)
 - [hand tracking pong](https://vibecruiser.com/v/alyhxn--hand-tracking-pong?ref=picks) - A modern, interactive twist on the classic arcade game Pong! This browser-based game uses your webcam and Google's MediaPipe Hands to let… · [source](https://github.com/alyhxn/hand-tracking-pong)
 - [pong js](https://vibecruiser.com/v/marcomaz--pong-js?ref=picks) - The classic "Pong" arcade game built with HTML5, CSS3, and JAVASCRIPT. · [source](https://github.com/MarcoMaz/pong-js)
 - [HumanPong](https://vibecruiser.com/v/yoanbernabeu--humanpong?ref=picks) - A retro 80s-style Pong game where you control the paddles with your body using your webcam. No controllers needed — just your hands or your… · [source](https://github.com/yoanbernabeu/HumanPong) ⭐ 2
@@ -1364,9 +1365,8 @@ Pong is the oldest trick in the arcade: two paddles, one ball, keep it in play.
 - [Paddle duel](https://vibecruiser.com/v/jesuslovestyler--paddle-duel?ref=picks) - A free paddle game you play in your browser\: two paddles, one ball, first to blink loses — the oldest video game duel there is. One… · [source](https://github.com/jesuslovestyler/Paddle-duel)
 - [gravity pong](https://vibecruiser.com/v/mert574--gravity-pong?ref=picks) - A browser paddle game built with JavaScript and Canvas. Keep a gravity-driven ball in play and compete against a computer-controlled… · [source](https://github.com/mert574/gravity-pong) ⭐ 1
 - [Greentendo](https://vibecruiser.com/v/saganaki22--greentendo?ref=picks) - 🕹️ Play Now - Live Demo A nostalgic Game Boy simulator featuring classic games like Snake, Pong, Tetris, Space Invaders, and more, built… · [source](https://github.com/Saganaki22/Greentendo) ⭐ 3
-- [pong arcade](https://vibecruiser.com/v/stonedhawk--pong-arcade?ref=picks) - A browser-based classic Pong game — no frameworks, no build tools, just one HTML file. Use W/S or Arrow keys to move your paddle. First to… · [source](https://github.com/stonedhawk/pong-arcade)
 
-[See all 107 on VibeCruiser →](https://vibecruiser.com/t/pong?ref=picks)
+[See all 108 on VibeCruiser →](https://vibecruiser.com/t/pong?ref=picks)
 
 ## Breakout games
 
@@ -1388,7 +1388,7 @@ Breakout hands you a paddle, a ball and a wall of bricks to smash one bounce at 
 - [monsterpong](https://vibecruiser.com/v/michelebucelli--monsterpong?ref=picks) - Our entry for Github GameOff 2018 Arrow keys to move your paddle, spacebar to shoot. attack (atk) - the number of balls you shoot. defense… · [source](https://github.com/michelebucelli/monsterpong) ⭐ 29
 - [learn breakout js](https://vibecruiser.com/v/davinaleong--learn-breakout-js?ref=picks) - Here is me taking a spin at making a simple game in JavaScript. 2D breakout game using pure JavaScript, Destroy all bricks to win. You lose… · [source](https://github.com/davinaleong/learn-breakout-js) ⭐ 1
 
-[See all 87 on VibeCruiser →](https://vibecruiser.com/t/breakout?ref=picks)
+[See all 88 on VibeCruiser →](https://vibecruiser.com/t/breakout?ref=picks)
 
 ## Flappy Bird games
 
@@ -1432,7 +1432,7 @@ Minesweeper is a grid of hidden squares and a handful of mines: open one, read t
 - [mannin sweeper](https://vibecruiser.com/v/yourid-win--mannin-sweeper?ref=picks) - 満員電車をテーマにした、ブラウザだけで遊べるマインスイーパー風パズルゲームです。 左クリックまたはタップでマスを開きます。 右クリックで危険地帯に旗を立てます。 数字は周囲8マスにある危険地帯の数です。 すべての安全地帯を見つけるとクリアです。… · [source](https://github.com/YourID-win/mannin-sweeper)
 - [JSMinesweeper](https://vibecruiser.com/v/davidnhill--jsminesweeper?ref=picks) - Play Minesweeper and analyse arbitrary positions at This readme explains how to use the software and what techniques the solver uses. This… · [source](https://github.com/DavidNHill/JSMinesweeper) ⭐ 176
 
-[See all 53 on VibeCruiser →](https://vibecruiser.com/t/minesweeper?ref=picks)
+[See all 55 on VibeCruiser →](https://vibecruiser.com/t/minesweeper?ref=picks)
 
 ## Asteroids games
 
@@ -1496,7 +1496,7 @@ Pac-Man is the maze chase: eat every dot, dodge the ghosts, then grab a power pe
 - [pacman](https://vibecruiser.com/v/hammadshakeelai--pacman?ref=picks) - A playable Pac-Man style arcade game in vanilla JavaScript and HTML5 canvas. No dependencies, no build step, no bundler — three static… · [source](https://github.com/hammadshakeelai/pacman) ⭐ 1
 - [pacman](https://vibecruiser.com/v/joseftraxler--pacman?ref=picks) - Klon klasické arkádové hry Pac-Man napsaný v čistém JavaScriptu (ES moduly), který běží celý na HTML . Bez frameworků, bez závislostí, bez… · [source](https://github.com/joseftraxler/pacman)
 
-[See all 52 on VibeCruiser →](https://vibecruiser.com/t/pac-man?ref=picks)
+[See all 51 on VibeCruiser →](https://vibecruiser.com/t/pac-man?ref=picks)
 
 ## Sudoku games
 
@@ -1606,7 +1606,7 @@ Mazes and labyrinths to get lost in: find the exit, outrun something, or just wa
 - [maze generator](https://vibecruiser.com/v/codecaine-zz--maze-generator?ref=picks) - Welcome to the Maze Game! This application generates a maze of varying difficulty levels and allows you to navigate through it using your… · [source](https://github.com/codecaine-zz/maze_generator)
 - [MiniMazeGame](https://vibecruiser.com/v/xez0--minimazegame?ref=picks) - Demo\: · [source](https://github.com/Xez0/MiniMazeGame)
 
-[See all 89 on VibeCruiser →](https://vibecruiser.com/t/maze?ref=picks)
+[See all 90 on VibeCruiser →](https://vibecruiser.com/t/maze?ref=picks)
 
 ## Tower defense games
 
@@ -1635,6 +1635,8 @@ Tower defense: enemies march down a path, you build towers along it, and every w
 Platformers are about running and jumping: across gaps, onto ledges, past enemies and toward the end of the level.
 
 - [Alchemist s Dungeon game](https://vibecruiser.com/v/aligokcek1--alchemist-s-dungeon-game?ref=picks) - ➡️ Play the game here! ⬅️ A retro-style, desktop-focused platformer game built with pure Vanilla JavaScript, HTML, and CSS, styled with… · [source](https://github.com/aligokcek1/Alchemist-s-Dungeon-game) ⭐ 1
+- [8bit super mario](https://vibecruiser.com/v/vimaltiwari2612--8bit-super-mario?ref=picks) - A dependency-free, vanilla HTML5 Canvas and JavaScript platformer built in the style of classic 1985 8-bit arcade games. Featuring… · [source](https://github.com/vimaltiwari2612/8bit-super-mario)
+- [stone age odyssey](https://vibecruiser.com/v/jeiel85--stone-age-odyssey?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 8대 스테이지 &amp; 4인 영웅 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 4명의 플레이어블 캐릭터, 8종 테마… · [source](https://github.com/jeiel85/stone-age-odyssey)
 - [naorush](https://vibecruiser.com/v/c0sm0cats--naorush?ref=picks) - Un jeu de plateforme dans les bureaux d’Inetum, façon Rick Dangerous et Prince of Persia. Les NAO commencent jeudi et l’enveloppe des… · [source](https://github.com/C0sm0cats/naorush)
 - [goindol](https://vibecruiser.com/v/jeiel85--goindol?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 6대 스테이지 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 6종 테마 배경과 Web Audio API 칩튠… · [source](https://github.com/jeiel85/goindol)
 - [super giorgi](https://vibecruiser.com/v/gogodzilla--super-giorgi?ref=picks) - A pixel-art platformer on the streets of Batumi, in the spirit of Super Mario. Jump over Prius taxis, make friends with stray dogs, knock… · [source](https://github.com/gogodzilla/super-giorgi)
@@ -1647,10 +1649,8 @@ Platformers are about running and jumping: across gaps, onto ledges, past enemie
 - [basic platformer](https://vibecruiser.com/v/nex2406--basic-platformer?ref=picks) - A small 2D platformer where the physics are the point\: springboards, platforms that carry you, hazards that spin — and a panel that lets… · [source](https://github.com/Nex2406/basic-platformer)
 - [lumen](https://vibecruiser.com/v/darangonaut--lumen?ref=picks) - Pixel art plošinovka do prehliadača o malej postavičke s lampášom vo svete, ktorý zhasol. Svetlo je všetko\: ukazuje cestu, odháňa tiene a… · [source](https://github.com/darangonaut/lumen)
 - [graft](https://vibecruiser.com/v/qjl0201qjl--graft?ref=picks) - 你不是在玩一个像素游戏 —— 你这具身体就是像素。 一个像素平台跳跃游戏\:你的身体由几十个 8×8 像素格组成,每一格都是从世界里抢来的材料。受伤是被削掉,变强是贴上去,而你的形状决定了你能去哪、打得过谁。 电脑和手机都能玩;手机上可以"添加到主屏幕",全屏横屏运行。… · [source](https://github.com/qjl0201qjl/graft)
-- [xueyuanlu gamejam](https://vibecruiser.com/v/huajianwanzhao--xueyuanlu-gamejam?ref=picks) - 一个能直接跑的 Godot 4.7 平台跳跃骨架：主菜单 → 两关 → 暂停 → 通关结算，全流程可玩、可导出。 骨架先跑着，玩法边做边换。 每次 push 到 main，GitHub Actions 会自动把最新版本导出成 Web 版发布到上面这个地址（约 2… · [source](https://github.com/huajianwanzhao/xueyuanlu_gamejam)
-- [debug legend](https://vibecruiser.com/v/musayazlik--debug-legend?ref=picks) - A retro pixel-art platformer that turns debugging into an epic. Ela pushed to production, the bug monsters kidnapped her, and it is up to… · [source](https://github.com/musayazlik/debug-legend)
 
-[See all 199 on VibeCruiser →](https://vibecruiser.com/t/platformer?ref=picks)
+[See all 202 on VibeCruiser →](https://vibecruiser.com/t/platformer?ref=picks)
 
 ## Racing games
 
@@ -1672,13 +1672,15 @@ Racing games in a browser tab: kart tracks, top-down circuits, endless highways 
 - [webracing](https://vibecruiser.com/v/markclausing--webracing?ref=picks) - Top-down arcade racing in the spirit of the 16-bit tabletop racers\: tiny cars on a kitchen table, a camera that zooms out to hold the… · [source](https://github.com/markclausing/webracing)
 - [psycho odin](https://vibecruiser.com/v/skorotkiewicz--psycho-odin?ref=picks) - Your music becomes a psychedelic roller coaster. An audio-reactive puzzle racer written in Odin with raylib. PSYCHO listens to a song… · [source](https://github.com/skorotkiewicz/psycho-odin) ⭐ 8
 
-[See all 98 on VibeCruiser →](https://vibecruiser.com/t/racing?ref=picks)
+[See all 97 on VibeCruiser →](https://vibecruiser.com/t/racing?ref=picks)
 
 ## Shooter games
 
 Shooters, from top-down arenas and twin-stick blasters to shoot 'em ups, bullet hell and first-person runs.
 
 - [nova lancer](https://vibecruiser.com/v/tanuu5--nova-lancer?ref=picks) - Claude Code × Claude Opus 5.5（MAX） で、依頼 1 回・約 1 時間 40 分で作りました（トークン使用量は制作についてに記載）。 スターフォックス系の 3D レールシューティングを、ブラウザ向けにゼロから作ったオリジナル作品です。… · [source](https://github.com/tanuu5/nova-lancer) ⭐ 7
+- [Vigile](https://vibecruiser.com/v/jfoissac--vigile?ref=picks) - Shooter de survie en vue subjective, dans le navigateur — une chapelle romane, huit heures de nuit, douze assauts de morts, et L'Officiant… · [source](https://github.com/JFoissac/Vigile)
+- [neon vortex](https://vibecruiser.com/v/edwardxiong2027--neon-vortex?ref=picks) - A juicy neon arena shooter that runs in your browser. No install, no dependencies — just pure Canvas + WebAudio. Survive an endless swarm… · [source](https://github.com/edwardxiong2027/neon-vortex)
 - [rene shooter](https://vibecruiser.com/v/lemonadev03--rene-shooter?ref=picks) - A third-person beach shooter built with Three.js. You play Rene\: a 3D model based on the Ateneo #2 photo (white "ATENEO" #2 jersey with… · [source](https://github.com/lemonadev03/rene-shooter)
 - [space shooter](https://vibecruiser.com/v/celaldrg--space-shooter?ref=picks) - Fly a small fighter through ten scripted waves of weaving, diving and gun-turret enemies, collect weapon upgrades and shields, keep a combo… · [source](https://github.com/celaldrg/space-shooter)
 - [rtr](https://vibecruiser.com/v/tmdstudios--rtr?ref=picks) - Road to Rage is an open-source demo of the first game I ever published. The original game was written in Python and then rewritten in Java… · [source](https://github.com/TMDStudios/rtr)
@@ -1691,10 +1693,8 @@ Shooters, from top-down arenas and twin-stick blasters to shoot 'em ups, bullet 
 - [space shooter](https://vibecruiser.com/v/simondiep--space-shooter?ref=picks) - Choose your weapon and shoot space aliens in your spaceship Create a new webtask at. Copy/paste the code in webtask\_highscores.js into your… · [source](https://github.com/simondiep/space-shooter) ⭐ 1
 - [invaders](https://vibecruiser.com/v/leodyversemilla07--invaders?ref=picks) - A browser-capable, retro 2D arcade shooter written in Rust with Macroquad. The project began as a terminal game and has been migrated to a… · [source](https://github.com/leodyversemilla07/invaders)
 - [clack](https://vibecruiser.com/v/bralash--clack?ref=picks) - A minimalist typing test — inspired by the Bemonkey iOS app and built as a single self-contained index.html with no build step and no… · [source](https://github.com/bralash/clack)
-- [signal defender](https://vibecruiser.com/v/davidwang1231--signal-defender?ref=picks) - A PCB-aesthetic bullet-hell shooter that lives in a single HTML file — zero dependencies, no build step, double-click to play. Fully… · [source](https://github.com/DavidWang1231/signal-defender)
-- [Space Jam](https://vibecruiser.com/v/danmat--space-jam?ref=picks) - A horizontal side-scrolling space shooter — blast through 10 themed sectors of enemy fleets and bosses, grab weapon upgrades, and top the… · [source](https://github.com/DanMat/Space-Jam)
 
-[See all 196 on VibeCruiser →](https://vibecruiser.com/t/shooter?ref=picks)
+[See all 198 on VibeCruiser →](https://vibecruiser.com/t/shooter?ref=picks)
 
 ## Roguelike games
 
@@ -1723,6 +1723,7 @@ Roguelikes throw you into a fresh dungeon every run, and when you die, you start
 Role-playing games: a character to grow, a world to explore and fights, quests or conversations along the way.
 
 - [last stand](https://vibecruiser.com/v/victorzakharov--last-stand?ref=picks) - A 3D wave-survival action RPG that runs in your browser. Hold the arena against endless waves, and after every wave make the call\: bank… · [source](https://github.com/VictorZakharov/last-stand)
+- [funcao quest](https://vibecruiser.com/v/maicaobonito--funcao-quest?ref=picks) - RPG educativo em pixel art para aprender funções matemáticas. O reino de Mathland está em colapso\: o vilão Caos Numérico corrompeu todas as… · [source](https://github.com/maicaobonito/funcao-quest)
 - [pyworldrpg.github.io](https://vibecruiser.com/v/pyworldrpg--pyworldrpg-github-io?ref=picks) - Project involves the construction of a hand-operated arcade game containing a joystick and a keypad that are used to control a game… · [source](https://github.com/pyworldrpg/pyworldrpg.github.io)
 - [Hourbell](https://vibecruiser.com/v/inviy--hourbell?ref=picks) - 세계의 시간을 알리던 종이 멈췄다. 종소리는 선율이 되어 여러 시대로 흩어졌다. \*\*바로 플레이\: (PC 브라우저, 휴대폰, 태블릿) Hourbell은 16비트 시절 JRPG의 정신을 잇는 브라우저 RPG입니다. 기억나는 장면보다 음악과 그림이 오래… · [source](https://github.com/inviy/Hourbell)
 - [death return line](https://vibecruiser.com/v/123klh--death-return-line?ref=picks) - 2.5D RPG × 弹幕飞机大战 · 叙事驱动 · 多结局 你操控的不是这个世界的英雄。 你只是一个意外穿越而来的普通人——胆小、怕事、矛盾、懦弱， 却背负着「死亡回归」的诅咒，与这个世界真正的救世主 TY 一起， 在无数次轮回与死亡中，试图拯救一个注定毁灭的世界。 2.5D… · [source](https://github.com/123klh/death-return-line) ⭐ 1
@@ -1736,7 +1737,6 @@ Role-playing games: a character to grow, a world to explore and fights, quests o
 - [submarine depth](https://vibecruiser.com/v/jeiel85--submarine-depth?ref=picks) - 완성형 심해 잠수정 서바이벌 탐사 RPG (Standalone HTML5 Simulation) 외계 해양 행성 '칼립소-9 (Calypso-9)'의 수심 1,500m 초심해 마리아나급 해구 바닥에서 기원전 외계 선구자(Precursor) 문명의… · [source](https://github.com/jeiel85/submarine-depth)
 - [lotr3 black gate rpg](https://vibecruiser.com/v/jeiel85--lotr3-black-gate-rpg?ref=picks) - 영화 &lt;반지의 제왕\: 왕의 귀환&gt;의 절정인 모란논 검은 문 앞 마지막 결전 ("For Frodo!")을 대작 판타지 RPG(예\: 월드 오브 워크래프트, 로스트아크)의 최상급 게임 화면 인터페이스로 구현한 3D 인터랙티브 웹 애플리케이션입니다… · [source](https://github.com/jeiel85/lotr3-black-gate-rpg)
 - [piano magic](https://vibecruiser.com/v/juliangdeveloper--piano-magic?ref=picks) - Un combate RPG que se juega tocando piano\: improvisa para atacar y copia la melodía del jefe para defenderte. Con teclado, MIDI o… · [source](https://github.com/juliangdeveloper/piano-magic)
-- [heishenhua houji](https://vibecruiser.com/v/real-benguo--heishenhua-houji?ref=picks) - 六根未净，班还没下。 一个关于转正的恐怖故事。 一款手机端 3D 抽象动作 RPG。初始菜单和 UI 认真到过分，游戏世界却是一堆低模几何体。你将扮演试用期第 999 天的猴子「马喽」，替一位已经跑路的前任大圣找回抵押给天庭小贷的六根，顺便经历一场又一场离谱的面试、团建、直播、外… · [source](https://github.com/real-benguo/heishenhua-houji)
 
 [See all 92 on VibeCruiser →](https://vibecruiser.com/t/rpg?ref=picks)
 
@@ -1766,6 +1766,7 @@ Idle and clicker games start with one button and grow into an economy: click, bu
 
 Typing games turn your keyboard into the controller: race the clock, type words before they land, or practise until your fingers stop looking.
 
+- [hindi typist](https://vibecruiser.com/v/wondermayank--hindi-typist?ref=picks) - An interactive web app for mastering Hindi typing using the Remington (Krutidev/Mangal) layout. Features structured character lessons… · [source](https://github.com/wondermayank/hindi-typist) ⭐ 17
 - [typing aquarium](https://vibecruiser.com/v/daimessdn--typing-aquarium?ref=picks) - Typing Aquarium is a petting simulation game by using keyboard. By typing, you can feed the fish and get XP and cash points that you can… · [source](https://github.com/daimessdn/typing-aquarium)
 - [clack](https://vibecruiser.com/v/bralash--clack?ref=picks) - A minimalist typing test — inspired by the Bemonkey iOS app and built as a single self-contained index.html with no build step and no… · [source](https://github.com/bralash/clack)
 - [typing of the dev](https://vibecruiser.com/v/stephanecot--typing-of-the-dev?ref=picks) - A booth/arcade typing game and a tribute to The Typing of the Dead\: zombie bugs crawl out of the backlog and march toward your PROD server… · [source](https://github.com/stephanecot/typing-of-the-dev) ⭐ 1
@@ -1780,9 +1781,8 @@ Typing games turn your keyboard into the controller: race the clock, type words 
 - [typomaster](https://vibecruiser.com/v/alhmli70--typomaster?ref=picks) - 🇬🇧 English • 🇸🇦 العربية • 📝 Release Notes Professional bilingual typing trainer — built with React 19 + Tauri 2 + Rust + SQLite. 💡… · [source](https://github.com/alhmli70/typomaster) ⭐ 2
 - [typing fighter game](https://vibecruiser.com/v/priyanshu-kumar-maurya--typing-fighter-game?ref=picks) - Type faster → Hit harder. A high-octane 1v1 fighting game where typing speed and accuracy directly power combat moves, combos, super… · [source](https://github.com/Priyanshu-kumar-maurya/typing-fighter-game)
 - [Keybound](https://vibecruiser.com/v/jesaias1--keybound?ref=picks) - Tiny critters hop across a giant keyboard, typing words by where they step, while every key they use jams behind them. Hopkey is a party… · [source](https://github.com/jesaias1/Keybound)
-- [cube type](https://vibecruiser.com/v/scriblesean--cube-type?ref=picks) - Solve a Rubik's cube by typing words. Each turn has a word\: rush turns R, recoil turns R'. Enter repeats the last turn. After F2L, your OLL… · [source](https://github.com/ScribleSean/cube-type)
 
-[See all 68 on VibeCruiser →](https://vibecruiser.com/t/typing-game?ref=picks)
+[See all 69 on VibeCruiser →](https://vibecruiser.com/t/typing-game?ref=picks)
 
 ## Rhythm games
 
@@ -1826,7 +1826,7 @@ A canvas game draws itself on an HTML canvas: one rectangle on the page that the
 - [bubble echoes](https://vibecruiser.com/v/davide-raimondi--bubble-echoes?ref=picks) - Puzzle arcade bubble shooter con mira laser predittiva, sfere speciali e controlli touch nativi, sviluppato in architettura single-file… · [source](https://github.com/davide-raimondi/bubble-echoes) ⭐ 1
 - [deep space matrix](https://vibecruiser.com/v/xiaocheng096--deep-space-matrix?ref=picks) - 一款单文件、零依赖的卡片式自动化工厂游戏。在深空中规划矿脉、铺设传送轨道路线、把矿石一步步炼成金属锭，全部用鼠标拖拽完成。 打开 即可游玩，不需要安装、不需要联网、不加载任何第三方库。 新游戏 — 输入一个种子（数字或任意文字），或点「随机」，生成属于你的矿脉地图。 点科技… · [source](https://github.com/xiaocheng096/deep-space-matrix)
 
-[See all 377 on VibeCruiser →](https://vibecruiser.com/t/canvas-game?ref=picks)
+[See all 378 on VibeCruiser →](https://vibecruiser.com/t/canvas-game?ref=picks)
 
 ## Arcade games
 
@@ -1836,25 +1836,26 @@ Arcade games are built for the short, sharp session: simple controls, a score to
 - [arcade racing](https://vibecruiser.com/v/stackoverflowisbetterthananyai--arcade-racing?ref=picks) - This is an arcade racing game in 8-bit style. This JavaScript game was developed to explore Vibe Coding and discover its current… · [source](https://github.com/StackOverflowIsBetterThanAnyAI/arcade-racing) ⭐ 1
 - [PoliceChaseDriftGodot](https://vibecruiser.com/v/tiago-xavier-braga--policechasedriftgodot?ref=picks) - An arcade chase game\: you drive through a city block while police cars spawn at the farthest point and hunt you down. Every hit costs… · [source](https://github.com/tiago-xavier-braga/PoliceChaseDriftGodot)
 - [hoops88](https://vibecruiser.com/v/carlossardo--hoops88?ref=picks) - ▶ Play HOOPS '88 online No install, no build step, no dependencies. Just open it and shoot. Hold the shoot key to charge the power meter… · [source](https://github.com/CarlosSardo/hoops88) ⭐ 2
+- [Vector Rocks](https://vibecruiser.com/v/vedjuk--vector-rocks?ref=picks) - A Deluxe-style vector shooter for the browser. Inertia flight, breaking asteroids, shields, hyperspace and hostile saucers, drawn in… · [source](https://github.com/vedjuk/Vector-Rocks)
+- [fuga do flaviao](https://vibecruiser.com/v/pedromarra--fuga-do-flaviao?ref=picks) - Jogo arcade de um botão, no estilo Jetpack Joyride / Flappy Bird. Você pilota o jatinho Master Air do Flavião, um empresário trapaceiro de… · [source](https://github.com/PedroMarra/fuga-do-flaviao)
+- [Vector Keep](https://vibecruiser.com/v/vedjuk--vector-keep?ref=picks) - A vector siege shooter for the browser. Blast through spinning energy rings, take out the gun at the core and dodge the homing mines it… · [source](https://github.com/vedjuk/Vector-Keep)
+- [neon vortex](https://vibecruiser.com/v/edwardxiong2027--neon-vortex?ref=picks) - A juicy neon arena shooter that runs in your browser. No install, no dependencies — just pure Canvas + WebAudio. Survive an endless swarm… · [source](https://github.com/edwardxiong2027/neon-vortex)
+- [the grand ascent](https://vibecruiser.com/v/skiingish--the-grand-ascent?ref=picks) - You are the lift. The lift is you. A 1920s Art-Deco lift-operator arcade game — one self-contained HTML file, no build step, no… · [source](https://github.com/skiingish/the-grand-ascent)
+- [stone age odyssey](https://vibecruiser.com/v/jeiel85--stone-age-odyssey?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 8대 스테이지 &amp; 4인 영웅 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 4명의 플레이어블 캐릭터, 8종 테마… · [source](https://github.com/jeiel85/stone-age-odyssey)
+- [mochi run bakery escape](https://vibecruiser.com/v/jeiel85--mochi-run-bakery-escape?ref=picks) - (Ichigo Mochi) | 말랑말랑 베이커리의 영웅 달콤한 딸기시럽 오라를 두르고 고속 질주하며 주변 장애물을 황금 딸기젤리로 변환합니다. | (Custard Pudding King) | 출렁이는 카라멜 왕국의 군주 왕실 카라멜 파동을 터뜨려… · [source](https://github.com/jeiel85/mochi-run-bakery-escape)
+- [chaos arena](https://vibecruiser.com/v/prathampatel79--chaos-arena?ref=picks) - A fast-paced, browser-based top-down 2D multiplayer arcade game built with HTML5 Canvas, Node.js, Express, and Socket.IO. Designed for 4–10… · [source](https://github.com/prathampatel79/chaos-arena)
 - [space shooter](https://vibecruiser.com/v/celaldrg--space-shooter?ref=picks) - Fly a small fighter through ten scripted waves of weaving, diving and gun-turret enemies, collect weapon upgrades and shields, keep a combo… · [source](https://github.com/celaldrg/space-shooter)
 - [35 flappy bird game](https://vibecruiser.com/v/avishjain9--35-flappy-bird-game?ref=picks) - Source code for a Flappy Bird style game built in Unity game engine. You can check the blog post explaining its creation here. It has been… · [source](https://github.com/AVISHJAIN9/35-flappy-bird-game)
 - [breakout](https://vibecruiser.com/v/celaldrg--breakout?ref=picks) - Break every breakable brick to clear a level; clear all three levels to win. You start with 3 lives. The game also pauses when you switch… · [source](https://github.com/celaldrg/breakout)
-- [tetris browser game](https://vibecruiser.com/v/andriyfm--tetris-browser-game?ref=picks) - Pilih game dari menu cartridge, semua dirender monokrom di layar LCD yang sama. Tanpa install, tanpa build step, tanpa dependency. Font… · [source](https://github.com/andriyfm/tetris-browser-game)
-- [Don t Touch Red](https://vibecruiser.com/v/melvinvarghese--don-t-touch-red?ref=picks) - One square. One rule. A dark-neon gravity survival game made with HTML5 Canvas, CSS, and vanilla JavaScript. Guide the cyan square through… · [source](https://github.com/melvinvarghese/Don-t-Touch-Red)
-- [kryptex](https://vibecruiser.com/v/kxz0tn--kryptex?ref=picks) - Decode the signal. Make first contact. A portrait, classic-style neon arcade memory game for phones and desktop browsers. A signal is… · [source](https://github.com/kxz0tn/kryptex)
-- [Pac Man](https://vibecruiser.com/v/jueyi0206--pac-man?ref=picks) - Neon Pac-Man｜霓虹風小精靈，Canvas 手寫遊戲迴圈與鬼魂 AI，支援鍵盤與手機觸控 · [source](https://github.com/jueyi0206/Pac-Man)
-- [pong js](https://vibecruiser.com/v/marcomaz--pong-js?ref=picks) - The classic "Pong" arcade game built with HTML5, CSS3, and JAVASCRIPT. · [source](https://github.com/MarcoMaz/pong-js)
-- [Pong](https://vibecruiser.com/v/bocaletto-luca--pong?ref=picks) - Pong Web Game Single Player is a modern re-imagination of the classic Pong arcade game. In this browser-based version, you play against an… · [source](https://github.com/bocaletto-luca/Pong) ⭐ 14
-- [pyworldrpg.github.io](https://vibecruiser.com/v/pyworldrpg--pyworldrpg-github-io?ref=picks) - Project involves the construction of a hand-operated arcade game containing a joystick and a keypad that are used to control a game… · [source](https://github.com/pyworldrpg/pyworldrpg.github.io)
-- [Sky Strike](https://vibecruiser.com/v/jueyi0206--sky-strike?ref=picks) - Sky Strike 1945\: Phoenix Rising｜復古縱向捲軸射擊遊戲，React + TypeScript，可在瀏覽器直接玩 · [source](https://github.com/jueyi0206/Sky-Strike)
 
-[See all 397 on VibeCruiser →](https://vibecruiser.com/t/arcade?ref=picks)
+[See all 405 on VibeCruiser →](https://vibecruiser.com/t/arcade?ref=picks)
 
 ## Puzzle games
 
 Puzzle games are about thinking, not reflexes: sliding tiles, matching colors, logic grids, routing pipes and levels you solve by spotting the trick.
 
 - [2025 adhoc blooming garden](https://vibecruiser.com/v/in0ho1no--2025-adhoc-blooming-garden?ref=picks) - 植物の成長をテーマにした2048風パズルゲーム このゲームは100% AIによって作成されました。 作成方法\: Vibe Coding（自然言語での対話的プログラミング）… · [source](https://github.com/in0ho1no/2025-adhoc-blooming-garden)
+- [lwy](https://vibecruiser.com/v/raven121121--lwy?ref=picks) - 一款以旧电脑为入口的网页叙事解谜游戏。 你在母亲留下的旧物中发现了一把钥匙，以及一个从未听说过的地址——槐花市。来到那间无人居住的房子后，你打开了一台多年没有启动的电脑。邮件、聊天记录、旧论坛、校园网站和新闻档案散落在不同角落；只有将它们重新拼合，才能理解母亲从未讲述的过去。… · [source](https://github.com/Raven121121/lwy)
 - [word search](https://vibecruiser.com/v/celaldrg--word-search?ref=picks) - A classic word search that runs in the browser\: no install, no sign-up, no ads and no tracking. Pick a category, drag across the hidden… · [source](https://github.com/celaldrg/word-search)
 - [puzzle](https://vibecruiser.com/v/visionarylabs--puzzle?ref=picks) - Starting some public code to share and collaborate on JS and Canvas game development. We'll start with a puzzle code, based on Pentominoes… · [source](https://github.com/visionarylabs/puzzle) ⭐ 1
 - [maze](https://vibecruiser.com/v/eeman1113--maze?ref=picks) - Interactive maze generator and solver with dungeon-themed UI · [source](https://github.com/Eeman1113/maze)
@@ -1868,9 +1869,8 @@ Puzzle games are about thinking, not reflexes: sliding tiles, matching colors, l
 - [meuh rocket](https://vibecruiser.com/v/arimet--meuh-rocket?ref=picks) - A browser puzzle game in the spirit of the puzzle mode of ChuChu Rocket! (Dreamcast, 1999). Cows walk in straight lines across a voxel… · [source](https://github.com/arimet/meuh-rocket)
 - [robbo](https://vibecruiser.com/v/robbo-game--robbo?ref=picks) - A browser restoration of Robbo — two historical campaigns, 56 planets each, and a choice of artwork while you play. Collect every screw… · [source](https://github.com/robbo-game/robbo) ⭐ 1
 - [chainlight reactor](https://vibecruiser.com/v/surajshetty09--chainlight-reactor?ref=picks) - A one-click chain-reaction puzzle game built with Canvas 2D, Web Audio, and plain JavaScript. Place one catalyst among drifting motes. A… · [source](https://github.com/surajshetty09/chainlight-reactor)
-- [projection](https://vibecruiser.com/v/noamshalom--projection?ref=picks) - A spatial puzzle game about orthographic projections. You look at a small sculpture and reason about how it looks from the top, the front… · [source](https://github.com/Noamshalom/projection)
 
-[See all 247 on VibeCruiser →](https://vibecruiser.com/t/puzzle?ref=picks)
+[See all 249 on VibeCruiser →](https://vibecruiser.com/t/puzzle?ref=picks)
 
 ## Pwa games
 
@@ -1892,7 +1892,7 @@ A PWA, or progressive web app, is a website that can install like an app: it get
 - [sede rpg](https://vibecruiser.com/v/pehtonetti--sede-rpg?ref=picks) - Um RPG 3D de ação (estilo ARPG mobile) ambientado em Ipêra, que roda no navegador e pode ser instalado como app (PWA)\: criação de… · [source](https://github.com/pehtonetti/sede-rpg)
 - [ant td](https://vibecruiser.com/v/workflo17--ant-td?ref=picks) - A Bloons-style tower defense\: pest bugs march a pheromone trail toward the colony's sugar stash, and you place ant towers on the grass to… · [source](https://github.com/workflo17/ant-td)
 
-[See all 188 on VibeCruiser →](https://vibecruiser.com/t/pwa?ref=picks)
+[See all 189 on VibeCruiser →](https://vibecruiser.com/t/pwa?ref=picks)
 
 ## AI games
 
@@ -1900,6 +1900,8 @@ This stop is for projects tagged AI: games with computer opponents that learn or
 
 - [3D HTML Game](https://vibecruiser.com/v/1oth3r--3d-html-game?ref=picks) - I had help from GPT to make a fun little 3D web game. In this web game, you can jump, fall over, spin, and do lots of parkour as a funny… · [source](https://github.com/1OTH3R/3D-HTML-Game)
 - [Arcane Survivor](https://vibecruiser.com/v/anas68755--arcane-survivor?ref=picks) - Survive endless hordes, evolve your magic, become the legend. انجُ من جحافل الظلام، وطوّر سحرك حتى تصبح أسطورة. 🎮 Play Now · العب الآن In… · [source](https://github.com/Anas68755/Arcane-Survivor)
+- [air hockey](https://vibecruiser.com/v/celaldrg--air-hockey?ref=picks) - Real table physics with a fixed 1/120 s time step\: rounded corners, goal posts, wall restitution, light friction and a speed cap. Swept… · [source](https://github.com/celaldrg/air-hockey)
+- [snake ai trainer](https://vibecruiser.com/v/morobang--snake-ai-trainer?ref=picks) - ▶ Play it live → A browser-based Snake game with a Q-learning AI agent that trains in real time. Watch it fail hundreds of times, then… · [source](https://github.com/Morobang/snake-ai-trainer)
 - [pacman game](https://vibecruiser.com/v/thinal-fernando--pacman-game?ref=picks) - A classic Pacman clone built with vanilla JavaScript, HTML5 Canvas, and CSS. This project recreates the nostalgic arcade experience… · [source](https://github.com/Thinal-Fernando/pacman-game) ⭐ 1
 - [pong.az](https://vibecruiser.com/v/goshgarhasanov--pong-az?ref=picks) - Pong.az is a modern, neon-styled reimagining of the arcade classic, built with pure HTML, CSS and vanilla JavaScript — no frameworks, no… · [source](https://github.com/goshgarhasanov/pong.az)
 - [PAC DEVIL game](https://vibecruiser.com/v/thring13--pac-devil-game?ref=picks) - A modern Pac-Man inspired arcade game built with HTML5 Canvas and JavaScript. PAC DEVIL is a modern arcade game inspired by the classic… · [source](https://github.com/THRING13/PAC-DEVIL-game)
@@ -1911,10 +1913,8 @@ This stop is for projects tagged AI: games with computer opponents that learn or
 - [tetrisAI](https://vibecruiser.com/v/eeman1113--tetrisai?ref=picks) - Browser-based Tetris with a heuristic AI auto-player · [source](https://github.com/Eeman1113/tetrisAI)
 - [Bubble Shooter](https://vibecruiser.com/v/amitdas4321--bubble-shooter?ref=picks) - Play Bubble Shooter using your hands — pinch to grab, pull to aim, release to shoot. Built with MediaPipe Hands + HTML5 Canvas + JavaScript… · [source](https://github.com/AmitDas4321/Bubble-Shooter) ⭐ 3
 - [Willed Chess](https://vibecruiser.com/v/bhuvan0x--willed-chess?ref=picks) - Chess, but your pieces have a will of their own. Willed Chess is an original browser-based chess experience that combines traditional chess… · [source](https://github.com/bhuvan0x/Willed-Chess)
-- [ai driving school](https://vibecruiser.com/v/elliezhangy--ai-driving-school?ref=picks) - A mobile-first Chinese parking game. Direct a stubborn, gender-neutral AI student from the passenger seat using voice or text. This is an… · [source](https://github.com/EllieZhangy/ai-driving-school)
-- [flap ai 999](https://vibecruiser.com/v/punitpritam788--flap-ai-999?ref=picks) - The better the machine understands you, the harder surviving becomes. Instead of relying only on fixed obstacle patterns, the game keeps a… · [source](https://github.com/Punitpritam788/flap-ai-999)
 
-[See all 147 on VibeCruiser →](https://vibecruiser.com/t/ai?ref=picks)
+[See all 150 on VibeCruiser →](https://vibecruiser.com/t/ai?ref=picks)
 
 ## Mobile games
 
@@ -1947,6 +1947,7 @@ Every project on this stop is open source: the code is public, usually on GitHub
 - [capybara delivery 3d](https://vibecruiser.com/v/21cabbagee--capybara-delivery-3d?ref=picks) - Play as a chill capybara delivering food on a bicycle. Stack orders to the sky, manage deliveries on your in-game smartphone, cruise… · [source](https://github.com/21cabbagee/capybara-delivery-3d)
 - [sangeet nights](https://vibecruiser.com/v/kashafs98--sangeet-nights?ref=picks) - A browser-based 3D Bollywood party game — pick a character, wander a neon sangeet, and finish five tasks before the music runs out. A tiny… · [source](https://github.com/KashafS98/sangeet-nights)
 - [event horizon runner](https://vibecruiser.com/v/anuj52--event-horizon-runner?ref=picks) - Welcome to Event Horizon Runner! It's a fun survival game I put together using HTML5 Canvas with realistic physics. Built with a little… · [source](https://github.com/Anuj52/event-horizon-runner)
+- [founders way](https://vibecruiser.com/v/tobeficv--founders-way?ref=picks) - A 3D startup tycoon where you build your own company idea, test it against realistic rules and find out whether it would survive in the… · [source](https://github.com/tobeficv/founders-way)
 - [pong](https://vibecruiser.com/v/vaporjawn--pong?ref=picks) - A modern, feature-rich implementation of the classic Pong game written in Rust using the macroquad game engine. This project showcases… · [source](https://github.com/Vaporjawn/pong)
 - [lockedworld](https://vibecruiser.com/v/solidgeeks--lockedworld?ref=picks) - A top-down shooter in 10 levels that runs in the browser. Lockware has locked the city\: free it with the Solid Geeks crew (Term, Rep, Brax… · [source](https://github.com/SolidGeeks/lockedworld)
 - [dodgeborn](https://vibecruiser.com/v/tingweihu--dodgeborn?ref=picks) - 繁體中文 · English · 日本語 線上示範：由 Vercel 從 GitHub 倉庫部署；目前尚未部署，取得真實網址後會補在這裡。設定與操作見部署說明。 朋友只想玩：使用離線可攜包說明製作 ZIP；解壓後雙擊 DODGEBORN.html，在 Windows 桌面版… · [source](https://github.com/tingweihu/dodgeborn)
@@ -1956,9 +1957,8 @@ Every project on this stop is open source: the code is public, usually on GitHub
 - [klarbase](https://vibecruiser.com/v/tanmoyp--klarbase?ref=picks) - Tiny floating isles · clever little paths. A cozy browser puzzle game. Guide Pip, a round little sprout spirit, across floating dioramas… · [source](https://github.com/TanmoyP/klarbase) ⭐ 1
 - [hisstastic](https://vibecruiser.com/v/sparshsam--hisstastic?ref=picks) - A retro Snake-inspired arcade game. Play in your browser or on Android. Local-first, no ads, no accounts. A polished Snake game with modern… · [source](https://github.com/sparshsam/hisstastic) ⭐ 1
 - [Snakeleev](https://vibecruiser.com/v/pietrogalizia--snakeleev?ref=picks) - Snakeleev is an engaging open-source educational game designed to help students and educators learn the periodic table of elements through… · [source](https://github.com/PietroGalizia/Snakeleev)
-- [car racing](https://vibecruiser.com/v/hunghdvn--car-racing?ref=picks) - A 3D arcade racing browser game\: one track, six cars, one race. It targets 60 FPS with keyboard and gamepad input, deterministic visual… · [source](https://github.com/hunghdvn/car-racing) ⭐ 1
 
-[See all 115 on VibeCruiser →](https://vibecruiser.com/t/open-source?ref=picks)
+[See all 116 on VibeCruiser →](https://vibecruiser.com/t/open-source?ref=picks)
 
 ## p5.js games
 
@@ -1986,6 +1986,7 @@ p5.js is a friendly JavaScript library for drawing and interaction, made for art
 
 WebGPU is the newest way for a web page to use your graphics card, built for both drawing and general computing.
 
+- [kintsugi webgpu](https://vibecruiser.com/v/tahabakri--kintsugi-webgpu?ref=picks) - ▶ Open the live demo · needs a browser with WebGPU (Chrome or Edge) Break a porcelain bowl in your browser, then put it back together with… · [source](https://github.com/tahabakri/kintsugi-webgpu)
 - [threejs timeline](https://vibecruiser.com/v/chenjiamian--threejs-timeline?ref=picks) - 用 Three.js r186 + TSL 做的可配置 3D 时间轴：一年一根毛玻璃立柱，沿时间轴排开，两端退进紫雾里。 年份范围、标题、色带都集中在配置里，默认附带一份 Web 发展史示例数据。支持 WebGPU，浏览器不支持时自动退回 WebGL2。… · [source](https://github.com/CHENJIAMIAN/threejs-timeline)
 - [mandelbrot](https://vibecruiser.com/v/isghe--mandelbrot?ref=picks) - Itero, iteras, iteravi, iteratum, iterare Real-time Mandelbrot and Julia set renderer using the WebGPU API, with double-single precision… · [source](https://github.com/isghe/mandelbrot)
 - [goldberg planet](https://vibecruiser.com/v/matthew-kissinger--goldberg-planet?ref=picks) - A small browser game on a spherical planet whose surface is a true Goldberg polyhedron (hexagons plus exactly twelve pentagons). The loop… · [source](https://github.com/matthew-kissinger/goldberg-planet) ⭐ 1
@@ -2000,9 +2001,8 @@ WebGPU is the newest way for a web page to use your graphics card, built for bot
 - [spw twopoint5d shadertoy](https://vibecruiser.com/v/spearwolf--spw-twopoint5d-shadertoy?ref=picks) - A demo using the new Three.js Shading Language to create a procedural shader effect like the one shown in this YouTube video An… · [source](https://github.com/spearwolf/spw-twopoint5d-shadertoy)
 - [seesound](https://vibecruiser.com/v/worldtheater--seesound?ref=picks) - SeeSound is a browser-based audio visualizer that turns music and live audio into resonant geometry. It is inspired by Chladni figures… · [source](https://github.com/worldtheater/seesound) ⭐ 1
 - [babylon lite danger room](https://vibecruiser.com/v/samuelasherrivello--babylon-lite-danger-room?ref=picks) - One room. Sixty seconds. No final wave. An original single-player superhero training game with a 3D metal chamber, holographic enemies, and… · [source](https://github.com/SamuelAsherRivello/babylon-lite-danger-room)
-- [open fps game](https://vibecruiser.com/v/sury4karmakar--open-fps-game?ref=picks) - Open FPS is a browser-based first-person shooter prototype built with TypeScript, Vite, and Babylon.js. · [source](https://github.com/sury4karmakar/open-fps-game)
 
-[See all 93 on VibeCruiser →](https://vibecruiser.com/t/webgpu?ref=picks)
+[See all 95 on VibeCruiser →](https://vibecruiser.com/t/webgpu?ref=picks)
 
 ## 3D games
 
@@ -2044,6 +2044,7 @@ Action games test your hands: dodging, jumping, aiming and reacting faster than 
 Educational games teach while you play: typing drills, math challenges, coding puzzles, geography quizzes, science simulations and language practice.
 
 - [mchess](https://vibecruiser.com/v/vafran--mchess?ref=picks) - A complete, single-file chess game built for children learning to play. No installation. No internet. No accounts. Open the .html file in… · [source](https://github.com/vafran/mchess)
+- [funcao quest](https://vibecruiser.com/v/maicaobonito--funcao-quest?ref=picks) - RPG educativo em pixel art para aprender funções matemáticas. O reino de Mathland está em colapso\: o vilão Caos Numérico corrompeu todas as… · [source](https://github.com/maicaobonito/funcao-quest)
 - [thought input game](https://vibecruiser.com/v/sparkainlp-x--thought-input-game?ref=picks) - A SYNTHETIC toy and browser game. You draw a pattern on a 12 x 12 pad, and a small associative memory either projects the whole stored… · [source](https://github.com/sparkainlp-x/thought-input-game)
 - [maze workshop](https://vibecruiser.com/v/jessecmaddox3--maze-workshop?ref=picks) - Make a fresh maze, solve it on screen, or print an adventure for later. Choose a world, pick the challenge, and add a rocket-shaped maze… · [source](https://github.com/jessecmaddox3/maze-workshop)
 - [Snakeleev](https://vibecruiser.com/v/pietrogalizia--snakeleev?ref=picks) - Snakeleev is an engaging open-source educational game designed to help students and educators learn the periodic table of elements through… · [source](https://github.com/PietroGalizia/Snakeleev)
@@ -2057,9 +2058,8 @@ Educational games teach while you play: typing drills, math challenges, coding p
 - [exophysics](https://vibecruiser.com/v/exophysics--exophysics?ref=picks) - This repository has moved to for the sake of decentralization · [source](https://github.com/exophysics/exophysics) ⭐ 36
 - [kidocode](https://vibecruiser.com/v/cosminmoldovan--kidocode?ref=picks) - Educational Coding Game for Kids KidoCode is a user-friendly, web-based educational game that provides a basic understanding of programming… · [source](https://github.com/cosminmoldovan/kidocode) ⭐ 7
 - [canvaslife](https://vibecruiser.com/v/trebek--canvaslife?ref=picks) - A JavaScript and HTML5 implementation of Conway's Game of Life. · [source](https://github.com/Trebek/canvaslife)
-- [classics archive](https://vibecruiser.com/v/dcd887--classics-archive?ref=picks) - 2026-10-19 更新：已扩为十幕。 访问首页即为十幕目录；旧版落地页保留在 about.html。 十幕文件名为 第一幕.html … 第十幕.html，另有 view-cabinet.html（藏品柜）。 你是新入典藏司的校书郎。城南旧藏书楼里，收着天下散佚的古书。… · [source](https://github.com/dcd887/classics-archive)
 
-[See all 75 on VibeCruiser →](https://vibecruiser.com/t/educational?ref=picks)
+[See all 76 on VibeCruiser →](https://vibecruiser.com/t/educational?ref=picks)
 
 ## Casual games
 
@@ -2103,7 +2103,7 @@ Conway's Game of Life is a grid of cells that live or die by one rule about thei
 - [wasm game of life](https://vibecruiser.com/v/lidongjies--wasm-game-of-life?ref=picks) - 这是一个 Conway‘s game of life 的 wasm 模块，使用 webpack4 在 ES Module 项目中使用，可以通过该模块实现游戏游戏对 wasm 性能有初步的了解，webassembly 兼容性。 · [source](https://github.com/lidongjies/wasm-game-of-life) ⭐ 10
 - [game of life](https://vibecruiser.com/v/rainwalkr--game-of-life?ref=picks) - The standard B3/S23 cellular automata build on a toroidal array · [source](https://github.com/rainwalkr/game-of-life)
 
-[See all 119 on VibeCruiser →](https://vibecruiser.com/t/game-of-life?ref=picks)
+[See all 120 on VibeCruiser →](https://vibecruiser.com/t/game-of-life?ref=picks)
 
 ## Mediapipe games
 
@@ -2178,6 +2178,8 @@ Retro games look and play like the machines of the eighties and nineties: chunky
 - [crt screen](https://vibecruiser.com/v/geocodecrafter--crt-screen?ref=picks) - Wrap anything in a CRT. Aperture grille, scanlines, vignette, mains flicker — and the content underneath stays live. That selection being… · [source](https://github.com/GeoCodeCrafter/crt-screen)
 - [Valkyria](https://vibecruiser.com/v/olaelias--valkyria?ref=picks) - A retro-style dungeon crawler built as an AI-assisted game development project. Guide a Valkyrie through procedurally generated labyrinths… · [source](https://github.com/olaelias/Valkyria)
 - [hoops88](https://vibecruiser.com/v/carlossardo--hoops88?ref=picks) - ▶ Play HOOPS '88 online No install, no build step, no dependencies. Just open it and shoot. Hold the shoot key to charge the power meter… · [source](https://github.com/CarlosSardo/hoops88) ⭐ 2
+- [lwy](https://vibecruiser.com/v/raven121121--lwy?ref=picks) - 一款以旧电脑为入口的网页叙事解谜游戏。 你在母亲留下的旧物中发现了一把钥匙，以及一个从未听说过的地址——槐花市。来到那间无人居住的房子后，你打开了一台多年没有启动的电脑。邮件、聊天记录、旧论坛、校园网站和新闻档案散落在不同角落；只有将它们重新拼合，才能理解母亲从未讲述的过去。… · [source](https://github.com/Raven121121/lwy)
+- [stone age odyssey](https://vibecruiser.com/v/jeiel85--stone-age-odyssey?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 8대 스테이지 &amp; 4인 영웅 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 4명의 플레이어블 캐릭터, 8종 테마… · [source](https://github.com/jeiel85/stone-age-odyssey)
 - [naorush](https://vibecruiser.com/v/c0sm0cats--naorush?ref=picks) - Un jeu de plateforme dans les bureaux d’Inetum, façon Rick Dangerous et Prince of Persia. Les NAO commencent jeudi et l’enveloppe des… · [source](https://github.com/C0sm0cats/naorush)
 - [tetris browser game](https://vibecruiser.com/v/andriyfm--tetris-browser-game?ref=picks) - Pilih game dari menu cartridge, semua dirender monokrom di layar LCD yang sama. Tanpa install, tanpa build step, tanpa dependency. Font… · [source](https://github.com/andriyfm/tetris-browser-game)
 - [kryptex](https://vibecruiser.com/v/kxz0tn--kryptex?ref=picks) - Decode the signal. Make first contact. A portrait, classic-style neon arcade memory game for phones and desktop browsers. A signal is… · [source](https://github.com/kxz0tn/kryptex)
@@ -2188,15 +2190,14 @@ Retro games look and play like the machines of the eighties and nineties: chunky
 - [goindol](https://vibecruiser.com/v/jeiel85--goindol?ref=picks) - 추억의 1991/1993년 DOS 명작 원시인 액션 플랫포머 《고인돌 (Prehistorik)》 웹 아케이드 6대 스테이지 확장판 외부 라이브러리 없이 HTML5 Canvas 16비트 픽셀 아트, 6종 테마 배경과 Web Audio API 칩튠… · [source](https://github.com/jeiel85/goindol)
 - [pong](https://vibecruiser.com/v/vaporjawn--pong?ref=picks) - A modern, feature-rich implementation of the classic Pong game written in Rust using the macroquad game engine. This project showcases… · [source](https://github.com/Vaporjawn/pong)
 - [galaga](https://vibecruiser.com/v/civilian7--galaga?ref=picks) - A browser remake of Namco's 1981 arcade game. The formation flies in and takes its places, a Boss Galaga stops overhead to open its tractor… · [source](https://github.com/civilian7/galaga) ⭐ 3
-- [fluxgate](https://vibecruiser.com/v/kxz0tn--fluxgate?ref=picks) - Route energy from another universe through the Ozyron reactor. A portrait, classic-style neon arcade game for phones and desktop browsers… · [source](https://github.com/kxz0tn/fluxgate)
-- [deepsweep](https://vibecruiser.com/v/pourih--deepsweep?ref=picks) - A ridiculously polished single-file Minesweeper clone that I built. (Well, DeepSeek and I made it). It's just a single HTML file (literally… · [source](https://github.com/pourih/deepsweep)
 
-[See all 96 on VibeCruiser →](https://vibecruiser.com/t/retro?ref=picks)
+[See all 98 on VibeCruiser →](https://vibecruiser.com/t/retro?ref=picks)
 
 ## Endless runner games
 
 In an endless runner the character never stops moving: you jump, slide or switch lanes to dodge what is coming, and the run lasts until you miss.
 
+- [mochi run bakery escape](https://vibecruiser.com/v/jeiel85--mochi-run-bakery-escape?ref=picks) - (Ichigo Mochi) | 말랑말랑 베이커리의 영웅 달콤한 딸기시럽 오라를 두르고 고속 질주하며 주변 장애물을 황금 딸기젤리로 변환합니다. | (Custard Pudding King) | 출렁이는 카라멜 왕국의 군주 왕실 카라멜 파동을 터뜨려… · [source](https://github.com/jeiel85/mochi-run-bakery-escape)
 - [pixel horse runner](https://vibecruiser.com/v/chigerartem--pixel-horse-runner?ref=picks) - A pixel-art endless runner in the spirit of the Chrome Dino game — written in pure vanilla JavaScript, no frameworks, no dependencies, no… · [source](https://github.com/chigerartem/pixel-horse-runner)
 - [metro surf](https://vibecruiser.com/v/skingys001-bot--metro-surf?ref=picks) - 一个用 Three.js + 原生 JavaScript 从零实现的 3D 三轨道无限跑酷游戏。所有模型、贴图、音乐与音效都是代码程序化生成，不依赖任何外部素材。 三轨道无限跑酷：从 12 m/s 缓慢起步，前 2.5 秒保持，随后用约 75 秒平滑加速到 34 m/s… · [source](https://github.com/skingys001-bot/metro-surf)
 - [the long run](https://vibecruiser.com/v/netanelmexico-spec--the-long-run?ref=picks) - An endless runner across the desert. A bearded man in a red cap starts running for no particular reason, and the longer he goes the more… · [source](https://github.com/netanelmexico-spec/the-long-run)
@@ -2211,9 +2212,8 @@ In an endless runner the character never stops moving: you jump, slide or switch
 - [PixelRPGRun](https://vibecruiser.com/v/imshota1009--pixelrpgrun?ref=picks) - An endless runner game with RPG elements — jump, collect coins, fight enemies, and trade with merchants! · [source](https://github.com/imshota1009/PixelRPGRun) ⭐ 5
 - [bunny](https://vibecruiser.com/v/omsingh02--bunny?ref=picks) - A tiny, cute 3D endless runner that runs right in your browser. Hop between three lanes, jump over flowers, logs and rocks, and snag… · [source](https://github.com/omsingh02/bunny) ⭐ 3
 - [voxel flier](https://vibecruiser.com/v/ayantika2006--voxel-flier?ref=picks) - A voxel-inspired endless arcade game built with Phaser 3, featuring procedural textures, dynamic obstacles, weather effects, achievements… · [source](https://github.com/Ayantika2006/voxel-flier)
-- [neon rush](https://vibecruiser.com/v/rohitpatil9121--neon-rush?ref=picks) - Race down a neon highway, switch lanes, jump and chain orbs for a multiplier. Five themed sectors each add a new hazard, and Endless mode… · [source](https://github.com/rohitpatil9121/neon-rush)
 
-[See all 56 on VibeCruiser →](https://vibecruiser.com/t/endless-runner?ref=picks)
+[See all 57 on VibeCruiser →](https://vibecruiser.com/t/endless-runner?ref=picks)
 
 ## HTML CSS JavaScript demos
 
@@ -2263,6 +2263,7 @@ Education projects teach something by letting you poke at it: maths you can drag
 
 A game engine is the code under a game: the loop, rendering, input, physics and sound that every level sits on.
 
+- [arterial](https://vibecruiser.com/v/gormaxon--arterial?ref=picks) - No WebAssembly engine — a 3D game engine for the browser with no WebAssembly in it at all (no WASM, WebAssembly-free, WebAssemblyless)… · [source](https://github.com/Gormaxon/arterial)
 - [m2d engine](https://vibecruiser.com/v/mert574--m2d-engine?ref=picks) - A lightweight 2D game engine built with Matter.js for physics and Canvas for rendering. Features a component-based architecture, scene… · [source](https://github.com/mert574/m2d-engine) ⭐ 4
 - [legacy games](https://vibecruiser.com/v/humancto--legacy-games?ref=picks) - 🎮 12 retro pixel art games built with pure vanilla JS &amp; HTML5 Canvas — 16,500+ lines, zero dependencies. Play now\\! · [source](https://github.com/humancto/legacy-games) ⭐ 5
 - [webgl engine bench](https://vibecruiser.com/v/killedbyapixel--webgl-engine-bench?ref=picks) - How many moving sprites and 3D cubes can a web engine draw while holding 60 fps, on your machine? The two scenes, shown here with 2,000… · [source](https://github.com/KilledByAPixel/webgl-engine-bench) ⭐ 2
@@ -2277,9 +2278,8 @@ A game engine is the code under a game: the loop, rendering, input, physics and 
 - [javascriptCanvasBouncyGame](https://vibecruiser.com/v/riteshporiya--javascriptcanvasbouncygame?ref=picks) - The Canvas Box Bounce Game is a fun and interactive HTML5 game where you control a bouncing square. Your goal is to click on the square as… · [source](https://github.com/riteshporiya/javascriptCanvasBouncyGame) ⭐ 4
 - [eva.js](https://vibecruiser.com/v/eva-engine--eva-js?ref=picks) - Eva.js is a front-end game engine specifically for creating interactive game projects. Easy to Use\: Eva.js provides out-of-box game… · [source](https://github.com/eva-engine/eva.js) ⭐ 1784
 - [coilclash snake game](https://vibecruiser.com/v/blacksmoke26--coilclash-snake-game?ref=picks) - A stunning snake arena with self-learning AI, 14 game modes, 300+ cosmetics, and a living world. A high-performance, feature-rich snake .io… · [source](https://github.com/blacksmoke26/coilclash-snake-game) ⭐ 1
-- [1681 engine](https://vibecruiser.com/v/phadec--1681-engine?ref=picks) - A 2D game engine for the web, built on PixiJS 8 and written in TypeScript, for games in any art style\: hand-drawn, HD, vector or pixel art… · [source](https://github.com/Phadec/1681-engine) ⭐ 1
 
-[See all 63 on VibeCruiser →](https://vibecruiser.com/t/game-engine?ref=picks)
+[See all 64 on VibeCruiser →](https://vibecruiser.com/t/game-engine?ref=picks)
 
 ## SVG demos
 
@@ -2301,7 +2301,7 @@ SVG is the web's vector image format: shapes described as maths, so they stay sh
 - [VirtualPlotter](https://vibecruiser.com/v/killedbyapixel--virtualplotter?ref=picks) - A 3D pen-plotter simulator in the browser. Drop in an SVG and watch a little AxiDraw-style machine draw it on virtual paper — arm sliding… · [source](https://github.com/KilledByAPixel/VirtualPlotter) ⭐ 18
 - [chladni simulator](https://vibecruiser.com/v/riccardociucci--chladni-simulator?ref=picks) - Interactive browser-based Chladni figure simulator. No installation, no dependencies — open the HTML file and it runs. Chladni figures are… · [source](https://github.com/riccardociucci/chladni-simulator)
 
-[See all 49 on VibeCruiser →](https://vibecruiser.com/t/svg?ref=picks)
+[See all 48 on VibeCruiser →](https://vibecruiser.com/t/svg?ref=picks)
 
 ## Artificial intelligence demos
 
@@ -2439,6 +2439,8 @@ Godot is a free, open source game engine, and it can export games to the web.
 
 Visualizations turn data or an idea into something you can see moving: sorting algorithms racing, physics laid bare, maps, graphs and simulations with sliders to play with.
 
+- [snake ai trainer](https://vibecruiser.com/v/morobang--snake-ai-trainer?ref=picks) - ▶ Play it live → A browser-based Snake game with a Q-learning AI agent that trains in real time. Watch it fail hundreds of times, then… · [source](https://github.com/Morobang/snake-ai-trainer)
+- [fractal explorer](https://vibecruiser.com/v/celaldrg--fractal-explorer?ref=picks) - Eight fractal families\: Mandelbrot, Julia (any c), Burning Ship, Tricorn and Multibrot z^d + c for d = 3 to 6. Progressive rendering on a… · [source](https://github.com/celaldrg/fractal-explorer)
 - [p atlas open source](https://vibecruiser.com/v/tstrangers--p-atlas-open-source?ref=picks) - 示例收藏含 378 张原始记录 → 339 个星点 · 501 个不同 P 值。连线表示共享 P 值，不是语义相似度、模型训练关系或效果保证。这里的 P 指 Midjourney 的 --p / --profile 个性化参数，不是统计学 p-value。 打开 。不需要… · [source](https://github.com/tstrangers/p-atlas-open-source)
 - [hilbert](https://vibecruiser.com/v/holynova--hilbert?ref=picks) - 一个简洁优雅的网页工具，让你轻松绘制和欣赏神奇的希尔伯特曲线。 干净直观的界面，左侧控制面板，右侧画布展示 实时绘制 - 选择1-8阶，瞬间生成精美曲线。 动画效果 - 看曲线一笔一笔画出来，超治愈。 个性化 - 自定义颜色、线条粗细，打造专属风格。 响应式设计… · [source](https://github.com/holynova/hilbert) ⭐ 1
 - [maze graph algorithms visualizer](https://vibecruiser.com/v/epitomezied--maze-graph-algorithms-visualizer?ref=picks) - This project is an interactive web application designed to visually demonstrate key graph algorithms on a maze grid. Users can dynamically… · [source](https://github.com/EpitomeZied/maze-graph-algorithms-visualizer)
@@ -2452,20 +2454,18 @@ Visualizations turn data or an idea into something you can see moving: sorting a
 - [threejs audio visualizer tree](https://vibecruiser.com/v/iondrimba--threejs-audio-visualizer-tree?ref=picks) - \:christmas\_tree\: Christmas Lab - Dancing Tree · [source](https://github.com/iondrimba/threejs-audio-visualizer-tree) ⭐ 11
 - [hoppierre](https://vibecruiser.com/v/queviva--hoppierre?ref=picks) - doppler shift visualizer · [source](https://github.com/queviva/hoppierre)
 - [physics visual](https://vibecruiser.com/v/martinheinz--physics-visual?ref=picks) - This project is a simple simulation/visualization of some physics concepts like gravity, collisions or acceleration in 2D. Live demo is… · [source](https://github.com/MartinHeinz/physics-visual) ⭐ 123
-- [Drbaph shapes](https://vibecruiser.com/v/saganaki22--drbaph-shapes?ref=picks) - An interactive web-based 3D shape visualization tool that renders various geometric shapes in a wireframe style with a dynamic matrix… · [source](https://github.com/Saganaki22/Drbaph_shapes) ⭐ 5
-- [crypto globe ui](https://vibecruiser.com/v/996688p--crypto-globe-ui?ref=picks) - 自托管的加密风 3D 视觉层\:程序化星空 + 数字地球 + 六边形玻璃币球。 A drop-in, self-hosted WebGL visual layer\: procedural starfield + a digital Earth wrapped in a… · [source](https://github.com/996688P/crypto-globe-ui) ⭐ 1
 
-[See all 50 on VibeCruiser →](https://vibecruiser.com/t/visualization?ref=picks)
+[See all 52 on VibeCruiser →](https://vibecruiser.com/t/visualization?ref=picks)
 
 ## Fractal demos
 
 Fractal demos let you zoom into shapes that never run out of detail: the Mandelbrot set, Julia sets, fractal trees and flames.
 
+- [fractal explorer](https://vibecruiser.com/v/celaldrg--fractal-explorer?ref=picks) - Eight fractal families\: Mandelbrot, Julia (any c), Burning Ship, Tricorn and Multibrot z^d + c for d = 3 to 6. Progressive rendering on a… · [source](https://github.com/celaldrg/fractal-explorer)
 - [JuliaJs](https://vibecruiser.com/v/donkarlssonsan--juliajs?ref=picks) - Drawing a Julia fractal with JavaScript on Canvas · [source](https://github.com/DonKarlssonSan/JuliaJs) ⭐ 3
 - [MandelbrotJs](https://vibecruiser.com/v/donkarlssonsan--mandelbrotjs?ref=picks) - Drawing a Mandelbrot with JavaScript on Canvas · [source](https://github.com/DonKarlssonSan/MandelbrotJs) ⭐ 2
 - [Fractals JS](https://vibecruiser.com/v/arnav-t--fractals-js?ref=picks) - Interactive fractal explorer made in JavaScript · [source](https://github.com/arnav-t/Fractals-JS)
 - [mandelbrot](https://vibecruiser.com/v/kargjonas--mandelbrot?ref=picks) - The "compressed" branch contains the compressed version. No support for touchscreens yet.. · [source](https://github.com/KargJonas/mandelbrot)
-- [fractalTree](https://vibecruiser.com/v/shyamalkirpan--fractaltree?ref=picks) - The fractal tree code generates stunning branching patterns using JavaScript and p5.js. By adjusting the sliders, users can interactively… · [source](https://github.com/shyamalkirpan/fractalTree)
 - [hilbert](https://vibecruiser.com/v/holynova--hilbert?ref=picks) - 一个简洁优雅的网页工具，让你轻松绘制和欣赏神奇的希尔伯特曲线。 干净直观的界面，左侧控制面板，右侧画布展示 实时绘制 - 选择1-8阶，瞬间生成精美曲线。 动画效果 - 看曲线一笔一笔画出来，超治愈。 个性化 - 自定义颜色、线条粗细，打造专属风格。 响应式设计… · [source](https://github.com/holynova/hilbert) ⭐ 1
 - [webgl fractal explorer](https://vibecruiser.com/v/co2212--webgl-fractal-explorer?ref=picks) - Simple WebGL based fractal viewer. Currently contains the Mandelbrot, Burning Ship, Multibrot, and Lyapunov fractals. Color pallete… · [source](https://github.com/co2212/webgl-fractal-explorer)
 - [eternal garden](https://vibecruiser.com/v/cartoonto626--eternal-garden?ref=picks) - A meditative fractal tree that sways with your device's tilt and changes colors with a touch. · [source](https://github.com/cartoonto626/eternal-garden)
@@ -2506,6 +2506,8 @@ Games and toys that keep working once loaded, even with no connection.
 First-person shooters you can play in a browser tab: arena shooters, retro corridor games, zombie survival and tech demos with a gun in view.
 
 - [meridian line](https://vibecruiser.com/v/albertoit-23--meridian-line?ref=picks) - A browser FPS set in a detailed 3D subway station, built with three.js. Hold the platform at Meridian St\: the first wave climbs up from the… · [source](https://github.com/AlbertoIT-23/meridian-line)
+- [Vigile](https://vibecruiser.com/v/jfoissac--vigile?ref=picks) - Shooter de survie en vue subjective, dans le navigateur — une chapelle romane, huit heures de nuit, douze assauts de morts, et L'Officiant… · [source](https://github.com/JFoissac/Vigile)
+- [arterial](https://vibecruiser.com/v/gormaxon--arterial?ref=picks) - No WebAssembly engine — a 3D game engine for the browser with no WebAssembly in it at all (no WASM, WebAssembly-free, WebAssemblyless)… · [source](https://github.com/Gormaxon/arterial)
 - [net fps](https://vibecruiser.com/v/ai-2070--net-fps?ref=picks) - An open-source first-person shooter that runs in the browser, with peer-to-peer multiplayer co-op over NET (\@net-mesh/browser 0.45.1) and… · [source](https://github.com/ai-2070/net-fps) ⭐ 2
 - [tetikmeydani](https://vibecruiser.com/v/josephuz--tetikmeydani?ref=picks) - EN\: A fast arena shooter in the browser (Three.js) with Juland's box characters\: double jump, sprint, rifles, shotgun, sword and rocket… · [source](https://github.com/JosephUz/tetikmeydani)
 - [FragRush](https://vibecruiser.com/v/erenciracioglu-dotcom--fragrush?ref=picks) - A fast, fully destructible arena shooter that runs in your browser. Jump in, no accounts, no setup\: fight bots in a neon-lit voxel arena… · [source](https://github.com/erenciracioglu-dotcom/FragRush)
@@ -2518,10 +2520,8 @@ First-person shooters you can play in a browser tab: arena shooters, retro corri
 - [stalsk 12](https://vibecruiser.com/v/aralimnga--stalsk-12?ref=picks) - A browser first-person shooter about time inversion\: one squad plays forward, the other backward through the same 150 seconds. Custom… · [source](https://github.com/AralimNGA/stalsk-12)
 - [drawfire](https://vibecruiser.com/v/totodiles-codes--drawfire?ref=picks) - An FPS where you draw the map. A browser game inspired by \@bonkbureau's "fps where the map is drawn by players" reel\: every match starts… · [source](https://github.com/totodiles-codes/drawfire)
 - [OperationPerimeter](https://vibecruiser.com/v/alexalesha--operationperimeter?ref=picks) - Fan-made game. Not affiliated with or endorsed by Valve. Maps, models, weapons and names are original and made by code. The interface is in… · [source](https://github.com/ALEXalesha/OperationPerimeter) ⭐ 1
-- [voxelrush](https://vibecruiser.com/v/galbenyosef--voxelrush?ref=picks) - Full mirror of VOXEL RUSH ( — "Free Browser FPS with Tanks, Helicopters &amp; Drones". chunk assets/index-Dp6GxvJu.js (2,965,190 B) carries the… · [source](https://github.com/galbenyosef/voxelrush)
-- [pastel nuketown](https://vibecruiser.com/v/luckeyfaraday--pastel-nuketown?ref=picks) - Pastel Nuketown is a free-to-play first-person shooter (FPS) game that runs entirely in the browser. Built with Three.js and vanilla… · [source](https://github.com/luckeyfaraday/pastel-nuketown) ⭐ 49
 
-[See all 46 on VibeCruiser →](https://vibecruiser.com/t/fps?ref=picks)
+[See all 48 on VibeCruiser →](https://vibecruiser.com/t/fps?ref=picks)
 
 ## React three fiber games
 
@@ -2637,6 +2637,7 @@ Python projects that run in a browser: games and toys written in Python and brou
 
 WebAssembly lets code written in C, C++, Rust, Go and other languages run in a browser at close to native speed.
 
+- [babeltro](https://vibecruiser.com/v/algotitanhq--babeltro?ref=picks) - How do you make a plasma in Perl? A tunnel in SQL? A fire in raw WebAssembly? Nine classic demoscene effects — starfield, tunnel, plasma… · [source](https://github.com/algotitanhq/babeltro) ⭐ 1
 - [invaders](https://vibecruiser.com/v/leodyversemilla07--invaders?ref=picks) - A browser-capable, retro 2D arcade shooter written in Rust with Macroquad. The project began as a terminal game and has been migrated to a… · [source](https://github.com/leodyversemilla07/invaders)
 - [mirage](https://vibecruiser.com/v/nulljosh--mirage?ref=picks) - A small desert platformer that runs inside Joshua Tree, a computer built from scratch. The spring on the mesa has gone quiet and the town… · [source](https://github.com/nulljosh/mirage)
 - [Minecraft Classic WASM](https://vibecruiser.com/v/moon-wasm--minecraft-classic-wasm?ref=picks) - Ce dépôt contient la décompilation complète de la première version de Minecraft (client.jar - Minecraft 0.0.11a / rd-132211) ainsi qu'un… · [source](https://github.com/moon-wasm/Minecraft-Classic-WASM)
@@ -2651,9 +2652,8 @@ WebAssembly lets code written in C, C++, Rust, Go and other languages run in a b
 - [rust wasm boids](https://vibecruiser.com/v/andydevs--rust-wasm-boids?ref=picks) - Generating Boids in Rust/WASM · [source](https://github.com/andydevs/rust-wasm-boids)
 - [rust space worm game wasm](https://vibecruiser.com/v/hvalfangst--rust-space-worm-game-wasm?ref=picks) - A classic Snake-inspired game written in Rust and compiled to WebAssembly for web browsers. The player controls a space worm that grows… · [source](https://github.com/hvalfangst/rust-space-worm-game-wasm) ⭐ 2
 - [under garden](https://vibecruiser.com/v/selmetwa--under-garden?ref=picks) - Under Garden is a browser game built using Rust/WASM/GLSL/HTML/CSS/JS. · [source](https://github.com/selmetwa/under-garden) ⭐ 2
-- [shut](https://vibecruiser.com/v/mstanimirovic--shut?ref=picks) - A fast-paced arena shooter written in Rust with Macroquad. Survive waves of enemies, manage your ammo, and collect pickups to stay alive… · [source](https://github.com/mstanimirovic/shut)
 
-[See all 120 on VibeCruiser →](https://vibecruiser.com/t/webassembly?ref=picks)
+[See all 121 on VibeCruiser →](https://vibecruiser.com/t/webassembly?ref=picks)
 
 ## 3D graphics demos
 
@@ -2856,6 +2856,7 @@ The dino game is the one Chrome shows when the internet is down: a little dinosa
 Piano and synth demos turn a browser tab into an instrument: a keyboard you can play from your own keys or the mouse, drum machines, step sequencers and synthesizers with knobs to turn.
 
 - [StrumPad](https://vibecruiser.com/v/tagtthespellcaster--strumpad?ref=picks) - StrumPad v1.5.5 is a browser-based, vintage-style chord machine and analog-modeled synthesizer designed for playing chords, exploring… · [source](https://github.com/TagtTheSpellcaster/StrumPad)
+- [chaos arena](https://vibecruiser.com/v/prathampatel79--chaos-arena?ref=picks) - A fast-paced, browser-based top-down 2D multiplayer arcade game built with HTML5 Canvas, Node.js, Express, and Socket.IO. Designed for 4–10… · [source](https://github.com/prathampatel79/chaos-arena)
 - [the realm of yaniv ron](https://vibecruiser.com/v/yanivr78--the-realm-of-yaniv-ron?ref=picks) - Welcome to The Realm of Yaniv Ron, an interactive creative engineering showcase combining custom 60fps HTML5 3D projection, polyphonic Web… · [source](https://github.com/yanivr78/the-realm-of-yaniv-ron)
 - [cadenza](https://vibecruiser.com/v/appleweiping--cadenza?ref=picks) - A Piano Tiles-style rhythm game for the browser\: tap the black tiles as they fall, and each tap plays the next note of a public-domain… · [source](https://github.com/appleweiping/cadenza)
 - [2048 NEON](https://vibecruiser.com/v/harinarayanan2005--2048-neon?ref=picks) - An immersive, sensory-rich reimagining of the classic 2048 puzzle game. Built from the ground up with vanilla web technologies, this… · [source](https://github.com/harinarayanan2005/2048_NEON)
@@ -2869,15 +2870,15 @@ Piano and synth demos turn a browser tab into an instrument: a keyboard you can 
 - [piano cat](https://vibecruiser.com/v/oddurs--piano-cat?ref=picks) - Pick a classical masterpiece. Mime it at your webcam. Every stroke of your hands plays the next beat — so if you slow down, the music slows… · [source](https://github.com/oddurs/piano-cat)
 - [MIDI creator](https://vibecruiser.com/v/patatanl--midi-creator?ref=picks) - A piano roll in your browser for writing music, playing it back and exporting it as MIDI. It can also turn falling-notes piano videos into… · [source](https://github.com/PatataNL/MIDI-creator)
 - [worry to melody](https://vibecruiser.com/v/chenxiyubp--worry-to-melody?ref=picks) - 一句心事 · 16 小节 · 30 多秒的情绪旅程 ▶ 在线体验 · 下载体验包 · 声音设计 五种情绪的总时长为 34–39 秒，包含结尾延音与混响。强度 1–2 保持旋律与低音；更高强度逐层加入和声、弦乐、琶音与点缀。 本地使用：下载 Release 中的… · [source](https://github.com/chenxiyubp/worry-to-melody)
-- [TinyMusic](https://vibecruiser.com/v/kevincennis--tinymusic?ref=picks) - A simple, lightweight music synth/sequencer in JavaScript using the Web Audio API. Here's a quick, hideous demo. You can also see (a… · [source](https://github.com/kevincennis/TinyMusic) ⭐ 361
 
-[See all 22 on VibeCruiser →](https://vibecruiser.com/t/piano?ref=picks)
+[See all 23 on VibeCruiser →](https://vibecruiser.com/t/piano?ref=picks)
 
 ## Fluid simulations
 
 Fluid demos simulate water, ink and smoke in real time: drag through them and the colours swirl, curl and fade like dye dropped into a glass.
 
 - [WebGL Particle Sim](https://vibecruiser.com/v/xerogravitas--webgl-particle-sim?ref=picks) - (Mostly) vibe-coded interactive particle sim · [source](https://github.com/XeroGravitas/WebGL-Particle-Sim)
+- [voice orb](https://vibecruiser.com/v/imuvrays1--voice-orb?ref=picks) - by UV · MIT licence · github.com/imuvrays1/voice-orb Try it live → imuvrays1.github.io/voice-orb An audio-reactive orb for voice… · [source](https://github.com/imuvrays1/voice-orb)
 - [neon fluid](https://vibecruiser.com/v/casaisdev--neon-fluid?ref=picks) - A browser-based fluid platformer where a glowing liquid character navigates 100 levels driven by real incompressible fluid dynamics. The… · [source](https://github.com/casaisdev/neon-fluid) ⭐ 1
 - [ink](https://vibecruiser.com/v/masafykun--ink?ref=picks) - カーソルで暗い水面をかき混ぜ、色とりどりのインクを渦巻かせるフルスクリーン流体。 INK は WebGL2 上で動くフルスクリーンのリアクティブ GPU 流体です。カーソルを動かすと、暗い水のプールに色彩のリボンが渦を描いて広がります。ライブラリに頼らず、生の WebGL2 と… · [source](https://github.com/masafykun/ink) ⭐ 1
 - [aurora](https://vibecruiser.com/v/chop-prog--aurora?ref=picks) - Real-time fluid dynamics in the browser, solved on the GPU with raw WebGL2. No libraries, no build step, and under 1,000 lines of… · [source](https://github.com/chop-prog/aurora)
@@ -2891,9 +2892,8 @@ Fluid demos simulate water, ink and smoke in real time: drag through them and th
 - [nape js](https://vibecruiser.com/v/newkrok--nape-js?ref=picks) - Fully typed 2D physics engine — a modern TypeScript rewrite of the Nape Haxe physics engine. This is the actively maintained successor to… · [source](https://github.com/NewKrok/nape-js) ⭐ 83
 - [webcam ink](https://vibecruiser.com/v/robinsadeghpour--webcam-ink?ref=picks) - Ink runs from your fingertips into water, over your own webcam picture, with the hand tracking drawn on top. \*\*Try it\: (allow the camera… · [source](https://github.com/robinsadeghpour/webcam-ink)
 - [gad box](https://vibecruiser.com/v/kono1357--gad-box?ref=picks) - 没有后端、没有付费 API、没有联网多人。构建产物是纯静态文件，直接部署在 GitHub Pages 上。 刻意不追求照片级写实，也不声称拟真现实 —— 目标是可运行、可调试、可扩展。 截图待补，而且这一批也没有补上：这些图需要人用真机（或桌面浏览器）打开线上站点手动截。… · [source](https://github.com/Kono1357/gad-box)
-- [block breaker](https://vibecruiser.com/v/deanout--block-breaker?ref=picks) - The official repository for the block breaker game. · [source](https://github.com/Deanout/block-breaker) ⭐ 5
 
-[See all 31 on VibeCruiser →](https://vibecruiser.com/t/fluid-sim?ref=picks)
+[See all 32 on VibeCruiser →](https://vibecruiser.com/t/fluid-sim?ref=picks)
 
 ## Contributing
 
